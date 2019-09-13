@@ -20,10 +20,11 @@ Ajout:
 
 Correction:
 - Correction des 6 entré "STRINGS.UI.PURCHASEPACKSCREEN.FILTER" (les filtre du magasin)
-
+```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
 | ----------------------------- | ------------ | ----- | ---------- |
 | Traduit                       | 4718 (26 %)  | 17532 | 104479     |
 | Non traduit                   | 13210(74 %)  | 72655 | 389261     |
 | Total                         | 17928(100 %) | 88296 | 477995     |
+```
