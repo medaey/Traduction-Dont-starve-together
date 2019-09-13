@@ -9,7 +9,9 @@ Ajout:
 ### Mise a jour 2.9
 Ajout:
 
+- 324 Entré Traduite
 - 450 Nouvelle entré de traduction
+
 
 ```lua
 Statistique:
