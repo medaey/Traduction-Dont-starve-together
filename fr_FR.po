@@ -65467,7 +65467,7 @@ msgstr ""
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.73
 msgid "Inspect Self"
-msgstr "Inspecter soi-même"
+msgstr "s'inspecter"
 
 #: STRINGS.UI.CONTROLSSCREEN.CONTROLS.8
 msgid "Move Left"
@@ -67346,16 +67346,12 @@ msgid "Inspect"
 msgstr "Inspecter"
 
 #: STRINGS.UI.HUD.MAP
-msgid "Show Map\n"
-"(TAB)"
+msgid "Show Map\n(TAB)"
 msgstr "Afficher la carte\n"
-"(TAB)"
 
 #: STRINGS.UI.HUD.PAUSE
-msgid "Pause\n"
-"(ESC)"
+msgid "Pause\n(ESC)"
 msgstr "Pause\n"
-"(ECH)"
 
 #: STRINGS.UI.HUD.PUT
 msgid "Put"
@@ -67378,16 +67374,12 @@ msgid "was resurrected by"
 msgstr "a été ressuscité(e) par "
 
 #: STRINGS.UI.HUD.ROTLEFT
-msgid "Rotate Left\n"
-"(Q)"
+msgid "Rotate Left\n(Q)"
 msgstr "Pivoter à gauche\n"
-"(Q)"
 
 #: STRINGS.UI.HUD.ROTRIGHT
-msgid "Rotate Right\n"
-"(E)"
+msgid "Rotate Right\n(E)"
 msgstr "Pivoter à droite\n"
-"(E)"
 
 #: STRINGS.UI.HUD.SAVING
 msgid "SAVING..."
@@ -71983,11 +71975,11 @@ msgstr "Réinitialisation dans: %d"
 
 #: STRINGS.UI.WORLDRESETDIALOG.SURVIVED_MSG
 msgid "Survived %d Days"
-msgstr "Survécu %d jour. "
+msgstr "Survécu %d jour"
 
 #: STRINGS.UI.WORLDRESETDIALOG.SURVIVED_MSG_1_DAY
 msgid "Survived %d Day"
-msgstr "Survécu %d jour. "
+msgstr "Survécu %d jour"
 
 #: STRINGS.UI.WORLDRESETDIALOG.TITLE
 msgid "Day %d: Everyone is dead"
