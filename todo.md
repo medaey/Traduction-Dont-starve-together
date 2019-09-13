@@ -1,17 +1,15 @@
 [TOC]
 
-## Todolist Version 2.9 Workshop-1462877774
+## Todolist Version 3.0 Workshop-1462877774
 ```lua
 Ajout:
-[x] Fusion du fichier fr_FR.po avec DS_chs.po
+[ ] Finir de traduire tout les entré "A réviser"
 ```
 ---
-### Mise a jour 2.9
+### Mise a jour 3.0
 Ajout:
 
-- 324 Entré Traduite
-- 450 Nouvelle entré de traduction
-
+-
 
 ```lua
 Statistique:

@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "French Language [DST]"
-version = "2.9"
+version = "3.0"
 description = "Une traduction française du jeu Don't Starve Together\nainsi que certain mod.Les mods traduits en plus du jeu\nsont listé si dessous.\n\nMods traduit:\n- Wolf [DST]\n- Chilly willy\n- Wilbur, The Pirate\n- San(Princess Mononoke)\n\nPS : Ce mod a pour base la traduction de EALILY & Orka\nun grand merci a eux.\nMedaey\n\nVersion: "..version
 author = "Medaey"
 
