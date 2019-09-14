@@ -3,7 +3,7 @@
 <p align="center">Traduction en Français pour le jeu Don't Starve Together.</p>
 <p align="center">
 <a href="https://github.com/leghort/Traduction-Dont-starve-together/releases"><img src="https://img.shields.io/github/v/release/leghort/Traduction-Dont-starve-together"></a>
-<a href="https://github.com/leghort/Traduction-Dont-starve-together/commits/master"><img src="https://img.shields.io/badge/traduction-26%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Dont-starve-together/commits/master"><img src="https://img.shields.io/badge/traduction-28%25-orange"></a>
 </p>
 
 ## Installation:
