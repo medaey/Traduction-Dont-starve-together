@@ -70129,3 +70129,5303 @@ msgstr "Je n'ai jamais vu ça dans ce jeu !"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.AKUAKU
 msgid "I could have sworn I saw this tiki mask from another game."
 msgstr "J'aurais juré avoir vu ce masque dans un autre jeu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL
+#, fuzzy
+msgid "That's no party poltergeist!"
+msgstr "Ce n'est pas un poltergeist du parti!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC
+#, fuzzy
+msgid "Pretty petals!"
+msgstr "De jolis pétales!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND
+#, fuzzy
+msgid "Scary blossoms!"
+msgstr "Fleurs effrayantes!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET
+#, fuzzy
+msgid "Put it down! Put it down!"
+msgstr "Posez le! Posez le!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LONG
+#, fuzzy
+msgid "I think it's listening to us!"
+msgstr "Je pense que c'est nous écouter!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
+#, fuzzy
+msgid "It's getting creepy!"
+msgstr "Ça commence à être effrayant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.SOON
+#, fuzzy
+msgid "It gives us itches and skritches up our spine!"
+msgstr "Il nous donne des démangeaisons et des égratignures dans le dos!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACCOMPLISHMENT_SHRINE
+#, fuzzy
+msgid "It gives me a goal in life."
+msgstr "Cela me donne un but dans la vie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN_COOKED
+#, fuzzy
+msgid "Roasted on an open fire."
+msgstr "Rôti sur un feu ouvert."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN_SAPLING
+#, fuzzy
+msgid "May you have a long and free life."
+msgstr "Puissiez-vous avoir une vie longue et libre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ADVENTURE_PORTAL
+#, fuzzy
+msgid "Something wicked this way comes."
+msgstr "Quelque chose mauvaise cette manière vient."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.AMULET
+#, fuzzy
+msgid "It's a fine necklace, I suppose."
+msgstr "C'est un beau collier, je suppose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ALTAR
+#, fuzzy
+msgid "Old and full of mysteries."
+msgstr "Vieux et plein de mystères."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ALTAR_BROKEN
+#, fuzzy
+msgid "It's been busted up."
+msgstr "Il a été éclaté."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_STATUE
+#, fuzzy
+msgid "It's throbbing strangely."
+msgstr "Il palpite étrangement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANIMAL_TRACK
+#, fuzzy
+msgid "Whatever it is, it travels single file."
+msgstr "Quoi qu'il en soit, il voyage seul fichier."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_SANITY
+#, fuzzy
+msgid "It's a bit uneasy wearing this, but so effective."
+msgstr "C'est un peu gênant de porter ça, mais tellement efficace."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORDRAGONFLY
+#, fuzzy
+msgid "Another creature casing."
+msgstr "Une autre enveloppe de créature."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORGRASS
+#, fuzzy
+msgid "It just feels like more hair."
+msgstr "On a l'impression d'avoir plus de cheveux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORMARBLE
+#, fuzzy
+msgid "Marbelous protection!"
+msgstr "Protection Marbelous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORRUINS
+#, fuzzy
+msgid "Nice and lightweight."
+msgstr "Nice et léger."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORSLURPER
+#, fuzzy
+msgid "Squeeze our tummy tight!"
+msgstr "Squeeze notre ventre serré!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORSNURTLESHELL
+#, fuzzy
+msgid "It didn't protect the last guy."
+msgstr "Cela n'a pas protégé le dernier gars."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD
+#, fuzzy
+msgid "Wood you like to fight?"
+msgstr "Wood tu aimes combattre?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.BURNT
+#, fuzzy
+msgid "The lettering burnt off."
+msgstr "Les lettres ont brûlé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.GENERIC
+#, fuzzy
+msgid "We could write on that if only we had a pen!"
+msgstr "Nous pourrions écrire à ce sujet si seulement nous avions un stylo!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.UNWRITTEN
+#, fuzzy
+msgid "Ooooh, what should we say?"
+msgstr "Ooooh, que devrions-nous dire?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.BURNT
+#, fuzzy
+msgid "The lettering burnt off."
+msgstr "Les lettres ont brûlé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.GENERIC
+#, fuzzy
+msgid "We could write on that if only we had a pen!"
+msgstr "Nous pourrions écrire à ce sujet si seulement nous avions un stylo!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.UNWRITTEN
+#, fuzzy
+msgid "Ooooh, what should we say?"
+msgstr "Ooooh, que devrions-nous dire?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.GENERIC
+#, fuzzy
+msgid "Funk to funky."
+msgstr "Funk à funky."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
+#, fuzzy
+msgid "The flower didn't make it."
+msgstr "La fleur n'a pas survécu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_THINGIE
+#, fuzzy
+msgid "Whatever it was, it's gone back to the earth."
+msgstr "Quoi que ce soit, il est retourné à la terre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.AXE
+#, fuzzy
+msgid "Chop and chop."
+msgstr "Hacher et hacher."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.GENERIC
+#, fuzzy
+msgid "Get busy, child."
+msgstr "Soyez occupé, mon enfant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.SLEEPING
+#, fuzzy
+msgid "That's the opposite of busy."
+msgstr "C'est le contraire de occupé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BACKPACK
+#, fuzzy
+msgid "It's like a second abdomen we can store things in."
+msgstr "C'est comme un deuxième abdomen dans lequel on peut stocker des choses."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BACONEGGS
+#, fuzzy
+msgid "I'd rather have sugary cereal. Oh well."
+msgstr "Je préfère avoir des céréales sucrées. Tant pis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOON
+#, fuzzy
+msgid "Balloon animals! Balloon animals!!"
+msgstr "Animaux en ballon! Animaux de ballon !!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOONS_EMPTY
+#, fuzzy
+msgid "Is there going to be a party?!"
+msgstr "Est-ce qu'il va y avoir une fête?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BANDAGE
+#, fuzzy
+msgid "Bandages for booboos."
+msgstr "Bandages pour les booboos."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BASALT
+#, fuzzy
+msgid "Impenetrable."
+msgstr "Impénétrable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BAT
+#, fuzzy
+msgid "Screechy mean guy!"
+msgstr "Screechy signifie mec!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATBAT
+#, fuzzy
+msgid "Flap that bat like you were born to do it."
+msgstr "Flap qui bat comme vous êtes né pour le faire."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATCAVE
+#, fuzzy
+msgid "Oooh they're hiding in there!"
+msgstr "Oooh ils se cachent dedans!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATWING
+#, fuzzy
+msgid "This thing drives me batty."
+msgstr "Cette chose me rend fou."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATWING_COOKED
+#, fuzzy
+msgid "Tastes like chicken."
+msgstr "Les goûts comme le poulet."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARDHAIR
+#, fuzzy
+msgid "In another life, I could've grown this."
+msgstr "Dans une autre vie, j'aurais pu développer cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGER
+#, fuzzy
+msgid "Run for the hills!"
+msgstr "Courir pour les collines!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGER_FUR
+#, fuzzy
+msgid "It's so thick!"
+msgstr "C'est tellement épais!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGERVEST
+#, fuzzy
+msgid "We'll be the hairiest spider ever."
+msgstr "Nous serons l'araignée la plus poilue jamais."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_FURRY
+#, fuzzy
+msgid "I miss being able to properly feel a nice bedroll."
+msgstr "Il me manque de pouvoir sentir correctement un bon couvre-lit."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_STRAW
+#, fuzzy
+msgid "Musty but relaxing."
+msgstr "Moisi mais relaxant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEE.GENERIC
+#, fuzzy
+msgid "Always Be Pollinating."
+msgstr "Toujours polliniser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEE.HELD
+#, fuzzy
+msgid "Ours now!"
+msgstr "À nous maintenant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.BURNT
+#, fuzzy
+msgid "The site of The Great Honey Fire."
+msgstr "Le site du grand feu de miel."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.GENERIC
+#, fuzzy
+msgid "It's a box with bees in it."
+msgstr "C'est une boîte avec des abeilles."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.NOHONEY
+#, fuzzy
+msgid "There's no honey inside."
+msgstr "Il n'y a pas de miel à l'intérieur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.SOMEHONEY
+#, fuzzy
+msgid "Work faster, bees!"
+msgstr "Travaillez plus vite, les abeilles!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DOMESTICATED
+#, fuzzy
+msgid "This one likes us!"
+msgstr "Celui-ci nous aime!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.FOLLOWER
+#, fuzzy
+msgid "He seems to want to stick around."
+msgstr "Il semble vouloir rester."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC
+#, fuzzy
+msgid "Big big beefalo!"
+msgstr "Gros gros boeuf!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.ORNERY
+#, fuzzy
+msgid "We're kind of scared of this one."
+msgstr "Nous avons un peu peur de celui-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.PUDGY
+#, fuzzy
+msgid "We like to cuddle this one!"
+msgstr "Nous aimons câliner celui-ci!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.RIDER
+#, fuzzy
+msgid "This one looks fast."
+msgstr "Celui-ci a l'air rapide."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.SLEEPING
+#, fuzzy
+msgid "Slumber deep, beefalo."
+msgstr "Sommeil profond, beefalo."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOHAT
+#, fuzzy
+msgid "The wearer will blend in perfectly."
+msgstr "Le porteur se fondra parfaitement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOWOOL
+#, fuzzy
+msgid "Thick fur."
+msgstr "Fourrure épaisse."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEGUARD
+#, fuzzy
+msgid "So fluffy but so mean!!"
+msgstr "Si moelleux mais si méchant !!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEHAT
+#, fuzzy
+msgid "It's a face fortress!"
+msgstr "C'est une forteresse de visage!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEHIVE
+#, fuzzy
+msgid "It's a hive of activity."
+msgstr "C'est une ruche d'activité."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEMINE
+#, fuzzy
+msgid "Would you bee mine?"
+msgstr "Veux-tu être mien?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEMINE_MAXWELL
+#, fuzzy
+msgid "I just can't mosquito you."
+msgstr "Je ne peux tout simplement pas te moustiquer."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEEN
+#, fuzzy
+msgid "Bees aren't our friends!"
+msgstr "Les abeilles ne sont pas nos amis!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVE.GENERIC
+#, fuzzy
+msgid "Not web. We can't walk on it."
+msgstr "Pas le web. Nous ne pouvons pas marcher dessus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVE.GROWING
+#, fuzzy
+msgid "I wonder what the bees are making!"
+msgstr "Je me demande ce que font les abeilles!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVEGROWN
+#, fuzzy
+msgid "Oh, bother!"
+msgstr "Oh frere!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEESWAX
+#, fuzzy
+msgid "This stuff gives me hives."
+msgstr "Ce truc me donne de l'urticaire."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BELL
+#, fuzzy
+msgid "Exactly the right amount of bell."
+msgstr "Exactement la bonne quantité de cloche."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_ACTIVE
+#, fuzzy
+msgid "That teddy bear is moving!"
+msgstr "Cet ours en peluche bouge!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.BROKEN
+#, fuzzy
+msgid "It's all busted up."
+msgstr "Tout est foutu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.GENERIC
+#, fuzzy
+msgid "A teddy bear."
+msgstr "Un ours en peluche."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_COOKED
+#, fuzzy
+msgid "Warm juice sacks."
+msgstr "Des sacs de jus chauds."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_JUICY_COOKED
+#, fuzzy
+msgid "They're so filling!"
+msgstr "Ils sont si copieux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.BARREN
+#, fuzzy
+msgid "It's run out of plant food."
+msgstr "Il est à court de nourriture pour plantes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.BURNING
+#, fuzzy
+msgid "Uh-oh! Burnies!"
+msgstr "Uh-oh! Burnies!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.DISEASED
+#, fuzzy
+msgid "Maybe it needs some chicken soup?"
+msgstr "Peut-être qu'il a besoin d'une soupe au poulet?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.DISEASING
+#, fuzzy
+msgid "Are you okay, lil bush?"
+msgstr "Est-ce que ça va, Lil Bush?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.WITHERED
+#, fuzzy
+msgid "Heat too intense for ya?"
+msgstr "Chaleur trop intense pour toi?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.BARREN
+#, fuzzy
+msgid "It needs some poops!"
+msgstr "Il a besoin de caca!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.BURNING
+#, fuzzy
+msgid "Uh-oh! Burnies!"
+msgstr "Uh-oh! Burnies!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.DISEASED
+#, fuzzy
+msgid "Maybe it needs some chicken soup?"
+msgstr "Peut-être qu'il a besoin d'une soupe au poulet?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.DISEASING
+#, fuzzy
+msgid "Are you okay, lil bush?"
+msgstr "Est-ce que ça va, Lil Bush?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.GENERIC
+#, fuzzy
+msgid "Those berries look so juicy!"
+msgstr "Ces baies ont l'air si juteux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.PICKED
+#, fuzzy
+msgid "It's taking a nap."
+msgstr "Il fait une sieste."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.WITHERED
+#, fuzzy
+msgid "Aww, are you sad?"
+msgstr "Aww, es-tu triste?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRCHNUTDRAKE
+#, fuzzy
+msgid "So that's what's inside!"
+msgstr "C'est donc ce qu'il y a à l'intérieur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_EGG
+#, fuzzy
+msgid "A hard shelled egg."
+msgstr "Un oeuf à la coque dure."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_EGG_COOKED
+#, fuzzy
+msgid "Fried just like mum did."
+msgstr "Fried juste comme maman l'a fait."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.DEAD
+#, fuzzy
+msgid "We weren't very good wardens."
+msgstr "Nous n'étions pas de très bons gardiens."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.GENERIC
+#, fuzzy
+msgid "It's the jail."
+msgstr "C'est la prison."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.HUNGRY
+#, fuzzy
+msgid "He looks hungry."
+msgstr "Il a l'air affamé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.OCCUPIED
+#, fuzzy
+msgid "Jailbird."
+msgstr "Récidiviste."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.SKELETON
+#, fuzzy
+msgid "Eww."
+msgstr "Eww."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.SLEEPING
+#, fuzzy
+msgid "You have to sleep to survive in the jail."
+msgstr "Vous devez dormir pour survivre dans la prison."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.STARVING
+#, fuzzy
+msgid "We need to feed him."
+msgstr "Nous devons le nourrir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDTRAP
+#, fuzzy
+msgid "Come to our web trap, birds!"
+msgstr "Venez à notre piège Web, les oiseaux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP
+#, fuzzy
+msgid "You don't play by the chess rules grandpa taught me."
+msgstr "Tu ne joues pas selon les règles des échecs, m'a appris grand-père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_CHARGE_HIT
+#, fuzzy
+msgid "Owie!"
+msgstr "Owie!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_NIGHTMARE
+#, fuzzy
+msgid "Bishop of bad dreams."
+msgstr "Évêque de mauvais rêves."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_FIRE
+#, fuzzy
+msgid "One step above blowing hot air."
+msgstr "Une étape au-dessus soufflant de l'air chaud."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_PIPE
+#, fuzzy
+msgid "Same as blowing bubbles."
+msgstr "Même que faire des bulles."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_SLEEP
+#, fuzzy
+msgid "Airborne sleeping agent."
+msgstr "Agent de sommeil aéroporté."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_YELLOW
+#, fuzzy
+msgid "It's a shock to the system."
+msgstr "C'est un choc pour le système."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_CAP
+#, fuzzy
+msgid "You'd have to be crazy..."
+msgstr "Tu devrais être fou ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_CAP_COOKED
+#, fuzzy
+msgid "Good thing we're feeling healthy."
+msgstr "Heureusement que nous nous sentons en bonne santé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.GENERIC
+#, fuzzy
+msgid "Vroom vroom, mushroom."
+msgstr "Vroom vroom, champignon."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.PICKED
+#, fuzzy
+msgid "Maybe it will regrow."
+msgstr "Peut-être que ça va repousser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEAMULET
+#, fuzzy
+msgid "I guess it's nice."
+msgstr "Je suppose que c'est bien."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEGEM
+#, fuzzy
+msgid "Glittering and cool."
+msgstr "Scintillant et cool."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEMOONEYE
+#, fuzzy
+msgid "Hey! Did anyone lose an eye?"
+msgstr "Hey! Quelqu'un a-t-il perdu un oeil?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEPRINT.RARE
+#, fuzzy
+msgid "This one feels special."
+msgstr "Celui-ci se sent spécial."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOARDS
+#, fuzzy
+msgid "Logs, but flat."
+msgstr "Des bûches, mais à plat."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT
+#, fuzzy
+msgid "All these legs, but we don't row."
+msgstr "Toutes ces jambes, mais nous ne ramons pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD
+#, fuzzy
+msgid "Boney bits."
+msgstr "Boney bits."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESTEW
+#, fuzzy
+msgid "Smells like Sunday supper."
+msgstr "Ça sent le souper du dimanche."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_BIRDS
+#, fuzzy
+msgid "This one has pictures!"
+msgstr "Celui-ci a des photos!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_BRIMSTONE
+#, fuzzy
+msgid "We don't like how that one ends!"
+msgstr "Nous n'aimons pas comment ça se termine!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_GARDENING
+#, fuzzy
+msgid "Why should we read about flowers when we can pick them?"
+msgstr "Pourquoi devrions-nous lire sur les fleurs quand nous pouvons les cueillir?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_TENTACLES
+#, fuzzy
+msgid "Why are the pages all slimy?"
+msgstr "Pourquoi les pages sont-elles toutes gluantes?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOMERANG
+#, fuzzy
+msgid "Boomerangarangarang!"
+msgstr "Boomerangarangarang!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BRUSH
+#, fuzzy
+msgid "It's more scratchy than anything."
+msgstr "C'est plus rugueux que tout."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUGNET
+#, fuzzy
+msgid "I'm not a bug! We're an arachnid!"
+msgstr "Je ne suis pas un bug! Nous sommes un arachnide!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNDLE
+#, fuzzy
+msgid "That's one of my favorite things!"
+msgstr "C'est l'une de mes choses préférées!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNDLEWRAP
+#, fuzzy
+msgid "Let's cocoon something for later!"
+msgstr "Cocoon quelque chose pour plus tard!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNNYMAN
+#, fuzzy
+msgid "Hop along, lil bunny."
+msgstr "Saute un peu, mon lapin."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BURNT_MARSH_BUSH
+#, fuzzy
+msgid "All burned up."
+msgstr "Tout a brûlé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUSHHAT
+#, fuzzy
+msgid "For looking bushier!"
+msgstr "Pour avoir l'air plus touffu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTER
+#, fuzzy
+msgid "Butter is better."
+msgstr "Le beurre est meilleur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLY.GENERIC
+#, fuzzy
+msgid "Look at it, flitting around happily."
+msgstr "Regardez-le, en se déplaçant joyeusement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLY.HELD
+#, fuzzy
+msgid "Not so happy now, are we?"
+msgstr "Pas si heureux maintenant, n'est-ce pas?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLYMUFFIN
+#, fuzzy
+msgid "Do you know the muffin spider?"
+msgstr "Connaissez-vous l'araignée muffin?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLYWINGS
+#, fuzzy
+msgid "Pick our teeth with butterfly bones."
+msgstr "Choisissez nos dents avec des os de papillon."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUZZARD
+#, fuzzy
+msgid "You won't find any carrion here. We're stuck like this."
+msgstr "Vous ne trouverez pas de charogne ici. Nous sommes coincés comme ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.GENERIC
+#, fuzzy
+msgid "It's got more things coming out of it than we do."
+msgstr "Il y a plus de choses qui en sortent que nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.PICKED
+#, fuzzy
+msgid "It's got no meat left in it."
+msgstr "Il n'y a plus de viande dedans."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_FLOWER
+#, fuzzy
+msgid "This part is nice."
+msgstr "Cette partie est sympa."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_MEAT
+#, fuzzy
+msgid "Haven't had enough, huh?"
+msgstr "J'en ai pas assez, hein?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_MEAT_COOKED
+#, fuzzy
+msgid "Take that, pokey things!"
+msgstr "Prends ça, des choses pokey!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.EMBERS
+#, fuzzy
+msgid "We should put something on the fire before it goes out."
+msgstr "Nous devrions mettre quelque chose sur le feu avant qu'il ne s'éteigne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.GENERIC
+#, fuzzy
+msgid "Sure beats the cold. And darkness."
+msgstr "Bien sûr bat le froid. Et les ténèbres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.NORMAL
+#, fuzzy
+msgid "Nice and warm."
+msgstr "Confortable et chaud."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.OUT
+#, fuzzy
+msgid "Well, that's done."
+msgstr "Eh bien, c'est fait."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY.HELD
+#, fuzzy
+msgid "Caught you!"
+msgstr "Je t'ai eu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY_POISONED
+#, fuzzy
+msgid "Uh, are you feeling okay?"
+msgstr "Euh, vous vous sentez bien?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANDYBAG
+#, fuzzy
+msgid "Treats, treats, treats!"
+msgstr "Friandises, friandises, friandises!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANE
+#, fuzzy
+msgid "One more point of contact couldn't slow us down."
+msgstr "Un autre point de contact ne pourrait pas nous ralentir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_COOKED
+#, fuzzy
+msgid "Easier for us both."
+msgstr "Plus facile pour nous deux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.BURNING
+#, fuzzy
+msgid "Ohh no, uh, oh no!"
+msgstr "Oh non, euh, oh non!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.GENERIC
+#, fuzzy
+msgid "Heh heh. I was never allowed in father's study."
+msgstr "Hé hé. Je n'ai jamais été autorisé dans le bureau du père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOON
+#, fuzzy
+msgid "A bit more feral than grandpa's cat."
+msgstr "Un peu plus sauvage que le chat de grand-père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONDEN.EMPTY
+#, fuzzy
+msgid "The nine lives thing is true!"
+msgstr "Le truc des neuf vies est vrai!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONDEN.GENERIC
+#, fuzzy
+msgid "Trunk house."
+msgstr "Maison de coffre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONHAT
+#, fuzzy
+msgid "Hat of a cat."
+msgstr "Chapeau de chat"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA
+#, fuzzy
+msgid "A bundle of bananas."
+msgstr "Un paquet de bananes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_BURNT
+#, fuzzy
+msgid "Oopsie doodle."
+msgstr "Oopsie doodle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_COOKED
+#, fuzzy
+msgid "Hot mush."
+msgstr "Hot Mush."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_TREE
+#, fuzzy
+msgid "It's a tropical cave tree, of course."
+msgstr "C'est un arbre troglodyte tropical, bien sûr."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.FULL
+#, fuzzy
+msgid "We'll explore when everyone else has had their turn!"
+msgstr "Nous explorerons quand tous les autres auront eu leur tour!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
+#, fuzzy
+msgid "We'd rather visit our spider friends on the surface."
+msgstr "Nous préférerions rendre visite à nos amis araignées à la surface."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
+#, fuzzy
+msgid "I can hear some spider friends down there."
+msgstr "Je peux entendre des amis araignées là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.FULL
+#, fuzzy
+msgid "They don't have enough space for us!"
+msgstr "Ils n'ont pas assez d'espace pour nous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.GENERIC
+#, fuzzy
+msgid "We like it down here."
+msgstr "Nous l'aimons ici."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.OPEN
+#, fuzzy
+msgid "It leads back to the light."
+msgstr "Cela nous ramène à la lumière."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_FERN
+#, fuzzy
+msgid "Swirly plants."
+msgstr "Plantes tourbillonnantes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARCOAL
+#, fuzzy
+msgid "Hard and black, like my better half."
+msgstr "Dur et noir, comme ma meilleure moitié."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK1
+#, fuzzy
+msgid "A mess of chess."
+msgstr "Un gâchis d'échecs."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK2
+#, fuzzy
+msgid "A mess of chess."
+msgstr "Un gâchis d'échecs."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK3
+#, fuzzy
+msgid "A mess of chess."
+msgstr "Un gâchis d'échecs."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
+#, fuzzy
+msgid "We've never seen toys so big."
+msgstr "Nous n'avons jamais vu de jouets aussi gros."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_FORMAL.GENERIC
+#, fuzzy
+msgid "Reminds me of grandpa."
+msgstr "Ça me rappelle grand-père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC
+#, fuzzy
+msgid "Boy, I wish we could eat it."
+msgstr "Boy, je souhaite que nous puissions le manger."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
+#, fuzzy
+msgid "We could sculpt a stallion battalion!"
+msgstr "Nous pourrions sculpter un bataillon d'étalons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MUSE.GENERIC
+#, fuzzy
+msgid "We're sure she's nicer than she looks."
+msgstr "Nous sommes sûr qu'elle est plus gentille qu'elle a l'air."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_PAWN.GENERIC
+#, fuzzy
+msgid "Pawns are just as important as the rest of the pieces."
+msgstr "Les pions sont aussi importants que le reste des pièces."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.GENERIC
+#, fuzzy
+msgid "Where's the king of the castle?"
+msgstr "Où est le roi du château?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER
+#, fuzzy
+msgid "Haha. You make all our stuff slobbery."
+msgstr "Haha. Vous faites tous nos trucs baveux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER_EYEBONE.GENERIC
+#, fuzzy
+msgid "Peekaboo."
+msgstr "Coucou."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER_EYEBONE.WAITING
+#, fuzzy
+msgid "We spy a tired eye."
+msgstr "Nous observons un œil fatigué."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.EMBERS
+#, fuzzy
+msgid "We should put something on the fire before it goes out."
+msgstr "Nous devrions mettre quelque chose sur le feu avant qu'il ne s'éteigne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.GENERIC
+#, fuzzy
+msgid "Sure beats the heat. And darkness."
+msgstr "Bien sûr bat la chaleur. Et les ténèbres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.LOW
+#, fuzzy
+msgid "The fire's getting a touch low."
+msgstr "Le feu devient faible."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.NORMAL
+#, fuzzy
+msgid "Nice and cool."
+msgstr "Sympa et cool."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.OUT
+#, fuzzy
+msgid "Well, that's done."
+msgstr "Eh bien, c'est fait."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.EMBERS
+#, fuzzy
+msgid "We should put something on the fire before it goes out."
+msgstr "Nous devrions mettre quelque chose sur le feu avant qu'il ne s'éteigne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.GENERIC
+#, fuzzy
+msgid "Sure beats the heat. And darkness."
+msgstr "Bien sûr bat la chaleur. Et les ténèbres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.LOW
+#, fuzzy
+msgid "The fire's getting a touch low."
+msgstr "Le feu devient faible."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.NORMAL
+#, fuzzy
+msgid "Nice and cool."
+msgstr "Sympa et cool."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.OUT
+#, fuzzy
+msgid "Well, that's done. But not forever!"
+msgstr "Eh bien, c'est fait. Mais pas pour toujours!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E
+#, fuzzy
+msgid "East!"
+msgstr "Est!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.GENERIC
+#, fuzzy
+msgid "No reading!"
+msgstr "Pas de lecture!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.NE
+#, fuzzy
+msgid "Northeast!"
+msgstr "Au nord-est!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.S
+#, fuzzy
+msgid "South!"
+msgstr "Sud!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.SE
+#, fuzzy
+msgid "Southeast!"
+msgstr "Sud-est!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.SW
+#, fuzzy
+msgid "Southwest!"
+msgstr "Sud-ouest!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.W
+#, fuzzy
+msgid "West!"
+msgstr "Ouest!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMANDRAKE
+#, fuzzy
+msgid "Cooked to death."
+msgstr "Cuit à mort."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMEAT
+#, fuzzy
+msgid "Can't have any pudding if we don't eat it."
+msgstr "On ne peut pas avoir de pudding si on ne le mange pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMONSTERMEAT
+#, fuzzy
+msgid "I don't know what everyone's complaining about."
+msgstr "Je ne sais pas de quoi tout le monde se plaint."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDSMALLMEAT
+#, fuzzy
+msgid "Meat treat."
+msgstr "Traite de viande."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.BURNT
+#, fuzzy
+msgid "Someone must have left the fire going."
+msgstr "Quelqu'un a du quitter le feu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.COOKING_LONG
+#, fuzzy
+msgid "It won't be done for a while."
+msgstr "Cela ne sera pas fait avant un moment."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.COOKING_SHORT
+#, fuzzy
+msgid "Almost ready!"
+msgstr "Presque prêt!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.DONE
+#, fuzzy
+msgid "Supper is served."
+msgstr "Le souper est servi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.EMPTY
+#, fuzzy
+msgid "Food goes in, other food comes out."
+msgstr "Les aliments entrent, les autres aliments sortent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COONTAIL
+#, fuzzy
+msgid "I always liked pulling Whiskers' tail."
+msgstr "J'ai toujours aimé tirer la queue de Whiskers."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN
+#, fuzzy
+msgid "Corn in the raw."
+msgstr "Maïs à l'état brut."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN_COOKED
+#, fuzzy
+msgid "Popping corn."
+msgstr "Pop-corn."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_DRAGONLING
+#, fuzzy
+msgid "She's a monster just like me!"
+msgstr "Elle est un monstre comme moi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_GLOMLING
+#, fuzzy
+msgid "He gives the fuzziest hugs."
+msgstr "Il donne les câlins les plus flous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_KITTEN
+#, fuzzy
+msgid "You look like grandpa's cat!"
+msgstr "Tu ressembles au chat de papy!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_LAMB
+#, fuzzy
+msgid "Father taught me how to take care of goats!"
+msgstr "Père m'a appris à prendre soin des chèvres!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_PUPPY
+#, fuzzy
+msgid "We're best friends."
+msgstr "Nous sommes les meilleurs amis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTERLAB
+#, fuzzy
+msgid "It looks warm in there."
+msgstr "Il fait chaud dedans."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CROW.GENERIC
+#, fuzzy
+msgid "Oh, you look like you're having a grand time, flying about."
+msgstr "Oh, vous avez l'air de passer un bon moment à voler."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CROW.HELD
+#, fuzzy
+msgid "We all want a bit of freedom."
+msgstr "Nous voulons tous un peu de liberté."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTLICHEN
+#, fuzzy
+msgid "I like me a lichen."
+msgstr "Je m'aime un lichen."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTREEDS
+#, fuzzy
+msgid "Reeds, web, what's the difference."
+msgstr "Roseaux, Web, quelle est la différence."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTSTONE
+#, fuzzy
+msgid "Squared rocks."
+msgstr "Roches carrées."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEADLYFEAST
+#, fuzzy
+msgid "Scent of doom."
+msgstr "Parfum de destin."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.BURNING
+#, fuzzy
+msgid "What a senseless waste of firewood."
+msgstr "Quel gaspillage insensé de bois de chauffage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.BURNT
+#, fuzzy
+msgid "Only we can prevent forest fires."
+msgstr "Seuls nous pouvons prévenir les incendies de forêt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.CHOPPED
+#, fuzzy
+msgid "Would a cool bandage make it better, Mr. Tree?"
+msgstr "Un pansement frais rendrait-il la chose meilleure, M. Tree?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.POISON
+#, fuzzy
+msgid "What're you so mad about?"
+msgstr "Qu'est-ce qui vous énerve?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER.ANTLER
+#, fuzzy
+msgid "Did you change your hair? Looks good!"
+msgstr "Avez-vous changé vos cheveux? Cela semble bon!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER.GENERIC
+#, fuzzy
+msgid "It looks soft."
+msgstr "Ça a l'air doux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER_ANTLER
+#, fuzzy
+msgid "Haha, weird."
+msgstr "Haha, bizarre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER_GEMMED
+#, fuzzy
+msgid "Don't hurt us and we won't hurt you!"
+msgstr "Ne nous faites pas de mal et nous ne vous ferons pas de mal!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEERCLOPS
+#, fuzzy
+msgid "He might be able to digest me!"
+msgstr "Il pourrait peut-être me digérer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEERCLOPS_EYEBALL
+#, fuzzy
+msgid "Yucktastic."
+msgstr "Yucktastic."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEPLETED_GRASS.GENERIC
+#, fuzzy
+msgid "It was once grass."
+msgstr "C'était une fois l'herbe."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEVTOOL
+#, fuzzy
+msgid "Axe me a question!"
+msgstr "Axe-moi une question!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEVTOOL_NODEV
+#, fuzzy
+msgid "I can't wield that."
+msgstr "Je ne peux pas utiliser ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIRTPILE
+#, fuzzy
+msgid "A pile of dirt. I bet it's hiding something."
+msgstr "Un tas de terre. Je parie que c'est cacher quelque chose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.COLD
+#, fuzzy
+msgid "Nothing nearby."
+msgstr "Rien à proximité."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.GENERIC
+#, fuzzy
+msgid "Lead and I shall follow."
+msgstr "Conduis et je suivrai."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.HOT
+#, fuzzy
+msgid "We are close!"
+msgstr "Nous sommes proches!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.WARM
+#, fuzzy
+msgid "Going the right way."
+msgstr "Aller dans le bon sens."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.WARMER
+#, fuzzy
+msgid "Something must be near."
+msgstr "Quelque chose doit être proche."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.READY
+#, fuzzy
+msgid "Looks like there's a hole for an oversized key."
+msgstr "On dirait qu'il y a un trou pour une clé surdimensionnée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODSTART
+#, fuzzy
+msgid "Radical rod!"
+msgstr "Tige radicale!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGON_SCALES
+#, fuzzy
+msgid "They don't weigh much for scales."
+msgstr "Ils ne pèsent pas beaucoup pour les balances."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLY
+#, fuzzy
+msgid "Oh, don't you just drag on."
+msgstr "Oh, ne traînez pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYCHEST
+#, fuzzy
+msgid "It looks like my old toy chest!"
+msgstr "On dirait mon vieux coffre à jouets!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.GENERIC
+#, fuzzy
+msgid "It's a fancy furnace!"
+msgstr "C'est une fournaise sophistiquée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.HAMMERED
+#, fuzzy
+msgid "What happened to your face?"
+msgstr "Qu'est ce qui est arrivé à ton visage?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.HIGH
+#, fuzzy
+msgid "Hot hot furnace!"
+msgstr "Fournaise chaude!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.NORMAL
+#, fuzzy
+msgid "Warmish furnace."
+msgstr "Réchauffer le four."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT
+#, fuzzy
+msgid "It looks suspect."
+msgstr "Cela semble suspect."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT_COOKED
+#, fuzzy
+msgid "It looks tastier now."
+msgstr "Il a l'air plus savoureux maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONPIE
+#, fuzzy
+msgid "Oh! Sweet and tasty!!"
+msgstr "Oh! Doux et savoureux !!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRUMSTICK
+#, fuzzy
+msgid "I just want to bang on my drum."
+msgstr "Je veux juste frapper sur mon tambour."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRUMSTICK_COOKED
+#, fuzzy
+msgid "We love finger food."
+msgstr "Nous aimons la nourriture de doigt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_BERRYBUSH
+#, fuzzy
+msgid "Into the ground with you!"
+msgstr "Dans le sol avec vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_BERRYBUSH_JUICY
+#, fuzzy
+msgid "Into the ground with you!"
+msgstr "Dans le sol avec vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_GRASS
+#, fuzzy
+msgid "Into the ground with you!"
+msgstr "Dans le sol avec vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_MARSH_BUSH
+#, fuzzy
+msgid "Into the ground with you!"
+msgstr "Dans le sol avec vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_SAPLING
+#, fuzzy
+msgid "Into the ground with you!"
+msgstr "Dans le sol avec vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN
+#, fuzzy
+msgid "Pungent."
+msgstr "Âcre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EARMUFFSHAT
+#, fuzzy
+msgid "Strap some rabbits to your head, good idea."
+msgstr "Attachez quelques lapins à votre tête, bonne idée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EEL
+#, fuzzy
+msgid "Fresh water-snake."
+msgstr "Serpent d'eau douce."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EEL_COOKED
+#, fuzzy
+msgid "We could slurp this down."
+msgstr "Nous pourrions nous en emparer."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT
+#, fuzzy
+msgid "Blech, eggplant."
+msgstr "Blech, aubergines."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_COOKED
+#, fuzzy
+msgid "Mum knew I liked it braised."
+msgstr "Maman savait que j'aimais ça braisé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.BURNT
+#, fuzzy
+msgid "Antiques are dumb, anyway."
+msgstr "Les antiquités sont stupides, de toute façon."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.EMPTY
+#, fuzzy
+msgid "Reminds me of antique shopping with mother."
+msgstr "Ça me rappelle des achats d'antiquités avec ma mère."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.FRESHLIGHT
+#, fuzzy
+msgid "Nice and bright!"
+msgstr "Nice et lumineux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.OLDLIGHT
+#, fuzzy
+msgid "It's gonna go out soon."
+msgstr "Ça va sortir bientôt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.WILTED
+#, fuzzy
+msgid "They look sad."
+msgstr "Ils ont l'air triste."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.BURNING
+#, fuzzy
+msgid "What a senseless waste of firewood."
+msgstr "Quel gaspillage insensé de bois de chauffage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.BURNT
+#, fuzzy
+msgid "Only we can prevent forest fires."
+msgstr "Seuls nous pouvons prévenir les incendies de forêt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.CHOPPED
+#, fuzzy
+msgid "Would a cool bandage make it better, Mr. Tree?"
+msgstr "Un pansement frais rendrait-il la chose meilleure, M. Tree?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.BURNING
+#, fuzzy
+msgid "What a senseless waste of firewood."
+msgstr "Quel gaspillage insensé de bois de chauffage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.BURNT
+#, fuzzy
+msgid "Only we can prevent forest fires."
+msgstr "Seuls nous pouvons prévenir les incendies de forêt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
+#, fuzzy
+msgid "Would a cool bandage make it better, Mr. Tree?"
+msgstr "Un pansement frais rendrait-il la chose meilleure, M. Tree?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.GENERIC
+#, fuzzy
+msgid "A dying breed."
+msgstr "Une race mourante."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYEBRELLAHAT
+#, fuzzy
+msgid "Disturbing, but it'll keep us dry."
+msgstr "Ça dérange, mais ça va nous garder au sec."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYEPLANT
+#, fuzzy
+msgid "Ever vigilant."
+msgstr "Toujours vigilant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYETURRET
+#, fuzzy
+msgid "Stop looking at me!"
+msgstr "Arrête de me regarder!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYETURRET_ITEM
+#, fuzzy
+msgid "Wakey wakey!"
+msgstr "Réveille toi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.BURNT
+#, fuzzy
+msgid "A razed farm is no farm at all."
+msgstr "Une ferme rasée n'est pas une ferme du tout."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.GENERIC
+#, fuzzy
+msgid "I'll have a go at this farming thing."
+msgstr "Je vais essayer ce truc agricole."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.GROWING
+#, fuzzy
+msgid "C'mooon, plants!"
+msgstr "C'mooon, les plantes!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
+#, fuzzy
+msgid "The soil is dried up."
+msgstr "Le sol est desséché."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_CANARY
+#, fuzzy
+msgid "Feather of yellow."
+msgstr "Plume de jaune."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_CROW
+#, fuzzy
+msgid "Feather of black."
+msgstr "Plume de noir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_ROBIN
+#, fuzzy
+msgid "Feather of red."
+msgstr "Plume de rouge."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_ROBIN_WINTER
+#, fuzzy
+msgid "Feather of white."
+msgstr "Plume de blanc."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERFAN
+#, fuzzy
+msgid "This thing is huge!"
+msgstr "Cette chose est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERHAT
+#, fuzzy
+msgid "It looks like it took a whole flock to make that hat!"
+msgstr "On dirait qu'il a fallu tout un troupeau pour fabriquer ce chapeau!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERPENCIL
+#, fuzzy
+msgid "Haha! It tickles!"
+msgstr "Haha! Ça chatouille!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEM_PUPPET
+#, fuzzy
+msgid "She's locked up!"
+msgstr "Elle est enfermée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE
+#, fuzzy
+msgid "I don't think we can jump over that."
+msgstr "Je ne pense pas que nous pouvons sauter par-dessus cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_GATE
+#, fuzzy
+msgid "The hinges are a little squeaky."
+msgstr "Les charnières sont un peu grinçantes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_GATE_ITEM
+#, fuzzy
+msgid "Let's build a gate!"
+msgstr "Construisons une porte!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_ITEM
+#, fuzzy
+msgid "Let's build a fence!"
+msgstr "Construisons une clôture!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FERTILIZER
+#, fuzzy
+msgid "I saw mum use this in her gardens."
+msgstr "J'ai vu maman utiliser cela dans ses jardins."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREFLIES.GENERIC
+#, fuzzy
+msgid "Elusive little buggies."
+msgstr "Petits buggies insaisissables."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREFLIES.HELD
+#, fuzzy
+msgid "Going on an adventure, got some fireflies in our pocket!"
+msgstr "Partez à l'aventure, vous avez des lucioles dans notre poche!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREHOUND
+#, fuzzy
+msgid "He's got a fire under his feet. And all inside him."
+msgstr "Il a un feu sous ses pieds. Et tout en lui."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.EMBERS
+#, fuzzy
+msgid "We should put something on the fire before it goes out."
+msgstr "Nous devrions mettre quelque chose sur le feu avant qu'il ne s'éteigne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.GENERIC
+#, fuzzy
+msgid "Sure beats the cold. And darkness."
+msgstr "Bien sûr bat le froid. Et les ténèbres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.LOW
+#, fuzzy
+msgid "The fire's getting a touch low."
+msgstr "Le feu devient faible."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.OUT
+#, fuzzy
+msgid "Well, that's done. But not forever!"
+msgstr "Eh bien, c'est fait. Mais pas pour toujours!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESTAFF
+#, fuzzy
+msgid "We didn't start the fire."
+msgstr "Nous n'avons pas allumé le feu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.LOWFUEL
+#, fuzzy
+msgid "Running low on fuel."
+msgstr "Je manque de carburant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.OFF
+#, fuzzy
+msgid "It's off."
+msgstr "Il est éteint."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.ON
+#, fuzzy
+msgid "This would come in handy in a snowball fight."
+msgstr "Cela serait utile dans un combat de boule de neige."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH
+#, fuzzy
+msgid "It could stand to be fried."
+msgstr "Il pourrait supporter d'être frit."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH_COOKED
+#, fuzzy
+msgid "Flaky and moist. Delicious."
+msgstr "Feuilletée et humide. Délicieux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHINGROD
+#, fuzzy
+msgid "I miss grandpa's fishing trips."
+msgstr "Les voyages de pêche de mon grand-père me manquent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHSTICKS
+#, fuzzy
+msgid "One of my favorite foods! Just me though."
+msgstr "Un de mes plats préférés! Juste moi si."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHTACOS
+#, fuzzy
+msgid "Taco Tuesday!"
+msgstr "Taco mardi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER.ROSE
+#, fuzzy
+msgid "Bright red petals! We love it!"
+msgstr "Pétales rouges vives! Nous aimons ça!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE
+#, fuzzy
+msgid "Oooh, a glowing ball of flower!"
+msgstr "Oooh, une boule de fleur rougeoyante!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE_DOUBLE
+#, fuzzy
+msgid "Oooh, a glowing ball of flower!"
+msgstr "Oooh, une boule de fleur rougeoyante!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE_TRIPLE
+#, fuzzy
+msgid "Oooh, a glowing ball of flower!"
+msgstr "Oooh, une boule de fleur rougeoyante!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_EVIL
+#, fuzzy
+msgid "This flower is decidedly not nice!"
+msgstr "Cette fleur n'est décidément pas belle!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_WITHERED
+#, fuzzy
+msgid "Aww so sad!"
+msgstr "Oh si triste!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWERHAT
+#, fuzzy
+msgid "Colorful crown."
+msgstr "Couronne colorée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWERSALAD
+#, fuzzy
+msgid "Five servings a day."
+msgstr "Cinq portions par jour."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOLIAGE
+#, fuzzy
+msgid "Soft and leafy."
+msgstr "Doux et feuillu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOOTBALLHAT
+#, fuzzy
+msgid "We could be good at football, much better than I was!"
+msgstr "Nous pourrions être bons au football, beaucoup mieux que moi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_PIECE
+#, fuzzy
+msgid "We want to play archaeologist!"
+msgstr "Nous voulons jouer à l'archéologue!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.COMPLETE
+#, fuzzy
+msgid "That looks real good!"
+msgstr "Cela a l'air vraiment bien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.FUNNY
+#, fuzzy
+msgid "Maybe we shouldn't play with bones."
+msgstr "Peut-être que nous ne devrions pas jouer avec des os."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.DEAD
+#, fuzzy
+msgid "A hop too far."
+msgstr "Un saut trop loin."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.GENERIC
+#, fuzzy
+msgid "Ack! Sticky tongue!"
+msgstr "Ack! Langue collante!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.SLEEPING
+#, fuzzy
+msgid "Oblivious amphibious."
+msgstr "Oblivieux amphibie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGGLEBUNWICH
+#, fuzzy
+msgid "Sandwich for me, frog legs for him."
+msgstr "Sandwich pour moi, cuisses de grenouilles pour lui."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGLEGS
+#, fuzzy
+msgid "A fraction of a frog."
+msgstr "Une fraction de grenouille."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGLEGS_COOKED
+#, fuzzy
+msgid "I admit, we've acquired a taste for those."
+msgstr "J'avoue que nous avons pris goût à celles-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRUITMEDLEY
+#, fuzzy
+msgid "Pile o'fruit."
+msgstr "Pile o'fruit."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FURTUFT
+#, fuzzy
+msgid "Fluffy, and not from a spider."
+msgstr "Moelleux, et pas d'une araignée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GARGOYLE_HOUND
+#, fuzzy
+msgid "Haha. We can stack things on its head and it won't even move."
+msgstr "Haha. Nous pouvons empiler des choses sur sa tête et il ne bougera même pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEARS
+#, fuzzy
+msgid "WX eats them by the fistful!"
+msgstr "WX les mange par le poing!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEMSOCKET.GEMS
+#, fuzzy
+msgid "Looks empty."
+msgstr "Semble vide."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEMSOCKET.VALID
+#, fuzzy
+msgid "Looks good."
+msgstr "Cela semble bon."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOST
+#, fuzzy
+msgid "That's not a fun ghost!"
+msgstr "Ce n'est pas un fantôme amusant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFT
+#, fuzzy
+msgid "Oh! What is it?!"
+msgstr "Oh! Qu'Est-ce que c'est?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFTWRAP
+#, fuzzy
+msgid "I want to give someone something nice!"
+msgstr "Je veux donner à quelqu'un quelque chose de gentil!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMER
+#, fuzzy
+msgid "Nice eyes."
+msgstr "Jolis yeux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFLOWER.DEAD
+#, fuzzy
+msgid "I spoke too soon. It smells worse now."
+msgstr "J'ai parlé trop tôt. Ça sent pire maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFLOWER.GENERIC
+#, fuzzy
+msgid "It doesn't smell very nice."
+msgstr "Ça ne sent pas très bon."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFUEL
+#, fuzzy
+msgid "Yucky muck!"
+msgstr "Merde dégueulasse!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERWINGS
+#, fuzzy
+msgid "I wish I'd at least ended up with wings. Sigh."
+msgstr "J'aurais au moins fini avec des ailes. Soupir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOATMILK
+#, fuzzy
+msgid "A glass of milk with every supper."
+msgstr "Un verre de lait à chaque souper."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENAXE
+#, fuzzy
+msgid "Life is okay when you've got a golden axe."
+msgstr "La vie va bien quand tu as une hache en or."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENPICKAXE
+#, fuzzy
+msgid "The finest pickaxe of them all."
+msgstr "La plus belle pioche de tous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENPITCHFORK
+#, fuzzy
+msgid "We can do some fancy forking with this."
+msgstr "Nous pouvons faire quelque chose d'extraordinaire avec cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENSHOVEL
+#, fuzzy
+msgid "We're gonna dig so many holes."
+msgstr "Nous allons creuser tellement de trous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDNUGGET
+#, fuzzy
+msgid "We definitely like shiny."
+msgstr "Nous aimons vraiment brillant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOOSE_FEATHER
+#, fuzzy
+msgid "Tickle torture."
+msgstr "Chatouiller la torture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.BARREN
+#, fuzzy
+msgid "It could use some perking up."
+msgstr "Cela pourrait prendre du temps."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.BURNING
+#, fuzzy
+msgid "Fire, fire, fire!"
+msgstr "Feu, feu, feu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.DISEASED
+#, fuzzy
+msgid "Maybe it needs some chicken soup?"
+msgstr "Peut-être qu'il a besoin d'une soupe au poulet?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.DISEASING
+#, fuzzy
+msgid "Are you okay, lil tuft?"
+msgstr "Est-ce que ça va, Lil touffe?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.PICKED
+#, fuzzy
+msgid "Picked down to the stems."
+msgstr "Ramassé aux tiges."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.WITHERED
+#, fuzzy
+msgid "The heat wave bested it."
+msgstr "La vague de chaleur l'a emporté."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_UMBRELLA
+#, fuzzy
+msgid "Rain won't keep us from playing in puddles!"
+msgstr "La pluie ne nous empêchera pas de jouer dans les flaques!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASSGEKKO.DISEASED
+#, fuzzy
+msgid "It's got ouchies in its tummy."
+msgstr "Il y a des ouchies dans le ventre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASSGEKKO.GENERIC
+#, fuzzy
+msgid "Hey! You dropped something!"
+msgstr "Hey! Tu as laissé tomber quelque chose!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_CAP
+#, fuzzy
+msgid "Smells really earthy."
+msgstr "Ça sent vraiment la terre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_CAP_COOKED
+#, fuzzy
+msgid "Heat really brings out the juices."
+msgstr "La chaleur fait vraiment ressortir les jus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.GENERIC
+#, fuzzy
+msgid "Ready for harvest."
+msgstr "Prêt pour la récolte."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.INGROUND
+#, fuzzy
+msgid "We can't get at it!"
+msgstr "Nous ne pouvons pas y arriver!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENAMULET
+#, fuzzy
+msgid "Time to build!"
+msgstr "Il est temps de construire!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENGEM
+#, fuzzy
+msgid "I'm absolutely green with envy."
+msgstr "Je suis absolument verte d'envie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENMOONEYE
+#, fuzzy
+msgid "We could always use more eyes!"
+msgstr "Nous pourrions toujours utiliser plus d'yeux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENSTAFF
+#, fuzzy
+msgid "Magic taker-apart-er."
+msgstr "Magie preneur-apart-er."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUACAMOLE
+#, fuzzy
+msgid "Holy moley, this is tasty."
+msgstr "Holy Moley, c'est savoureux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUANO
+#, fuzzy
+msgid "Bat doodoo."
+msgstr "Chauve-souris doodoo."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUNPOWDER
+#, fuzzy
+msgid "This black powder stuff packs a punch."
+msgstr "Cette poudre noire a du punch."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_1
+#, fuzzy
+msgid "Oh, Wendy! We'll trade you for your choco pigs!"
+msgstr "Oh, Wendy! Nous vous échangerons pour vos cochons choco!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_11
+#, fuzzy
+msgid "Mmm! Sweet revenge!"
+msgstr "Mmm! Douce vengeance!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_2
+#, fuzzy
+msgid "Haha ew! It's weird!"
+msgstr "Haha ew! C'est étrange!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_3
+#, fuzzy
+msgid "Haha, that's not candy!"
+msgstr "Haha, ce n'est pas des bonbons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_4
+#, fuzzy
+msgid "We aren't totally comfortable with this."
+msgstr "Nous ne sommes pas totalement à l'aise avec cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_5
+#, fuzzy
+msgid "We forgot what good things tasted like!"
+msgstr "Nous avons oublié ce que les bonnes choses avaient comme goût!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_6
+#, fuzzy
+msgid "No worse than the other stuff we've eaten out here!"
+msgstr "Pas pire que les autres choses que nous avons mangé ici!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_7
+#, fuzzy
+msgid "Oh, Ms. Wicker! We saved these for you!"
+msgstr "Oh, Mme Wicker! Nous les avons sauvegardées pour vous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_9
+#, fuzzy
+msgid "Gummy worms, yummy worms!"
+msgstr "Vers gommeux, vers délicieux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT
+#, fuzzy
+msgid "An interesting way to use food."
+msgstr "Une façon intéressante d'utiliser de la nourriture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMMER
+#, fuzzy
+msgid "Chaos and destruction!"
+msgstr "Chaos et destruction!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT
+#, fuzzy
+msgid "Grandpa's style, definitely."
+msgstr "Le style de grand-père, définitivement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEALINGSALVE
+#, fuzzy
+msgid "Soothing."
+msgstr "Apaisant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.COLD
+#, fuzzy
+msgid "It's getting chilly."
+msgstr "Il commence à faire froid."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.FROZEN
+#, fuzzy
+msgid "It's cold to the touch."
+msgstr "Il fait froid au toucher."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.GENERIC
+#, fuzzy
+msgid "It's a rock."
+msgstr "C'est un rocher."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.HOT
+#, fuzzy
+msgid "It's hot to the touch!"
+msgstr "Il fait chaud au toucher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.WARM
+#, fuzzy
+msgid "It's getting hot!"
+msgstr "Il commence à faire chaud!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HIVEHAT
+#, fuzzy
+msgid "We could be part bee now too!"
+msgstr "Nous pourrions être partie abeille maintenant aussi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOME
+#, fuzzy
+msgid "Hellooo? We're here!"
+msgstr "Hellooo? Nous sommes là!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.BURNT
+#, fuzzy
+msgid "The lettering burnt off."
+msgstr "Les lettres ont brûlé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.GENERIC
+#, fuzzy
+msgid "We could write on that if only we had a pen!"
+msgstr "Nous pourrions écrire à ce sujet si seulement nous avions un stylo!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.UNWRITTEN
+#, fuzzy
+msgid "Ooooh, what should we say?"
+msgstr "Ooooh, que devrions-nous dire?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEY
+#, fuzzy
+msgid "Sticky and sweet."
+msgstr "Collant et doux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYCOMB
+#, fuzzy
+msgid "Honey pods!"
+msgstr "Des gousses de miel!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYHAM
+#, fuzzy
+msgid "Ooo, tasty!"
+msgstr "Ooo, savoureux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYNUGGETS
+#, fuzzy
+msgid "We wish they were shaped like dinosaurs."
+msgstr "Nous souhaitons qu'ils aient la forme de dinosaures."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORN
+#, fuzzy
+msgid "If this makes a mating call we're all in trouble."
+msgstr "Si cela fait un appel, nous avons tous des problèmes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI
+#, fuzzy
+msgid "Flavor bombs!"
+msgstr "Bombes à saveur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUND
+#, fuzzy
+msgid "That's an angry puppy!"
+msgstr "C'est un chiot en colère!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDBONE
+#, fuzzy
+msgid "There isn't much left."
+msgstr "Il ne reste plus grand chose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDMOUND
+#, fuzzy
+msgid "This place scares us."
+msgstr "Cet endroit nous fait peur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDSTOOTH
+#, fuzzy
+msgid "It's the perfect tooth to gnash."
+msgstr "C'est la dent parfaite pour grincer des dents."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH
+#, fuzzy
+msgid "Give us a Huggy!"
+msgstr "Donnez-nous un Huggy!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICE
+#, fuzzy
+msgid "Chilling."
+msgstr "Chilling."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEBOX
+#, fuzzy
+msgid "Spoil not, food supplies!"
+msgstr "Ne vous gâtez pas, de quoi manger!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICECREAM
+#, fuzzy
+msgid "We dream of ice cream."
+msgstr "On rêve de glace."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEHAT
+#, fuzzy
+msgid "This should keep us cool."
+msgstr "Cela devrait nous garder au frais."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEHOUND
+#, fuzzy
+msgid "He has a chilling look in his eyes."
+msgstr "Il a un regard glacial dans les yeux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICESTAFF
+#, fuzzy
+msgid "It makes me feel funny."
+msgstr "Ça me fait me sentir drôle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSANITYROCK.ACTIVE
+#, fuzzy
+msgid "Move, stupid rock!"
+msgstr "Bouge, stupide rock!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSANITYROCK.INACTIVE
+#, fuzzy
+msgid "I wonder what that does."
+msgstr "Je me demande ce que ça fait."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSPECTSELF
+#, fuzzy
+msgid "Ah! I'm a monster! Haha, we're just kidding."
+msgstr "Ah! Je suis un monstre! Haha, nous rigolons."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.JAMMYPRESERVES
+#, fuzzy
+msgid "Ew... sticky fingies."
+msgstr "Ew ... des doigts collants."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.JELLYBEAN
+#, fuzzy
+msgid "Will they grow into candy beanstalks?"
+msgstr "Vont-ils devenir des bonbons?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KABOBS
+#, fuzzy
+msgid "Foods on a stick!"
+msgstr "Des aliments sur un bâton!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KILLERBEE.GENERIC
+#, fuzzy
+msgid "Uh oh, run!"
+msgstr "Uh oh, cours!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KILLERBEE.HELD
+#, fuzzy
+msgid "I hope it doesn't escape."
+msgstr "J'espère que ça ne s'échappe pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUS
+#, fuzzy
+msgid "That meanie imprisoned those deer!"
+msgstr "Ce méchant a emprisonné ces cerfs!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUS_SACK
+#, fuzzy
+msgid "Presents?!"
+msgstr "Des cadeaux?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUSSACKKEY
+#, fuzzy
+msgid "I think maybe this goes somewhere."
+msgstr "Je pense que cela va peut-être quelque part."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KNIGHT
+#, fuzzy
+msgid "Wow! That's complicated clockwork."
+msgstr "Hou la la! C'est une horloge compliquée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KNIGHT_NIGHTMARE
+#, fuzzy
+msgid "Goodnight, good knight."
+msgstr "Bonne nuit, bon chevalier."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KOALEFANT_SUMMER
+#, fuzzy
+msgid "Maybe it's lost."
+msgstr "Peut-être que c'est perdu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KOALEFANT_WINTER
+#, fuzzy
+msgid "We finally found it!"
+msgstr "Nous l'avons finalement trouvé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KRAMPUS
+#, fuzzy
+msgid "Give us back our things!"
+msgstr "Rends-nous nos affaires!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KRAMPUS_SACK
+#, fuzzy
+msgid "We could put more in but we're scared to touch the stuff he left inside."
+msgstr "Nous pourrions en mettre plus, mais nous avons peur de toucher à ce qu'il a laissé à l'intérieur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LANTERN
+#, fuzzy
+msgid "The sun's trapped in there."
+msgstr "Le soleil est pris au piège là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND
+#, fuzzy
+msgid "Ouch! Burnies!"
+msgstr "Aie! Burnies!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK7
+#, fuzzy
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE
+#, fuzzy
+msgid "Sizzling hot!"
+msgstr "Brûlant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_COCOON
+#, fuzzy
+msgid "Being all froze up probably isn't comfy."
+msgstr "Être gelé n'est probablement pas confortable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG.GENERIC
+#, fuzzy
+msgid "Maybe I can make it hatch?"
+msgstr "Peut-être que je peux le faire éclore?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG_CRACKED.COLD
+#, fuzzy
+msgid "Poor egg. It looks cold."
+msgstr "Pauvre oeuf Il fait froid"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG_CRACKED.COMFY
+#, fuzzy
+msgid "The egg seems happy."
+msgstr "L'œuf semble heureux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.CONTENT
+#, fuzzy
+msgid "Happy lavae!"
+msgstr "Bonne lave!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.HUNGRY
+#, fuzzy
+msgid "Poor hungry lavae."
+msgstr "Pauvre lave affamée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.STARVING
+#, fuzzy
+msgid "It looks starving!"
+msgstr "Il a l'air affamé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_TOOTH
+#, fuzzy
+msgid "What a weird tooth."
+msgstr "Quelle dent bizarre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVASPIT.COOL
+#, fuzzy
+msgid "Looks safe now."
+msgstr "Semble sans danger maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVASPIT.HOT
+#, fuzzy
+msgid "Too hot for us!"
+msgstr "Trop chaud pour nous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF
+#, fuzzy
+msgid "Where did that come from?!"
+msgstr "D'où vient cela?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE
+#, fuzzy
+msgid "Where did that come from?!"
+msgstr "D'où vient cela?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN
+#, fuzzy
+msgid "It likes it down here."
+msgstr "Il aime ça ici."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIFEINJECTOR
+#, fuzzy
+msgid "I hate taking my medicine!"
+msgstr "Je déteste prendre mes médicaments!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTBULB
+#, fuzzy
+msgid "Bright and delicious."
+msgstr "Brillant et délicieux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTER
+#, fuzzy
+msgid "Lighter than what?"
+msgstr "Plus léger que quoi?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNING_ROD.CHARGED
+#, fuzzy
+msgid "It looks all glowy!"
+msgstr "Il a l'air tout rougeoyant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNING_ROD.GENERIC
+#, fuzzy
+msgid "This might keep us safe."
+msgstr "Cela pourrait nous garder en sécurité."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOAT.GENERIC
+#, fuzzy
+msgid "My father kept goats."
+msgstr "Mon père élevait des chèvres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOATHORN
+#, fuzzy
+msgid "This might make a good weapon."
+msgstr "Cela pourrait faire une bonne arme."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LITTLE_WALRUS
+#, fuzzy
+msgid "He has anger in his eyes."
+msgstr "Il a la colère dans les yeux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGLOG
+#, fuzzy
+msgid "This log has a face."
+msgstr "Ce journal a un visage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.BURNING
+#, fuzzy
+msgid "So much for our arts and crafts!"
+msgstr "Voilà pour nos arts et métiers!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUCY
+#, fuzzy
+msgid "If we talk to it will it talk back?"
+msgstr "Si nous parlons, est-ce que ça va répondre?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUMPY_SAPLING
+#, fuzzy
+msgid "Weird little plant."
+msgstr "Bizarre petite plante."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUREPLANT
+#, fuzzy
+msgid "What a colorful plant."
+msgstr "Quelle plante colorée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUREPLANTBULB
+#, fuzzy
+msgid "I wish we could learn to generate meat."
+msgstr "Je souhaite que nous pourrions apprendre à générer de la viande."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALE_PUPPET
+#, fuzzy
+msgid "He doesn't look like he's having much fun."
+msgstr "Il n'a pas l'air de s'amuser beaucoup."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE
+#, fuzzy
+msgid "The skin is all seared."
+msgstr "La peau est toute brûlée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_ACTIVE
+#, fuzzy
+msgid "You're a bad friend!"
+msgstr "Tu es un mauvais ami!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_COOKED
+#, fuzzy
+msgid "The meeping had to stop."
+msgstr "La garde a dû s'arrêter."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_PLANTED
+#, fuzzy
+msgid "That's a funny looking plant."
+msgstr "C'est une plante drôle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKESOUP
+#, fuzzy
+msgid "We fall asleep in the bath too!"
+msgstr "Nous nous endormons dans le bain aussi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANRABBIT_TAIL
+#, fuzzy
+msgid "We feel lucky, oh so lucky."
+msgstr "Nous nous sentons chanceux, oh si chanceux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAPSCROLL
+#, fuzzy
+msgid "There's nothing on it."
+msgstr "Il n'y a rien dessus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLE
+#, fuzzy
+msgid "Maybe we should take up sculpting."
+msgstr "Peut-être devrions-nous commencer à sculpter."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEBEAN
+#, fuzzy
+msgid "Bean there, done that!"
+msgstr "Bean là, fait ça!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEBEAN_SAPLING
+#, fuzzy
+msgid "You can plant anything in the ground!"
+msgstr "Vous pouvez planter n'importe quoi dans le sol!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEPILLAR
+#, fuzzy
+msgid "Nothing lasts forever on its own."
+msgstr "Rien ne dure éternellement seul."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLESHRUB
+#, fuzzy
+msgid "That's a weird shape for a bush."
+msgstr "C'est une forme étrange pour un buisson."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLETREE
+#, fuzzy
+msgid "I hope it doesn't fall on us."
+msgstr "J'espère que ça ne nous tombe pas dessus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.BURNING
+#, fuzzy
+msgid "It will be gone soon!"
+msgstr "Il sera bientôt parti!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.GENERIC
+#, fuzzy
+msgid "Hope we don't fall on that."
+msgstr "J'espère que nous ne tombons pas sur cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.PICKED
+#, fuzzy
+msgid "That hurt our hands."
+msgstr "Cela nous a fait mal aux mains."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_PLANT
+#, fuzzy
+msgid "That's a thirsty plant."
+msgstr "C'est une plante assoiffée."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.BURNT
+#, fuzzy
+msgid "Its growing days are over."
+msgstr "Ses jours de croissance sont terminés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.CHOPPED
+#, fuzzy
+msgid "Axes can solve all tree-related problems!"
+msgstr "Les axes peuvent résoudre tous les problèmes liés aux arbres!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.GENERIC
+#, fuzzy
+msgid "A harsh tree for harsh conditions."
+msgstr "Un arbre dur pour des conditions difficiles."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELL
+#, fuzzy
+msgid "That jerk tricked us."
+msgstr "Ce crétin nous a trompés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLHEAD
+#, fuzzy
+msgid "Imagine the trouble he has buying hats!"
+msgstr "Imaginez la difficulté qu'il a à acheter des chapeaux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLLIGHT
+#, fuzzy
+msgid "Well, these would've been handy before."
+msgstr "Eh bien, ceux-ci auraient été utiles avant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLLOCK
+#, fuzzy
+msgid "It's missing something."
+msgstr "Il manque quelque chose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLPHONOGRAPH
+#, fuzzy
+msgid "We could listen to that forever!"
+msgstr "Nous pourrions écouter cela pour toujours!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLTHRONE
+#, fuzzy
+msgid "That throne makes our skin crawl."
+msgstr "Ce trône fait ramper notre peau."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT
+#, fuzzy
+msgid "Some fire would spice this up."
+msgstr "Un feu pourrait pimenter cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT_DRIED
+#, fuzzy
+msgid "That worked better than expected."
+msgstr "Cela a fonctionné mieux que prévu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATBALLS
+#, fuzzy
+msgid "I used to make these with grandpa!"
+msgstr "J'avais l'habitude de faire ça avec papy!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DONE
+#, fuzzy
+msgid "Food time!"
+msgstr "Temps de nourriture!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DRYING
+#, fuzzy
+msgid "Is it done yet? I'm hungry."
+msgstr "Est-ce fini? J'ai faim."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DRYINGINRAIN
+#, fuzzy
+msgid "It's hard to dry when it's raining."
+msgstr "Il est difficile de sécher quand il pleut."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.GENERIC
+#, fuzzy
+msgid "It's not doing us much good empty!"
+msgstr "Cela ne nous fait pas beaucoup de bien vide!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERM
+#, fuzzy
+msgid "I would've thought they would bathe more often!"
+msgstr "J'aurais pensé qu'ils se baigneraient plus souvent!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHEAD.BURNT
+#, fuzzy
+msgid "I wonder who that was."
+msgstr "Je me demande qui c'était."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHEAD.GENERIC
+#, fuzzy
+msgid "A waste of food."
+msgstr "Un gaspillage de nourriture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHOUSE.BURNT
+#, fuzzy
+msgid "It's in worse shape than before!"
+msgstr "C'est dans un état pire qu'avant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHOUSE.GENERIC
+#, fuzzy
+msgid "Smells fishy."
+msgstr "Ça sent le poisson."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINERHAT
+#, fuzzy
+msgid "A handy light for our head."
+msgstr "Une lumière utile pour notre tête."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINIFAN
+#, fuzzy
+msgid "It cools us when we run, how nice."
+msgstr "Ça nous refroidit quand on court, c'est gentil."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN.GENERIC
+#, fuzzy
+msgid "That looks nice!"
+msgstr "Ça a l'air bien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN.UNDRAWN
+#, fuzzy
+msgid "Can someone lend us a pencil?"
+msgstr "Quelqu'un peut-il nous prêter un crayon?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN_ITEM
+#, fuzzy
+msgid "Let's build it!"
+msgstr "Construisons-le!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAUR
+#, fuzzy
+msgid "Wear that frown upside down."
+msgstr "Portez ça en fronçant les sourcils."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAURCHEST
+#, fuzzy
+msgid "What a big treasure box!"
+msgstr "Quel grand coffre à trésor!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.HELD
+#, fuzzy
+msgid "Are you comfy?"
+msgstr "Êtes-vous confortable?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.UNDERGROUND
+#, fuzzy
+msgid "Come out and play!"
+msgstr "Venir jouer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLEHAT
+#, fuzzy
+msgid "It sees for miles and miles."
+msgstr "Il voit des kilomètres et des kilomètres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLEHILL
+#, fuzzy
+msgid "Hidey-hole."
+msgstr "Hidey-Hole."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONKEY
+#, fuzzy
+msgid "He just wants to learn!"
+msgstr "Il veut juste apprendre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERLASAGNA
+#, fuzzy
+msgid "Mmm!"
+msgstr "Mmm!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.GENERIC
+#, fuzzy
+msgid "I wonder what it wants?"
+msgstr "Je me demande ce qu'il veut"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.MOONSTAFF
+#, fuzzy
+msgid "Bright sticky stick!"
+msgstr "Bâton collant lumineux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.STAFFED
+#, fuzzy
+msgid "Something else needs to happen, right?"
+msgstr "Quelque chose d'autre doit arriver, non?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.WRONGSTAFF
+#, fuzzy
+msgid "I don't think it wanted that."
+msgstr "Je ne pense pas que cela voulait ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.CAVE
+#, fuzzy
+msgid "The moon can't fit in a cave! I think."
+msgstr "La lune ne rentre pas dans une grotte! Je pense."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.GENERIC
+#, fuzzy
+msgid "Hey, Ms. Wicker! How come we can still see the moon?"
+msgstr "Hé, Mme Wicker! Comment se fait-il qu'on puisse encore voir la lune?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_FULL
+#, fuzzy
+msgid "Wow! Full moon!"
+msgstr "Hou la la! Pleine lune!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_NEW
+#, fuzzy
+msgid "New moon! Neat!"
+msgstr "Nouvelle lune! Soigné!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_WANE
+#, fuzzy
+msgid "The moon is shrinking!"
+msgstr "La lune rétrécit!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_WAX
+#, fuzzy
+msgid "The moon is growing!"
+msgstr "La lune grandit!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCK_PIECES
+#, fuzzy
+msgid "Oh... We don't like this!"
+msgstr "Oh ... On n'aime pas ça!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKCRATER
+#, fuzzy
+msgid "Haha. It's heavy!"
+msgstr "Haha. C'est lourd!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKNUGGET
+#, fuzzy
+msgid "Neat!"
+msgstr "Soignée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSE
+#, fuzzy
+msgid "She doesn't look at all pleased to see us."
+msgstr "Elle n'a pas du tout l'air contente de nous voir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSE_NESTING_GROUND
+#, fuzzy
+msgid "For its babies' sleepytime."
+msgstr "Pour le sommeil de ses bébés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSEEGG
+#, fuzzy
+msgid "That would make a huge breakfast!"
+msgstr "Cela ferait un énorme petit-déjeuner!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO.GENERIC
+#, fuzzy
+msgid "Shoo!"
+msgstr "Shoo!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO.HELD
+#, fuzzy
+msgid "We should just squish you."
+msgstr "On devrait juste t'écraser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITOSACK
+#, fuzzy
+msgid "Maybe we can put the blood back in?"
+msgstr "Peut-être que nous pouvons remettre le sang dans?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSSLING
+#, fuzzy
+msgid "Hungry little guys."
+msgstr "Faim petits gars."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOUND.GENERIC
+#, fuzzy
+msgid "Our loot sense is tingling."
+msgstr "Notre sens du butin est picotement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTITOOL_AXE_PICKAXE
+#, fuzzy
+msgid "Double duty."
+msgstr "Double devoir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.BURNT
+#, fuzzy
+msgid "Fire's dangerous, I guess."
+msgstr "Le feu est dangereux, je suppose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.EMPTY
+#, fuzzy
+msgid "There aren't any mushrooms."
+msgstr "Il n'y a pas de champignons."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.LOTS
+#, fuzzy
+msgid "They look happy."
+msgstr "Ils ont l'air heureux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.SNOWCOVERED
+#, fuzzy
+msgid "You look chilly."
+msgstr "Vous avez l'air froid."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.STUFFED
+#, fuzzy
+msgid "Wow! So many mushrooms!"
+msgstr "Hou la la! Tant de champignons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.BURNT
+#, fuzzy
+msgid "Well that's no fun-gus."
+msgstr "Eh bien, ce n'est pas amusant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.OFF
+#, fuzzy
+msgid "It still needs to be turned on."
+msgstr "Il doit encore être allumé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.ON
+#, fuzzy
+msgid "It's giving off a nice light."
+msgstr "Il dégage une belle lumière."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.BURNT
+#, fuzzy
+msgid "Aw. It was kinda growing on us."
+msgstr "Aw. C'était un peu grandir sur nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.OFF
+#, fuzzy
+msgid "Maybe the night won't be as scary now."
+msgstr "Peut-être que la nuit ne sera pas aussi effrayante maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.ON
+#, fuzzy
+msgid "We love all the colors!"
+msgstr "Nous aimons toutes les couleurs!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMBOMB
+#, fuzzy
+msgid "Explodey fungus!"
+msgstr "Champignon Explodey!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMSPROUT.BURNT
+#, fuzzy
+msgid "We should have chopped it!"
+msgstr "Nous aurions dû le couper!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMSPROUT.GENERIC
+#, fuzzy
+msgid "I think it's doing something bad!"
+msgstr "Je pense que c'est faire quelque chose de mal!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_MEDIUM.BLOOM
+#, fuzzy
+msgid "Hahah! Wow, it smells so bad!"
+msgstr "Hahah! Wow, ça sent tellement mauvais!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_MEDIUM.GENERIC
+#, fuzzy
+msgid "It's upsettingly large."
+msgstr "C'est énormément grand."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_SMALL.BLOOM
+#, fuzzy
+msgid "It's all round and squishy now!"
+msgstr "Tout est rond maintenant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_SMALL.GENERIC
+#, fuzzy
+msgid "Bigger than a normal mushroom."
+msgstr "Plus gros qu'un champignon normal."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL.BLOOM
+#, fuzzy
+msgid "It sounds so funny!"
+msgstr "Cela semble tellement drôle!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL.GENERIC
+#, fuzzy
+msgid "How did it get so big?"
+msgstr "Comment est-ce devenu si gros?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL_WEBBED
+#, fuzzy
+msgid "This one looks friendly!"
+msgstr "Celui-ci a l'air sympathique!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT
+#, fuzzy
+msgid "It makes our skin crawl."
+msgstr "Cela fait ramper notre peau."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
+#, fuzzy
+msgid "Everything's dandy."
+msgstr "Tout est dandy."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
+#, fuzzy
+msgid "Return to us, day!"
+msgstr "Reviens nous, jour!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
+#, fuzzy
+msgid "Not much magic here."
+msgstr "Pas beaucoup de magie ici."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
+#, fuzzy
+msgid "Stable, for now."
+msgstr "Stable, pour l'instant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
+#, fuzzy
+msgid "Magic go down the hole."
+msgstr "Magic va au fond du trou."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
+#, fuzzy
+msgid "Something's brewing."
+msgstr "Quelque chose se prépare."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING
+#, fuzzy
+msgid "It's getting magickier!"
+msgstr "Ça devient magickier!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARELIGHT
+#, fuzzy
+msgid "Not exactly my kind of nightlight."
+msgstr "Pas vraiment mon genre de veilleuse."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTSTICK
+#, fuzzy
+msgid "Night light, night bright!"
+msgstr "Veilleuse, nuit brillante!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTSWORD
+#, fuzzy
+msgid "Are you seeing this too?"
+msgstr "Voyez-vous cela aussi?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NITRE
+#, fuzzy
+msgid "What are we supposed to do with this?"
+msgstr "Qu'est-ce qu'on est censé faire avec ça?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ONEMANBAND
+#, fuzzy
+msgid "We need to practice more."
+msgstr "Nous devons pratiquer plus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.OPALPRECIOUSGEM
+#, fuzzy
+msgid "We see eight million eyes reflecting back at us. Neat!"
+msgstr "Nous voyons huit millions d'yeux se refléter sur nous. Soigné!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.OPALSTAFF
+#, fuzzy
+msgid "Whew. Gotta be careful where you point it!"
+msgstr "Ouf. Je dois faire attention où vous le pointez!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEAMULET
+#, fuzzy
+msgid "Many legs make light work, and so does this."
+msgstr "Beaucoup de jambes font le travail léger, et fait ainsi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEGEM
+#, fuzzy
+msgid "Orange you glad we found you, gem?"
+msgstr "Orange tu es content que nous t'ayons trouvé, gem"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEMOONEYE
+#, fuzzy
+msgid "This rock helps me find my friends!"
+msgstr "Ce rocher m'aide à retrouver mes amis!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGESTAFF
+#, fuzzy
+msgid "Teleportation gives us a chance to rest all our feet."
+msgstr "La téléportation nous donne une chance de nous reposer tous les pieds."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANDORASCHEST
+#, fuzzy
+msgid "Stylish storage."
+msgstr "Stockage élégant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANFLUTE
+#, fuzzy
+msgid "A well constructed instrument."
+msgstr "Un instrument bien construit."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PAPYRUS
+#, fuzzy
+msgid "We could do our homework."
+msgstr "Nous pourrions faire nos devoirs."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PENGUIN
+#, fuzzy
+msgid "Where do they live the rest of the year?"
+msgstr "Où vivent-ils le reste de l'année?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PERD
+#, fuzzy
+msgid "Come back! I just want to eat you!"
+msgstr "Reviens! Je veux juste te manger!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEROGIES
+#, fuzzy
+msgid "It does not look like pie..."
+msgstr "Ça ne ressemble pas à de la tarte ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETALS_EVIL
+#, fuzzy
+msgid "They make our head hurt."
+msgstr "Ils nous font mal à la tête."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETRIFIED_TREE
+#, fuzzy
+msgid "It's all stone and no bark."
+msgstr "C'est de la pierre et pas d'écorce."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PHLEGM
+#, fuzzy
+msgid "It's a boogie!"
+msgstr "C'est un boogie!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGGUARD
+#, fuzzy
+msgid "We wouldn't want to cross that one."
+msgstr "Nous ne voudrions pas croiser celui-là."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGGYBACK
+#, fuzzy
+msgid "It holds so much stuff!"
+msgstr "Il contient tellement de choses!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHEAD.GENERIC
+#, fuzzy
+msgid "We just wanted to be friends."
+msgstr "Nous voulions juste être amis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.BURNT
+#, fuzzy
+msgid "Not so fancy now, pig!"
+msgstr "Pas si chic maintenant, cochon!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.FULL
+#, fuzzy
+msgid "I can see a pig through the window!"
+msgstr "Je peux voir un cochon à travers la fenêtre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.GENERIC
+#, fuzzy
+msgid "A tall skinny house for a short fat pig."
+msgstr "Une grande maison maigre pour un cochon gras court."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.LIGHTSOUT
+#, fuzzy
+msgid "Why do they hate me?"
+msgstr "Pourquoi me détestent-ils?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGKING
+#, fuzzy
+msgid "King of the bullies!"
+msgstr "Roi des tyrans!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.DEAD
+#, fuzzy
+msgid "He won't bully us any more."
+msgstr "Il ne nous intimidera plus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.FOLLOWER
+#, fuzzy
+msgid "I never knew we could be friends!"
+msgstr "Je n'ai jamais su que nous pourrions être amis!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.GUARD
+#, fuzzy
+msgid "They look angry."
+msgstr "Ils ont l'air en colère."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.WEREPIG
+#, fuzzy
+msgid "He's all furry now!"
+msgstr "Il est tout velu maintenant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGSKIN
+#, fuzzy
+msgid "Take that!"
+msgstr "Prend ça!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGTENT
+#, fuzzy
+msgid "Little pig, little pig, let me in!"
+msgstr "Petit cochon, petit cochon, laissez-moi entrer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGTORCH
+#, fuzzy
+msgid "If only we could get closer."
+msgstr "Si seulement nous pouvions nous rapprocher."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PINECONE_SAPLING
+#, fuzzy
+msgid "Grow, grow!"
+msgstr "Grandis, grandis!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PITCHFORK
+#, fuzzy
+msgid "A good tool to play in the dirt."
+msgstr "Un bon outil pour jouer dans la boue."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.GENERIC
+#, fuzzy
+msgid "What will blossom?"
+msgstr "Que va fleurir?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.GROWING
+#, fuzzy
+msgid "Is it done yet?"
+msgstr "Est-ce fini?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.READY
+#, fuzzy
+msgid "We grew it together!"
+msgstr "Nous avons grandi ensemble!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.WITHERED
+#, fuzzy
+msgid "It's all dried out and dead."
+msgstr "Tout est sec et mort."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANTMEAT
+#, fuzzy
+msgid "It's all squishy."
+msgstr "C'est tout squishy."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANTMEAT_COOKED
+#, fuzzy
+msgid "It smells kind of rotten."
+msgstr "Ça sent genre de pourriture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.ATTACKER
+#, fuzzy
+msgid "%s looks mean."
+msgstr "% s a l'air moyen."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.FIRESTARTER
+#, fuzzy
+msgid "%s, you lit a fire!"
+msgstr "% s, vous avez allumé un feu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.GENERIC
+#, fuzzy
+msgid "Hey! Hi %s!"
+msgstr "Hey! Le sien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.GHOST
+#, fuzzy
+msgid "Don't worry, %s, we'll find you a heart!"
+msgstr "Ne vous inquiétez pas,% s, nous allons vous trouver un cœur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.MURDERER
+#, fuzzy
+msgid "Meanie! Get'em!"
+msgstr "Meanie! Get'em!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.REVIVER
+#, fuzzy
+msgid "%s is super nice to ghosts."
+msgstr "% s est super gentil avec les fantômes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE
+#, fuzzy
+msgid "I didn't expect this to grow."
+msgstr "Je ne m'attendais pas à ce que cela grandisse."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POND
+#, fuzzy
+msgid "Water doesn't go well with our fur."
+msgstr "L'eau ne va pas bien avec notre fourrure."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POND_ALGAE
+#, fuzzy
+msgid "Just a normal pond plant."
+msgstr "Juste une plante d'étang normale."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POOP
+#, fuzzy
+msgid "Doodoo."
+msgstr "Doo Doo."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POTTEDFERN
+#, fuzzy
+msgid "Mum would like this nice fern."
+msgstr "Maman aimerait cette belle fougère."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POWCAKE
+#, fuzzy
+msgid "Mum never let me have these."
+msgstr "Maman ne me laisse jamais avoir ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN
+#, fuzzy
+msgid "That's a huge pumpkin!"
+msgstr "C'est une énorme citrouille!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_COOKED
+#, fuzzy
+msgid "It's all warm now."
+msgstr "Il fait tout chaud maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_LANTERN
+#, fuzzy
+msgid "Just like we used to make at home!"
+msgstr "Comme nous le faisions à la maison!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_SEEDS
+#, fuzzy
+msgid "We could grow something with these."
+msgstr "Nous pourrions faire pousser quelque chose avec ceux-ci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEGEM
+#, fuzzy
+msgid "I can see knowledge swimming inside."
+msgstr "Je peux voir la connaissance nager à l'intérieur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEMOONEYE
+#, fuzzy
+msgid "Now we won't need to leave a trail of breadcrumbs!"
+msgstr "Maintenant, nous n'aurons plus besoin de laisser une traînée de chapelure!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBIT.HELD
+#, fuzzy
+msgid "He's ours now."
+msgstr "Il est à nous maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOLE.SPRING
+#, fuzzy
+msgid "I hope they're okay in there."
+msgstr "J'espère qu'ils vont bien là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOUSE.BURNT
+#, fuzzy
+msgid "A little overdone and overlarge."
+msgstr "Un peu exagéré et surdimensionné."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINCOAT
+#, fuzzy
+msgid "Dry fur is the best fur."
+msgstr "La fourrure sèche est la meilleure fourrure."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINHAT
+#, fuzzy
+msgid "It'll keep the water out of your fur."
+msgstr "Cela empêchera l'eau de pénétrer dans votre fourrure."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINOMETER.BURNT
+#, fuzzy
+msgid "I don't think that's accurate."
+msgstr "Je ne pense pas que ce soit exact."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINOMETER.GENERIC
+#, fuzzy
+msgid "It must be powered by magic."
+msgstr "Il doit être alimenté par magie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RATATOUILLE
+#, fuzzy
+msgid "Do we have to eat our veggies?"
+msgstr "Devons-nous manger nos légumes?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAZOR
+#, fuzzy
+msgid "I watched my father use one of these."
+msgstr "J'ai regardé mon père en utiliser un."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_CAP
+#, fuzzy
+msgid "It smells funny."
+msgstr "Ça sent drôle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_CAP_COOKED
+#, fuzzy
+msgid "It smells better now."
+msgstr "Ça sent mieux maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.GENERIC
+#, fuzzy
+msgid "Ready for the taking!"
+msgstr "Prêt pour la prise!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.INGROUND
+#, fuzzy
+msgid "We can't get at it like that."
+msgstr "Nous ne pouvons pas arriver à ça comme ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.PICKED
+#, fuzzy
+msgid "I think some spores remain."
+msgstr "Je pense qu'il reste des spores."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REDGEM
+#, fuzzy
+msgid "It feels warm, even on the coldest nights."
+msgstr "Il fait chaud, même les nuits les plus froides."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REDMOONEYE
+#, fuzzy
+msgid "That rock needs a nap. Its eye is all red!"
+msgstr "Ce rocher a besoin d'une sieste. Son oeil est tout rouge!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.BURNING
+#, fuzzy
+msgid "Those burn quickly!"
+msgstr "Ceux-ci brûlent vite!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.GENERIC
+#, fuzzy
+msgid "I bet those would be useful."
+msgstr "Je parie que cela serait utile."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.PICKED
+#, fuzzy
+msgid "Only stems remain."
+msgstr "Seules les tiges restent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REFLECTIVEVEST
+#, fuzzy
+msgid "Safety first!"
+msgstr "La sécurité d'abord!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RELIC.BROKEN
+#, fuzzy
+msgid "Smashed beyond repair."
+msgstr "Brisé au-delà de la réparation."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RELIC.GENERIC
+#, fuzzy
+msgid "These haven't been used in a while."
+msgstr "Ceux-ci n'ont pas été utilisés depuis un moment."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB.BURNT
+#, fuzzy
+msgid "I think it's broken."
+msgstr "Je pense que c'est cassé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB.GENERIC
+#, fuzzy
+msgid "It's like a science lab in here!"
+msgstr "C'est comme un laboratoire scientifique ici!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB2.BURNT
+#, fuzzy
+msgid "All our work... gone."
+msgstr "Tout notre travail ... parti."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB2.GENERIC
+#, fuzzy
+msgid "Father used to work on something like that."
+msgstr "Père travaillait sur quelque chose comme ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB3.BURNT
+#, fuzzy
+msgid "The fires care not for magic."
+msgstr "Les feux ne tiennent pas à la magie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB3.GENERIC
+#, fuzzy
+msgid "We should be careful around that."
+msgstr "Nous devrions faire attention à cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB4.BURNT
+#, fuzzy
+msgid "Smells like cooking."
+msgstr "Ça sent la cuisine."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB4.GENERIC
+#, fuzzy
+msgid "Did I just hear a squeak?"
+msgstr "Est-ce que je viens d'entendre un couinement?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTATUE.BURNT
+#, fuzzy
+msgid "It will be of no use to us in that state."
+msgstr "Cela ne nous sera d'aucune utilité dans cet état."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTATUE.GENERIC
+#, fuzzy
+msgid "It's a giant doll of our friend!!"
+msgstr "C'est une poupée géante de notre amie !!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTONE
+#, fuzzy
+msgid "Some sort of religious monument maybe?"
+msgstr "Une sorte de monument religieux peut-être?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REVIVER
+#, fuzzy
+msgid "I think it loves me."
+msgstr "Je pense qu'il m'aime."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN.HELD
+#, fuzzy
+msgid "Held snug in our pockets."
+msgstr "Tenu bien dans nos poches."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN_WINTER.GENERIC
+#, fuzzy
+msgid "What pretty white feathers."
+msgstr "Quelles jolies plumes blanches."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_PUPPET
+#, fuzzy
+msgid "I don't think they're having fun."
+msgstr "Je ne pense pas qu'ils s'amusent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_CHARCOAL
+#, fuzzy
+msgid "Big, crumbly rock."
+msgstr "Gros rocher friable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE.GENERIC
+#, fuzzy
+msgid "Ice can be useful."
+msgstr "La glace peut être utile."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE.MELTED
+#, fuzzy
+msgid "Puddle!"
+msgstr "Flaque!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE_MELTED
+#, fuzzy
+msgid "Puddle!"
+msgstr "Flaque!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.GENERIC
+#, fuzzy
+msgid "This lava's all dried up."
+msgstr "Cette lave est toute sèche."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.LOW
+#, fuzzy
+msgid "It's a little less cozy."
+msgstr "C'est un peu moins confortable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.NORMAL
+#, fuzzy
+msgid "Cozy!"
+msgstr "Confortable!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.OUT
+#, fuzzy
+msgid "It looks like it might break."
+msgstr "On dirait que ça pourrait casser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_PETRIFIED_TREE
+#, fuzzy
+msgid "It's all stone and no bark."
+msgstr "C'est de la pierre et pas d'écorce."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_PETRIFIED_TREE_OLD
+#, fuzzy
+msgid "It's all stone and no bark."
+msgstr "C'est de la pierre et pas d'écorce."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKY
+#, fuzzy
+msgid "Snip snap!"
+msgstr "Snap Snap!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROOK
+#, fuzzy
+msgid "Who made these things!?"
+msgstr "Qui a fait ces choses!?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROOK_NIGHTMARE
+#, fuzzy
+msgid "You can't rook us."
+msgstr "Vous ne pouvez pas nous ramener."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROPE
+#, fuzzy
+msgid "We could tie stuff up with this."
+msgstr "Nous pourrions lier des choses avec cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROTTENEGG
+#, fuzzy
+msgid "Ew!"
+msgstr "Ew!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROYAL_JELLY
+#, fuzzy
+msgid "It's goopy."
+msgstr "C'est goopy."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUBBLE
+#, fuzzy
+msgid "Rocks from an old city."
+msgstr "Rochers d'une vieille ville."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINS_BAT
+#, fuzzy
+msgid "We will, we will, smash you!"
+msgstr "Nous allons, nous allons, vous écraser!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINS_RUBBLE
+#, fuzzy
+msgid "It looks broken."
+msgstr "Il semble cassé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINSHAT
+#, fuzzy
+msgid "And now we are king."
+msgstr "Et maintenant nous sommes roi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_BASIC
+#, fuzzy
+msgid "We ride!"
+msgstr "Nous conduisons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_RACE
+#, fuzzy
+msgid "It's a saddle made out of spidersnacks!"
+msgstr "C'est une selle en spidersnacks!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR
+#, fuzzy
+msgid "We'll have lots of fun riding on this."
+msgstr "Nous nous amuserons beaucoup là-dessus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLEHORN
+#, fuzzy
+msgid "Leaves the beast nakey."
+msgstr "Laisse la bête Nakey."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SALTLICK
+#, fuzzy
+msgid "We really regret licking it. Blech."
+msgstr "Nous regrettons vraiment de le lécher. Blech."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SANITYROCK.ACTIVE
+#, fuzzy
+msgid "It's in our way."
+msgstr "C'est dans notre chemin."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SANITYROCK.INACTIVE
+#, fuzzy
+msgid "Something about this rock feels off."
+msgstr "Quelque chose à propos de cette pierre se sent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.BURNING
+#, fuzzy
+msgid "So bright!"
+msgstr "Tellement brilliant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.DISEASED
+#, fuzzy
+msgid "Maybe it needs some chicken soup?"
+msgstr "Peut-être qu'il a besoin d'une soupe au poulet?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.DISEASING
+#, fuzzy
+msgid "Are you okay, lil sapling?"
+msgstr "Est-ce que ça va, petit arbre?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.PICKED
+#, fuzzy
+msgid "Don't worry lil guy, it'll grow back!"
+msgstr "Ne t'inquiète pas mec, ça repoussera!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.WITHERED
+#, fuzzy
+msgid "I think the heat broke it."
+msgstr "Je pense que la chaleur l'a cassé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING
+#, fuzzy
+msgid "Someone should address this."
+msgstr "Quelqu'un devrait en parler."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNT
+#, fuzzy
+msgid "He got dressed down."
+msgstr "Il s'est habillé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.GENERIC
+#, fuzzy
+msgid "Let's play dress up!"
+msgstr "Jouons habiller!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCORCHED_SKELETON
+#, fuzzy
+msgid "They're probably fine."
+msgstr "Ils vont probablement bien."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.BLOCK
+#, fuzzy
+msgid "Oh! There's so many possibilities!"
+msgstr "Oh! Il y a tellement de possibilités!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.BURNT
+#, fuzzy
+msgid "Aww. Can we make another one?"
+msgstr "Aww. Pouvons-nous en faire un autre?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.EMPTY
+#, fuzzy
+msgid "I always wanted pottery lessons!"
+msgstr "J'ai toujours voulu des leçons de poterie!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.SCULPTURE
+#, fuzzy
+msgid "Wow! It looks great!"
+msgstr "Hou la la! Cela semble très bien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.COVERED
+#, fuzzy
+msgid "That looks really nice!"
+msgstr "Ça a l'air vraiment sympa!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.FINISHED
+#, fuzzy
+msgid "There! All better!"
+msgstr "Là! Tout au mieux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.READY
+#, fuzzy
+msgid "I think it's stuck in there."
+msgstr "Je pense que c'est coincé là-dedans."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.UNCOVERED
+#, fuzzy
+msgid "Where's your head, mister?"
+msgstr "Où est votre tête, monsieur?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPHEAD
+#, fuzzy
+msgid "I think it's looking at us!"
+msgstr "Je pense que ça nous regarde!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.COVERED
+#, fuzzy
+msgid "I think it really ties the island together."
+msgstr "Je pense que cela lie vraiment l'île ensemble."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.FINISHED
+#, fuzzy
+msgid "You look great!"
+msgstr "Ça te va bien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.READY
+#, fuzzy
+msgid "I think it's stuck in there."
+msgstr "Je pense que c'est coincé là-dedans."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.UNCOVERED
+#, fuzzy
+msgid "Peekaboo, monster!"
+msgstr "Peekaboo, monstre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTHEAD
+#, fuzzy
+msgid "Did someone lose this?"
+msgstr "Est-ce que quelqu'un a perdu cela?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.COVERED
+#, fuzzy
+msgid "It's a bit scary, but we don't like to judge."
+msgstr "C'est un peu effrayant, mais nous n'aimons pas juger."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED
+#, fuzzy
+msgid "Oh! That piece was his nose."
+msgstr "Oh! Cette pièce était son nez."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.READY
+#, fuzzy
+msgid "I think it's stuck in there."
+msgstr "Je pense que c'est coincé là-dedans."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKNOSE
+#, fuzzy
+msgid "Looks like a... cactus? No, that's not right."
+msgstr "On dirait un ... cactus? Non, ce n'est pas juste."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEEDS_COOKED
+#, fuzzy
+msgid "Their growing days are over."
+msgstr "Leurs jours de croissance sont terminés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SENTRYWARD
+#, fuzzy
+msgid "Woah! I bet it sees so far!"
+msgstr "Woah! Je parie qu'il voit jusqu'à présent!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEWING_KIT
+#, fuzzy
+msgid "Mum used to handle all of our sewing."
+msgstr "Maman avait l'habitude de gérer toute notre couture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDIGGER
+#, fuzzy
+msgid "Sometimes scary things are nice."
+msgstr "Parfois, les choses effrayantes sont bien."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWHEART
+#, fuzzy
+msgid "Why does it make me feel so bad?"
+msgstr "Pourquoi ça me fait me sentir si mal?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHOVEL
+#, fuzzy
+msgid "Maybe we can tunnel our way out?"
+msgstr "Peut-être que nous pouvons creuser notre chemin?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROOM_SKIN
+#, fuzzy
+msgid "Haha! Yuck!"
+msgstr "Haha! Beurk!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.BURNT
+#, fuzzy
+msgid "We can't take a nap in that!"
+msgstr "On ne peut pas faire la sieste!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.GENERIC
+#, fuzzy
+msgid "Is it nap time?"
+msgstr "Est-ce la sieste?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SILK
+#, fuzzy
+msgid "It's so smooth!"
+msgstr "C'est tellement lisse!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.DEFAULT
+#, fuzzy
+msgid "Oh no, %s! %s must have really hurt them!"
+msgstr "Oh non,% s! % s doit leur avoir vraiment fait mal!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.FEMALE
+#, fuzzy
+msgid "Oh no, %s! %s must have really hurt her!"
+msgstr "Oh non,% s! % s doit l'avoir vraiment blessée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.MALE
+#, fuzzy
+msgid "Oh no, %s! %s must have really hurt him!"
+msgstr "Oh non,% s! % s doit l'avoir vraiment fait mal!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.ROBOT
+#, fuzzy
+msgid "Oh no, %s! %s must have really hurt them!"
+msgstr "Oh non,% s! % s doit leur avoir vraiment fait mal!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKETCH
+#, fuzzy
+msgid "We need somewhere to make it!"
+msgstr "Nous avons besoin de quelque part pour le faire!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKULLCHEST
+#, fuzzy
+msgid "Who knows what could be hiding in there!"
+msgstr "Qui sait ce qui pourrait se cacher là-bas!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPER
+#, fuzzy
+msgid "Hairy tongue thing!"
+msgstr "Langue Poilue Chose!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPER_PELT
+#, fuzzy
+msgid "It's like a tiny rug."
+msgstr "C'est comme un petit tapis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPERPELT
+#, fuzzy
+msgid "It's like a tiny rug."
+msgstr "C'est comme un petit tapis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLE
+#, fuzzy
+msgid "We'll slaughter that slurtle."
+msgstr "Nous allons massacrer cette slurtle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLEHAT
+#, fuzzy
+msgid "A solid helmet."
+msgstr "Un casque solide."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLEHOLE
+#, fuzzy
+msgid "Slimy and rocky."
+msgstr "Gluant et rocheux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLESLIME
+#, fuzzy
+msgid "Slime-time!"
+msgstr "Slime-time!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.GENERIC
+#, fuzzy
+msgid "Could this be a friend for us?"
+msgstr "Cela pourrait-il être un ami pour nous?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.HUNGRY
+#, fuzzy
+msgid "I can see its tummy rumble."
+msgstr "Je peux voir son ventre grondement."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.STARVING
+#, fuzzy
+msgid "Poor thing. It looks so hungry!"
+msgstr "Pauvre chose. Il a l'air tellement faim!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT
+#, fuzzy
+msgid "A couple more'll make a morsel meal!"
+msgstr "Un couple de plus va faire un morceau de repas!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT_DRIED
+#, fuzzy
+msgid "It'll keep longer this way."
+msgstr "Ça va rester plus longtemps comme ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNURTLE
+#, fuzzy
+msgid "Let's snuff out that snurtle."
+msgstr "Étouffons cette tortue."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPAT
+#, fuzzy
+msgid "Maybe it just needs a cuddle!"
+msgstr "Peut-être qu'il suffit d'un câlin!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPEAR
+#, fuzzy
+msgid "We should stick things with the pointy part."
+msgstr "Nous devrions coller les choses avec la partie pointue."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPEAR_WATHGRITHR
+#, fuzzy
+msgid "Pointy ouchies!"
+msgstr "Ochies pointues!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.DEAD
+#, fuzzy
+msgid "Another lost friend."
+msgstr "Un autre ami perdu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.SLEEPING
+#, fuzzy
+msgid "Aww! I think it's having a dream."
+msgstr "Aww! Je pense que c'est avoir un rêve."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_DROPPER
+#, fuzzy
+msgid "Our friends live up there."
+msgstr "Nos amis habitent là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER
+#, fuzzy
+msgid "Friends!"
+msgstr "Copines!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER
+#, fuzzy
+msgid "Lay down some web for us."
+msgstr "Fixez un peu de toile pour nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.DEAD
+#, fuzzy
+msgid "Forgive us, brother."
+msgstr "Pardonne-nous, mon frère."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.GENERIC
+#, fuzzy
+msgid "He will protect us!"
+msgstr "Il va nous protéger!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.SLEEPING
+#, fuzzy
+msgid "They're so cute when they sleep."
+msgstr "Ils sont si mignons quand ils dorment."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERDEN
+#, fuzzy
+msgid "Looks cozy in there."
+msgstr "Semble confortable à l'intérieur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDEREGGSACK
+#, fuzzy
+msgid "A portable friendship pod!"
+msgstr "Un pod d'amitié portable!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERGLAND
+#, fuzzy
+msgid "I won't think about where it came from."
+msgstr "Je ne penserai pas d'où ça vient."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHAT
+#, fuzzy
+msgid "Very upsetting..."
+msgstr "Très bouleversant ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHOLE
+#, fuzzy
+msgid "We could stand to live there."
+msgstr "Nous pourrions supporter de vivre là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHOLE_ROCK
+#, fuzzy
+msgid "We could stand to live there."
+msgstr "Nous pourrions supporter de vivre là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERQUEEN
+#, fuzzy
+msgid "Mommy-Longlegs?"
+msgstr "Maman-Longlegs?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPOILED_FOOD
+#, fuzzy
+msgid "Blech!"
+msgstr "Blech!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_MEDIUM
+#, fuzzy
+msgid "Our favorite color! Red!"
+msgstr "Notre couleur préférée! Rouge!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_MEDIUM_INV
+#, fuzzy
+msgid "If we stare at it we'll turn to stone!"
+msgstr "Si nous la fixons, nous nous transformons en pierre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_SMALL
+#, fuzzy
+msgid "That's green, our favoritest color!"
+msgstr "C'est le vert, ta couleur préférée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_SMALL_INV
+#, fuzzy
+msgid "If we lick it we'll turn to wood!"
+msgstr "Si on le lèche, on se tourne vers le bois!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_TALL_INV
+#, fuzzy
+msgid "If we eat it we'll turn to water!"
+msgstr "Si nous en mangeons, nous nous tournons vers l'eau!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFF_TORNADO
+#, fuzzy
+msgid "We'll huff and we'll puff."
+msgstr "Nous allons souffler et nous allons souffler."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFFCOLDLIGHT
+#, fuzzy
+msgid "Woah! The cold makes all our hairs stand up!"
+msgstr "Woah! Le froid fait lever tous nos cheveux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFFLIGHT
+#, fuzzy
+msgid "Cozy."
+msgstr "Confortable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAGEHAND.AWAKE
+#, fuzzy
+msgid "Definitely not a spider!"
+msgstr "Certainement pas une araignée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAGEHAND.HIDING
+#, fuzzy
+msgid "Is there a spider friend rustling beneath?"
+msgstr "Y a-t-il un ami araignée qui frissonne?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE
+#, fuzzy
+msgid "Rocks, underground?! Shocking."
+msgstr "Des roches souterraines?! Choquant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_FULL
+#, fuzzy
+msgid "Rocks, underground?! Shocking."
+msgstr "Des roches souterraines?! Choquant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_LOW
+#, fuzzy
+msgid "Rocks, underground?! Shocking."
+msgstr "Des roches souterraines?! Choquant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_MED
+#, fuzzy
+msgid "Rocks, underground?! Shocking."
+msgstr "Des roches souterraines?! Choquant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL
+#, fuzzy
+msgid "Pointy rocks, underground?! Simply stunning."
+msgstr "Roches pointues, sous terre?! Simplement renversant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_FULL
+#, fuzzy
+msgid "Pointy rocks, underground?! Simply stunning."
+msgstr "Roches pointues, sous terre?! Simplement renversant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_LOW
+#, fuzzy
+msgid "Pointy rocks, underground?! Simply stunning."
+msgstr "Roches pointues, sous terre?! Simplement renversant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_MED
+#, fuzzy
+msgid "Pointy rocks, underground?! Simply stunning."
+msgstr "Roches pointues, sous terre?! Simplement renversant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.GENERIC
+#, fuzzy
+msgid "Solid marble!"
+msgstr "Marbre solide!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.TYPE2
+#, fuzzy
+msgid "It looks real lifelike, but it's all cold to touch."
+msgstr "Cela semble réaliste, mais il fait froid au toucher."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEGLOMMER.EMPTY
+#, fuzzy
+msgid "Take that, rock bug!"
+msgstr "Prends ça, punaise!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEGLOMMER.GENERIC
+#, fuzzy
+msgid "A statue of some weird bug."
+msgstr "Une statue d'un insecte étrange."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEHARP
+#, fuzzy
+msgid "Someone took the head."
+msgstr "Quelqu'un a pris la tête."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEMAXWELL
+#, fuzzy
+msgid "We're still a little mad at him. But only a little."
+msgstr "Nous sommes encore un peu en colère contre lui. Mais seulement un peu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STEELWOOL
+#, fuzzy
+msgid "Scratchy, like father's beard!"
+msgstr "Scratchy, comme la barbe du père!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STINGER
+#, fuzzy
+msgid "We should be careful, we could poke an eye out!"
+msgstr "Nous devrions faire attention, nous pourrions jeter un oeil dehors!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STRAWHAT
+#, fuzzy
+msgid "Keeps the sun out of all eight of your eyes."
+msgstr "Protège le soleil des huit yeux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STUFFEDEGGPLANT
+#, fuzzy
+msgid "We will stuff ourself with eggyplants!"
+msgstr "Nous allons vous bourrer d'aubergines!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SWEATERVEST
+#, fuzzy
+msgid "It itches and fits funny."
+msgstr "Ça me démange et me va drôle."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRD
+#, fuzzy
+msgid "Look at those legs!"
+msgstr "Regarde ces jambes!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG
+#, fuzzy
+msgid "Did I hear a meep?"
+msgstr "Ai-je entendu un meep?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_COOKED
+#, fuzzy
+msgid "Smells great!"
+msgstr "Ça sent super!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
+#, fuzzy
+msgid "It's shivering!"
+msgstr "Ça frissonne!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
+#, fuzzy
+msgid "I think it's hatching!"
+msgstr "Je pense que c'est en train de naître!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
+#, fuzzy
+msgid "It'll boil if it doesn't cool down soon."
+msgstr "Ça va bouillir si ça ne refroidit pas bientôt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
+#, fuzzy
+msgid "Looks like an egg."
+msgstr "On dirait un oeuf."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
+#, fuzzy
+msgid "Did that egg just move?"
+msgstr "Cet œuf vient-il juste de bouger?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDNEST.GENERIC
+#, fuzzy
+msgid "This could feed us for days!"
+msgstr "Cela pourrait nous nourrir pendant des jours!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDNEST.PICKED
+#, fuzzy
+msgid "Where is the egg?"
+msgstr "Où est l'œuf?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.GENERIC
+#, fuzzy
+msgid "It's getting old so fast!"
+msgstr "Il vieillit si vite!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.HUNGRY
+#, fuzzy
+msgid "It looks hungry!"
+msgstr "Il a l'air affamé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.STARVING
+#, fuzzy
+msgid "I think it's starving!"
+msgstr "Je pense que c'est affamé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEBASE.GEMS
+#, fuzzy
+msgid "It needs something to focus the power."
+msgstr "Il faut quelque chose pour concentrer le pouvoir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEBASE.VALID
+#, fuzzy
+msgid "Seems ready to use."
+msgstr "Semble prêt à utiliser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.ACTIVE
+#, fuzzy
+msgid "We could use this to visit new worlds!"
+msgstr "Nous pourrions utiliser cela pour visiter de nouveaux mondes!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.GENERIC
+#, fuzzy
+msgid "I can hear the sounds of another world!"
+msgstr "Je peux entendre les sons d'un autre monde!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.LOCKED
+#, fuzzy
+msgid "It still won't work!"
+msgstr "Cela ne fonctionnera toujours pas!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.PARTIAL
+#, fuzzy
+msgid "I don't think we're done yet!"
+msgstr "Je ne pense pas que nous avons encore fini!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_CRANK
+#, fuzzy
+msgid "A crank that will stand up to punishment."
+msgstr "Une manivelle qui va résister à la peine."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_POTATO
+#, fuzzy
+msgid "It looks like this goes with something..."
+msgstr "On dirait que ça va avec quelque chose ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_RING
+#, fuzzy
+msgid "I think there are more parts."
+msgstr "Je pense qu'il y a plus de pièces."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELESTAFF
+#, fuzzy
+msgid "Just looking at it makes my brain feel fuzzy."
+msgstr "Rien qu'en le regardant, mon cerveau est flou."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENT.BURNT
+#, fuzzy
+msgid "The fire destroyed it."
+msgstr "Le feu l'a détruit."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENT.GENERIC
+#, fuzzy
+msgid "It's way past our bedtime!"
+msgstr "Il est bien passé notre heure du coucher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE
+#, fuzzy
+msgid "We would be mad if something stepped on us, too."
+msgstr "Nous serions en colère si quelque chose nous piétinait aussi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR_HOLE
+#, fuzzy
+msgid "Oooh let's jump in!"
+msgstr "Oooh sautons dedans!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLESPIKE
+#, fuzzy
+msgid "We could hit stuff with the pointy bits!"
+msgstr "Nous pourrions frapper des choses avec les bits pointus!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLESPOTS
+#, fuzzy
+msgid "Spotty!"
+msgstr "À pois!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.THULECITE
+#, fuzzy
+msgid "Fancy rocks!"
+msgstr "Roches fantaisie!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.THULECITE_PIECES
+#, fuzzy
+msgid "Small bits of fancy rock."
+msgstr "Petits morceaux de roche chic."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.RAGE
+#, fuzzy
+msgid "Toadally terrifying!"
+msgstr "Toadally terrifiant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.EMPTY
+#, fuzzy
+msgid "Do you think we'd fit?"
+msgstr "Pensez-vous que nous irions?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.GENERIC
+#, fuzzy
+msgid "Purple! It's purple!"
+msgstr "Violet! C'est violet!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.INGROUND
+#, fuzzy
+msgid "I think it needs help getting out."
+msgstr "Je pense qu'il faut de l'aide pour sortir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOPHAT
+#, fuzzy
+msgid "Like father used to wear."
+msgstr "Comme le père portait."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TORCH
+#, fuzzy
+msgid "This should keep us safe."
+msgstr "Cela devrait nous garder en sécurité."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAILMIX
+#, fuzzy
+msgid "Crunchy and healthy."
+msgstr "Croquant et sain."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRANSISTOR
+#, fuzzy
+msgid "A very well crafted doodad!"
+msgstr "Un doodad très bien conçu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP
+#, fuzzy
+msgid "Now we can catch some food!"
+msgstr "Maintenant, nous pouvons attraper de la nourriture!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH
+#, fuzzy
+msgid "This will hurt our enemies."
+msgstr "Cela va blesser nos ennemis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH_MAXWELL
+#, fuzzy
+msgid "Who would put this here? We could get hurt!"
+msgstr "Qui mettrait ça ici? Nous pourrions être blessés!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREASURECHEST.BURNT
+#, fuzzy
+msgid "It won't be very useful to us now."
+msgstr "Cela ne nous sera plus très utile maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREASURECHEST.GENERIC
+#, fuzzy
+msgid "We could keep our toys in it!"
+msgstr "Nous pourrions garder nos jouets dedans!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREECLUMP
+#, fuzzy
+msgid "It's in our way!"
+msgstr "C'est dans notre chemin!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_1
+#, fuzzy
+msgid "We could still play with these, if we're extra creative."
+msgstr "Nous pourrions toujours jouer avec ceux-ci, si nous sommes très créatifs."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_10
+#, fuzzy
+msgid "Just like grandpa wears!"
+msgstr "Tout comme papy porte!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_11
+#, fuzzy
+msgid "Beep boop!"
+msgstr "Beep boop!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_12
+#, fuzzy
+msgid "Feels leathery."
+msgstr "Se sent coriace."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_13
+#, fuzzy
+msgid "It's watching us."
+msgstr "Il nous surveille"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_14
+#, fuzzy
+msgid "We want some hot cocoa."
+msgstr "Nous voulons du cacao chaud."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_15
+#, fuzzy
+msgid "We don't know how to play this game."
+msgstr "Nous ne savons pas comment jouer à ce jeu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_16
+#, fuzzy
+msgid "We don't know how to play this game."
+msgstr "Nous ne savons pas comment jouer à ce jeu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_17
+#, fuzzy
+msgid "Spork. Spork. Spork. Hahaha!"
+msgstr "Spork. Spork. Spork. Hahaha!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_18
+#, fuzzy
+msgid "We like toys."
+msgstr "Nous aimons les jouets."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_19
+#, fuzzy
+msgid "This toy doesn't work very well."
+msgstr "Ce jouet ne fonctionne pas très bien."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_2
+#, fuzzy
+msgid "A voiceless instrument."
+msgstr "Un instrument sans voix."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_20
+#, fuzzy
+msgid "Can we dig in the dirt with this?"
+msgstr "Peut-on creuser la terre avec ça?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_21
+#, fuzzy
+msgid "Mom had one of these."
+msgstr "Maman en avait un."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_22
+#, fuzzy
+msgid "It's kinda like our webbing!"
+msgstr "C'est un peu comme notre sangle!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_23
+#, fuzzy
+msgid "Are we supposed to blow on it?"
+msgstr "Sommes-nous censés souffler dessus?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_24
+#, fuzzy
+msgid "No cookies. Yet!"
+msgstr "Pas de cookies. Encore!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_25
+#, fuzzy
+msgid "It's stinky."
+msgstr "C'est puant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_26
+#, fuzzy
+msgid "You're our cuppy cup!"
+msgstr "Vous êtes notre tasse de tasse!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_28
+#, fuzzy
+msgid "Maybe Maxwell will teach us how to play."
+msgstr "Peut-être que Maxwell nous apprendra à jouer."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_29
+#, fuzzy
+msgid "Maybe Maxwell will teach us how to play."
+msgstr "Peut-être que Maxwell nous apprendra à jouer."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_3
+#, fuzzy
+msgid "It won't come undone!"
+msgstr "Cela ne sera pas défait!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_30
+#, fuzzy
+msgid "We can't follow the rules if we don't know them."
+msgstr "Nous ne pouvons pas suivre les règles si nous ne les connaissons pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_31
+#, fuzzy
+msgid "We can't follow the rules if we don't know them."
+msgstr "Nous ne pouvons pas suivre les règles si nous ne les connaissons pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_32
+#, fuzzy
+msgid "It's not bouncy. What's the point?"
+msgstr "Ce n'est pas gonflable. À quoi ça sert?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_33
+#, fuzzy
+msgid "It's a friend for our finger!!"
+msgstr "C'est un ami pour notre doigt !!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_34
+#, fuzzy
+msgid "The monkey probably needed that."
+msgstr "Le singe avait probablement besoin de ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_35
+#, fuzzy
+msgid "I kinda wanna drink what's left, but he won't let me."
+msgstr "Je veux un peu boire ce qui reste, mais il ne me laissera pas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_36
+#, fuzzy
+msgid "We've already got some, thanks."
+msgstr "Nous en avons déjà, merci."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_37
+#, fuzzy
+msgid "Maybe we should hide this before someone gets hurt."
+msgstr "Peut-être devrions-nous cacher cela avant que quelqu'un ne soit blessé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_4
+#, fuzzy
+msgid "It's watching us."
+msgstr "Il nous surveille"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_5
+#, fuzzy
+msgid "Yay, a new toy!"
+msgstr "Oui, un nouveau jouet!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_6
+#, fuzzy
+msgid "Maybe we'll find a use for these."
+msgstr "Peut-être trouverons-nous une utilisation pour cela."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_7
+#, fuzzy
+msgid "Another toy!"
+msgstr "Un autre jouet!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_8
+#, fuzzy
+msgid "I miss bath toys."
+msgstr "Les jouets de bain me manquent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_9
+#, fuzzy
+msgid "None of them match!"
+msgstr "Aucun d'entre eux ne correspond!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_COOKED
+#, fuzzy
+msgid "Looks filling!"
+msgstr "On dirait copieux!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_SUMMER
+#, fuzzy
+msgid "We took his nose!"
+msgstr "Nous avons pris son nez!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_WINTER
+#, fuzzy
+msgid "He blue his nose."
+msgstr "Il a le nez bleu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNKVEST_SUMMER
+#, fuzzy
+msgid "It's so puffy!"
+msgstr "C'est tellement gonflé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNKVEST_WINTER
+#, fuzzy
+msgid "You're always supposed to wear a jacket!"
+msgstr "Tu es toujours censé porter une veste!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TUMBLEWEED
+#, fuzzy
+msgid "Who knows what that tumbleweed has picked up."
+msgstr "Qui sait ce que cette boule d'herbe a ramassé?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_BADLANDS
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CARPETFLOOR
+#, fuzzy
+msgid "Carpets! Just like in our old house."
+msgstr "Les tapis! Comme dans notre ancienne maison."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CAVE
+#, fuzzy
+msgid "Some pretty average earth."
+msgstr "Un peu de terre moyenne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CHECKERFLOOR
+#, fuzzy
+msgid "Fancy."
+msgstr "Fantaisie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DECIDUOUS
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DESERTDIRT
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DIRT
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DRAGONFLY
+#, fuzzy
+msgid "Warm and cozy ground!"
+msgstr "Terrain chaleureux et confortable!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FOREST
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS
+#, fuzzy
+msgid "Some pretty average earth."
+msgstr "Un peu de terre moyenne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS_GREEN
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS_RED
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_GRASS
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_MARSH
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_MUD
+#, fuzzy
+msgid "Some pretty average earth."
+msgstr "Un peu de terre moyenne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_ROAD
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_ROCKY
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SANDY
+#, fuzzy
+msgid "Some ground that we dug up."
+msgstr "Certains terrains que nous avons déterrés."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SAVANNA
+#, fuzzy
+msgid "Some grassy dirt."
+msgstr "Un peu de terre herbeuse."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SINKHOLE
+#, fuzzy
+msgid "Some pretty average earth."
+msgstr "Un peu de terre moyenne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_UNDERROCK
+#, fuzzy
+msgid "Some pretty average earth."
+msgstr "Un peu de terre moyenne."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_WOODFLOOR
+#, fuzzy
+msgid "If we put these on the ground we'll have a floor!"
+msgstr "Si nous les mettons au sol, nous aurons un étage!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURKEYDINNER
+#, fuzzy
+msgid "Like mother used to make, in the before time!"
+msgstr "Comme mère faisait avant, dans le temps avant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_NUT
+#, fuzzy
+msgid "The tree wants to come out and play!"
+msgstr "L'arbre veut sortir et jouer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_NUT_SAPLING
+#, fuzzy
+msgid "Little tree!"
+msgstr "Petit arbre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.BURNING
+#, fuzzy
+msgid "What a senseless waste of firewood."
+msgstr "Quel gaspillage insensé de bois de chauffage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.BURNT
+#, fuzzy
+msgid "Only we can prevent forest fires."
+msgstr "Seuls nous pouvons prévenir les incendies de forêt."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.CHOPPED
+#, fuzzy
+msgid "Would a cool bandage make you feel better, Mr. Tree?"
+msgstr "Un pansement cool pourrait-il vous faire sentir mieux, M. Tree?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.DISEASED
+#, fuzzy
+msgid "Maybe it needs some chicken soup?"
+msgstr "Peut-être qu'il a besoin d'une soupe au poulet?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.GENERIC
+#, fuzzy
+msgid "We want to climb it!"
+msgstr "Nous voulons l'escalader!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UMBRELLA
+#, fuzzy
+msgid "Should keep some of the rain out."
+msgstr "Devrait garder une partie de la pluie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UNIMPLEMENTED
+#, fuzzy
+msgid "What a crummy item."
+msgstr "Quel article minable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAFFLES
+#, fuzzy
+msgid "Yummy!"
+msgstr "Délicieuse!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY.BURNT
+#, fuzzy
+msgid "It didn't keep the fire out."
+msgstr "Cela n'a pas empêché le feu d'entrer."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY.GENERIC
+#, fuzzy
+msgid "This will keep all sorts of things out!"
+msgstr "Cela évitera toutes sortes de choses!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY_ITEM
+#, fuzzy
+msgid "Some grass tied together."
+msgstr "Un peu d’herbe attachée ensemble."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_MOONROCK
+#, fuzzy
+msgid "We feel safe behind this wall... it makes us sleepy..."
+msgstr "Nous nous sentons en sécurité derrière ce mur ... ça nous rend somnolents ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_RUINS
+#, fuzzy
+msgid "Looks sturdy."
+msgstr "Semble solide."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_RUINS_ITEM
+#, fuzzy
+msgid "Wow, these are really heavy."
+msgstr "Wow, ils sont vraiment lourds."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_STONE
+#, fuzzy
+msgid "Bow to the base-building masters!"
+msgstr "Inclinez-vous devant les maîtres de la construction de base!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_STONE_ITEM
+#, fuzzy
+msgid "These should come in handy."
+msgstr "Ceux-ci devraient être utiles."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD.BURNT
+#, fuzzy
+msgid "Turns out wood burns really well."
+msgstr "Il s'avère que le bois brûle vraiment bien."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD.GENERIC
+#, fuzzy
+msgid "Like a pillow fort, but wood!"
+msgstr "Comme un oreiller fort, mais en bois!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD_ITEM
+#, fuzzy
+msgid "They won't keep us safe if we keep holding them."
+msgstr "Ils ne nous garderont pas en sécurité si nous continuons à les tenir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS
+#, fuzzy
+msgid "I don't think he wants to be friends with us."
+msgstr "Je ne pense pas qu'il veuille être ami avec nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_CAMP.EMPTY
+#, fuzzy
+msgid "I think someone was here."
+msgstr "Je pense que quelqu'un était là."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_CAMP.GENERIC
+#, fuzzy
+msgid "Maybe they'll invite us in?"
+msgstr "Peut-être qu'ils nous inviteront?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_TUSK
+#, fuzzy
+msgid "Maybe we can use it for arts and crafts."
+msgstr "Peut-être que nous pouvons l'utiliser pour les arts et l'artisanat."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUSHAT
+#, fuzzy
+msgid "Reminds me of grandpa."
+msgstr "Ça me rappelle grand-père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.BURNING
+#, fuzzy
+msgid "Fire fire fire!"
+msgstr "Feu feu feu!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.BURNT
+#, fuzzy
+msgid "We can't hide in there any more."
+msgstr "Nous ne pouvons plus nous cacher là-bas."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.GENERIC
+#, fuzzy
+msgid "We like to pop out and scare our friends sometimes. Haha!"
+msgstr "Nous aimons sortir et effrayer parfois nos amis. Haha!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARG
+#, fuzzy
+msgid "I don't think that puppy is very happy."
+msgstr "Je ne pense pas que ce chiot soit très heureux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WASPHIVE
+#, fuzzy
+msgid "Sounds like anger!"
+msgstr "Cela ressemble à de la colère!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERBALLOON
+#, fuzzy
+msgid "We have to be gentle with our claws if we try to hold it!"
+msgstr "Nous devons être doux avec nos griffes si nous essayons de le tenir!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON
+#, fuzzy
+msgid "Looks tasty!"
+msgstr "Ça a l'air bon!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON_COOKED
+#, fuzzy
+msgid "Anything can be cooked!"
+msgstr "Tout peut être cuit!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON_SEEDS
+#, fuzzy
+msgid "If we eat these will they grow inside us?"
+msgstr "Si nous en mangeons, vont-ils grandir en nous?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELONHAT
+#, fuzzy
+msgid "This is the best idea anyone's ever had."
+msgstr "C'est la meilleure idée que quiconque ait jamais eu."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELONICLE
+#, fuzzy
+msgid "Just the thing for a hot summer day."
+msgstr "Juste ce qu'il faut pour une chaude journée d'été."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.ATTACKER
+#, fuzzy
+msgid "%s looks really mean. And tough."
+msgstr "% s a l'air vraiment méchant. Et dur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.FIRESTARTER
+#, fuzzy
+msgid "You're supposed to put fires out when you're finished."
+msgstr "Vous êtes censé éteindre les feux lorsque vous avez terminé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.GENERIC
+#, fuzzy
+msgid "Wow, %s! You're lookin' tough!"
+msgstr "Wow,% s! Vous avez l'air dur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.GHOST
+#, fuzzy
+msgid "Wow! Even as a ghost you're super tough, %s!"
+msgstr "Hou la la! Même en tant que fantôme, vous êtes super costaud,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.MURDERER
+#, fuzzy
+msgid "We're not scared of pointy spearsticks! Fight!"
+msgstr "Nous n'avons pas peur des flèches pointues! Bats toi!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.REVIVER
+#, fuzzy
+msgid "%s is a super valiant lady."
+msgstr "% s est une femme super vaillante."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHRHAT
+#, fuzzy
+msgid "Haha! It's way too big for us!"
+msgstr "Haha! C'est beaucoup trop gros pour nous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXPAPER
+#, fuzzy
+msgid "Why have paper you can't draw on?"
+msgstr "Pourquoi du papier sur lequel vous ne pouvez pas dessiner?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.ATTACKER
+#, fuzzy
+msgid "%s looks eviler than usual..."
+msgstr "% s semble plus éviler que d'habitude ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.FIRESTARTER
+#, fuzzy
+msgid "Don't burn our things please. We like them."
+msgstr "Ne brûle pas nos affaires s'il te plaît. Nous les aimons."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.GENERIC
+#, fuzzy
+msgid "Hi %s! Lookin' dapper!"
+msgstr "Le sien! Lookin 'Dapper!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.GHOST
+#, fuzzy
+msgid "Aw %s, no one deserves to be stuck like that!"
+msgstr "Aw% s, personne ne mérite d'être coincé comme ça!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.MURDERER
+#, fuzzy
+msgid "You're the real monster, %s!"
+msgstr "Tu es le vrai monstre,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.REVIVER
+#, fuzzy
+msgid "Wow, %s is really nice! He's helping people!"
+msgstr "Wow,% s est vraiment sympa! Il aide les gens!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL
+#, fuzzy
+msgid "I don't think we should play with that..."
+msgstr "Je ne pense pas que nous devrions jouer avec ça ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.ATTACKER
+#, fuzzy
+msgid "Ah! We look scary when we're mad!"
+msgstr "Ah! Nous avons l'air effrayant quand nous sommes fous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.FIRESTARTER
+#, fuzzy
+msgid "Spiderfriend, why did you light that fire?"
+msgstr "Spiderfriend, pourquoi avez-vous allumé ce feu?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.GENERIC
+#, fuzzy
+msgid "A spiderfriend! Hi %s!"
+msgstr "Une araignée! Le sien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.GHOST
+#, fuzzy
+msgid "Oh no! We should help ourselves!"
+msgstr "Oh non! Nous devrions nous aider!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.MURDERER
+#, fuzzy
+msgid "We won't let you hurt our friends!"
+msgstr "Nous ne vous laisserons pas blesser nos amis!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.REVIVER
+#, fuzzy
+msgid "%s likes helping ghosts, just like us."
+msgstr "% s aime aider les fantômes, tout comme nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBERSKULL
+#, fuzzy
+msgid "How did this get here?"
+msgstr "Comment est-ce arrivé ici?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.ATTACKER
+#, fuzzy
+msgid "Are you angry at me, %s?"
+msgstr "Es-tu en colère contre moi,% s?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.FIRESTARTER
+#, fuzzy
+msgid "Uhh, uh-oh, let's play a different game, %s."
+msgstr "Euh, euh-oh, jouons un jeu différent,% s."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.GENERIC
+#, fuzzy
+msgid "Hi %s! Let's play, okay?"
+msgstr "Le sien! Jouons, d'accord?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.GHOST
+#, fuzzy
+msgid "Don't worry, %s! Our spider friends will help bring you back!"
+msgstr "Ne vous inquiétez pas,% s! Nos amis araignées vous aideront à vous ramener!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.MURDERER
+#, fuzzy
+msgid "We're taking my friendship bracelet back!"
+msgstr "Nous reprenons mon bracelet d'amitié!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.REVIVER
+#, fuzzy
+msgid "%s always plays nice with ghosts."
+msgstr "% s joue toujours bien avec les fantômes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.ATTACKER
+#, fuzzy
+msgid "Maybe we can talk this out?"
+msgstr "Peut-être que nous pouvons en parler?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.FIRESTARTER
+#, fuzzy
+msgid "You were just supposed to mime lighting it!"
+msgstr "Vous étiez juste censé mimer l'éclairer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.GENERIC
+#, fuzzy
+msgid "Hey! Hi %s!"
+msgstr "Hey! Le sien!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.GHOST
+#, fuzzy
+msgid "We'll help you get back on your feet, %s!"
+msgstr "Nous vous aiderons à vous remettre sur pied,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.MURDERER
+#, fuzzy
+msgid "You're supposed to play nice!"
+msgstr "Tu es censé bien jouer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.REVIVER
+#, fuzzy
+msgid "%s is super nice. And his makeup's cool!"
+msgstr "% s est super sympa. Et son maquillage est cool!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WETGOOP
+#, fuzzy
+msgid "Experimenting is fun!"
+msgstr "Expérimenter, c'est amusant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WHIP
+#, fuzzy
+msgid "Oooh, it makes so much noise!"
+msgstr "Oooh, ça fait tellement de bruit!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.ATTACKER
+#, fuzzy
+msgid "Uh-oh! We're in trouble with Ms. %s!"
+msgstr "Uh-oh! Nous avons des problèmes avec Mme% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.FIRESTARTER
+#, fuzzy
+msgid "Ms. %s! We already had our combustion lessons!"
+msgstr "Mme% s! Nous avons déjà eu nos leçons de combustion!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.GHOST
+#, fuzzy
+msgid "Don't worry Ms. %s, we'll find you a heart!"
+msgstr "Ne vous inquiétez pas Mme% s, nous allons vous trouver un coeur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.MURDERER
+#, fuzzy
+msgid "Killer! Does this mean we don't have to do our homework?!"
+msgstr "Tueur! Est-ce que cela signifie que nous n'avons pas à faire nos devoirs?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.REVIVER
+#, fuzzy
+msgid "Ms. %s is very smart and wise. She's neat!"
+msgstr "Mme% s est très intelligente et avisée. Elle est chouette!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.ATTACKER
+#, fuzzy
+msgid "%s's playing with fire. Err..."
+msgstr "% s joue avec le feu. Se tromper..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.FIRESTARTER
+#, fuzzy
+msgid "Another fire? Well, as long as you're happy..."
+msgstr "Un autre feu? Tant que tu es heureux ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.GENERIC
+#, fuzzy
+msgid "Hi %s! How's Bernie?"
+msgstr "Le sien! Comment va Bernie?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.GHOST
+#, fuzzy
+msgid "Uh-oh! Does that hurt, %s?"
+msgstr "Uh-oh! Est-ce que ça fait mal,% s?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.MURDERER
+#, fuzzy
+msgid "You're gonna get burned, %s!"
+msgstr "Vous allez vous brûler,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.REVIVER
+#, fuzzy
+msgid "%s's like a burnt marshmallow. Crispy on the outside, gooey on the inside!"
+msgstr "% s est comme une guimauve brûlée. Croustillant à l'extérieur, gluant à l'intérieur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.ATTACKER
+#, fuzzy
+msgid "Why are you being so mean, %s?"
+msgstr "Pourquoi es-tu si méchant,% s?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.FIRESTARTER
+#, fuzzy
+msgid "Uh... Is your hair smoking, %s?"
+msgstr "Euh ... Est-ce que tes cheveux sont en train de fumer,% s?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.GENERIC
+#, fuzzy
+msgid "Hi %s! Nice weather we're having!"
+msgstr "Le sien! Nous avons du beau temps!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.GHOST
+#, fuzzy
+msgid "You're looking much paler than usual, %s!"
+msgstr "Vous semblez beaucoup plus pâle que d'habitude,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.MURDERER
+#, fuzzy
+msgid "Meanie! We will stop you no matter what!"
+msgstr "Meanie! Nous vous arrêterons quoi qu'il arrive!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.REVIVER
+#, fuzzy
+msgid "%s doesn't believe in ghosts, but he believes in us!"
+msgstr "% s ne croit pas aux fantômes, mais il croit en nous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD1
+#, fuzzy
+msgid "I won't eat it. It's our friend now."
+msgstr "Je ne le mangerai pas C'est notre ami maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD2
+#, fuzzy
+msgid "Icy icy icing!"
+msgstr "Glaçage glacé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD3
+#, fuzzy
+msgid "Eat twenty candy canes! There's no candy shame!"
+msgstr "Manger vingt cannes de bonbon! Il n'y a pas de honte de bonbons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD5
+#, fuzzy
+msgid "Haha, Wendy! Watch our Woodie impression!"
+msgstr "Haha, Wendy! Regardez notre impression Woodie!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD6
+#, fuzzy
+msgid "Where are the plums?"
+msgstr "Où sont les prunes?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD7
+#, fuzzy
+msgid "Apple juice?! Yes!!"
+msgstr "Jus de pomme?! Oui!!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD8
+#, fuzzy
+msgid "It makes our claws and tummy so warm."
+msgstr "Cela rend nos griffes et notre ventre si chauds."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENT
+#, fuzzy
+msgid "Can we get a boost? We can't reach the treetop."
+msgstr "Peut-on avoir un coup de pouce? Nous ne pouvons pas atteindre la cime des arbres."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTBOSS
+#, fuzzy
+msgid "Wow, that one looks great!"
+msgstr "Wow, celui-là est superbe!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTLIGHT
+#, fuzzy
+msgid "We want to keep one for ourselves."
+msgstr "Nous voulons en garder un pour nous-mêmes."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.CANDECORATE
+#, fuzzy
+msgid "Winter's Feast! It's Winter's Feast!"
+msgstr "La fête de l'hiver! C'est la fête de l'hiver!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.YOUNG
+#, fuzzy
+msgid "It still needs to grow some more."
+msgstr "Il doit encore grandir un peu plus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREESTAND.GENERIC
+#, fuzzy
+msgid "It's just a boring planter without a tree."
+msgstr "C'est juste un planteur ennuyeux sans arbre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTERHAT
+#, fuzzy
+msgid "Mum always said I should take a cap with me."
+msgstr "Maman a toujours dit que je devais prendre un bonnet avec moi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.BURNT
+#, fuzzy
+msgid "How come everything turns to ashes? It's sad."
+msgstr "Comment se fait-il que tout se transforme en cendres? C'est triste."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.GENERIC
+#, fuzzy
+msgid "How hot is it, Mr. Thermal Measurer?"
+msgstr "Quelle température fait-il, M. Mesureur thermique?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.ATTACKER
+#, fuzzy
+msgid "Hey %s, you look upset about something."
+msgstr "Hey% s, tu sembles contrarié par quelque chose."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.FIRESTARTER
+#, fuzzy
+msgid "%s, no!! Fire can hurt you!"
+msgstr "% s, non !! Le feu peut vous blesser!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.GENERIC
+#, fuzzy
+msgid "Hi %s! Have you been working out?"
+msgstr "Le sien! Avez-vous travaillé?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.GHOST
+#, fuzzy
+msgid "I'm sure you're the strongest ghost, %s. Let's get a heart though."
+msgstr "Je suis sûr que vous êtes le plus fort des fantômes,% s. Obtenons un coeur cependant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.MURDERER
+#, fuzzy
+msgid "You're just a big bully!"
+msgstr "Vous êtes juste un gros tyran!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.REVIVER
+#, fuzzy
+msgid "%s's nice! I wish he'd stop messing up our head fur, though."
+msgstr "% s est gentil! J'aimerais bien qu'il arrête de gâcher notre pelage de tête."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.BEAVER
+#, fuzzy
+msgid "%s's being gnawghty."
+msgstr "% s est gnawghty."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.BEAVERGHOST
+#, fuzzy
+msgid "Can I pet your ears or will our claws swish through?"
+msgstr "Puis-je caresser vos oreilles ou nos griffes passeront-elles?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.FIRESTARTER
+#, fuzzy
+msgid "Um. I think you lit a fire, %s."
+msgstr "Hum Je pense que vous avez allumé un feu,% s."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.GENERIC
+#, fuzzy
+msgid "Hi %s, hi Lucy!"
+msgstr "Salut% s, salut Lucy!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.GHOST
+#, fuzzy
+msgid "Wanna go heart-hunting with us, %s?"
+msgstr "Tu veux aller chasser le coeur avec nous,% s?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.MURDERER
+#, fuzzy
+msgid "You need to treat people nicer, %s!"
+msgstr "Vous devez traiter les gens plus gentils,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.REVIVER
+#, fuzzy
+msgid "%s is gruff, but nice."
+msgstr "% s est bourru, mais sympa."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.DIRT
+#, fuzzy
+msgid "Some dirt, big whoop."
+msgstr "Un peu de saleté, gros caca."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.PLANT
+#, fuzzy
+msgid "What could possibly go wrong?"
+msgstr "Qu'est ce qui pourrait aller mal?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.WORM
+#, fuzzy
+msgid "Creepy crawly!"
+msgstr "Creepy crawly!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE.GENERIC
+#, fuzzy
+msgid "I think that thing is alive."
+msgstr "Je pense que cette chose est en vie."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE.OPEN
+#, fuzzy
+msgid "I've been in worse."
+msgstr "J'ai été pire."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE_LIMITED
+#, fuzzy
+msgid "Gross, that one looks sick!"
+msgstr "Gross, celui-ci a l'air malade!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT
+#, fuzzy
+msgid "It's gushing with light."
+msgstr "Il jaillit avec la lumière."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT_LESSER
+#, fuzzy
+msgid "I dare you to eat it!"
+msgstr "Je te défie de le manger!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT_PLANT
+#, fuzzy
+msgid "What could possibly go wrong?"
+msgstr "Qu'est ce qui pourrait aller mal?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.ATTACKER
+#, fuzzy
+msgid "We thought you were a friendly robot, %s!"
+msgstr "Nous pensions que vous étiez un robot amical,% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.FIRESTARTER
+#, fuzzy
+msgid "Maybe they didn't know fire is dangerous to us."
+msgstr "Peut-être qu'ils ne savaient pas que le feu est dangereux pour nous."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.GENERIC
+#, fuzzy
+msgid "Hi %s! You look very non-organic today!"
+msgstr "Le sien! Vous avez l'air très non-bio aujourd'hui!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.GHOST
+#, fuzzy
+msgid "Bad day destroying humans, %s? Tomorrow will be better!"
+msgstr "Mauvais jour détruisant les humains,% s? Demain sera meilleur!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.MURDERER
+#, fuzzy
+msgid "Let us introduce you to our world wide web! Sh-sha!"
+msgstr "Laissez-nous vous présenter notre site internet! Sh-sha!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.REVIVER
+#, fuzzy
+msgid "Aww. We'd beep-boop %s on the nose if they had one!"
+msgstr "Aww. Nous ferions bip-up% s sur le nez s'ils en avaient un!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET
+#, fuzzy
+msgid "Nice and glowy."
+msgstr "Nice et brillant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWGEM
+#, fuzzy
+msgid "Yellow-bellied gem."
+msgstr "Joyau à ventre jaune."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWMOONEYE
+#, fuzzy
+msgid "Even with all our eyes, we'd still lose in a staring contest."
+msgstr "Même avec tous nos yeux, nous perdrions toujours dans un concours de regarder."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWSTAFF
+#, fuzzy
+msgid "We summon you, warm ball of light!"
+msgstr "Nous vous appelons, boule de lumière chaude!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_GENERIC
+#, fuzzy
+msgid "Can we play with it?"
+msgstr "Pouvons-nous jouer avec?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_SMOLDERING
+#, fuzzy
+msgid "Uh-oh. I smell burning!"
+msgstr "Uh-oh. Je sens brûler!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_TOODARK
+#, fuzzy
+msgid "All our eyes stopped working!"
+msgstr "Tous nos yeux ont cessé de fonctionner!"
