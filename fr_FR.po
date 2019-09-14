@@ -1,4 +1,4 @@
-#: GLOBAL.CHARACTER_GENDERS.FEMALE.STRINGS.CHARACTER_TITLES.elli
+#: CHARACTER_GENDERS.FEMALE.STRINGS.CHARACTER_TITLES.elli
 msgid "Immune Survivor"
 msgstr "Survivant immunisé"
 
@@ -4138,7 +4138,7 @@ msgstr "Il y a encore quelques épines entre moi et un bon repas."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CACTUS_MEAT_COOKED
 msgid "Grilled fruit of the desert."
-msgstr "Fruit grillé du désert."
+msgstr "Fruit du désert grillé."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.CAMPFIRE.EMBERS
 msgid "That fire needs more fuel or it's going to go out."
@@ -4883,7 +4883,7 @@ msgstr "Prends ça, la nature !"
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 #, fuzzy
 msgid "This sad tree has no cones."
-msgstr "Ce triste arbre n'a pas de cônes."
+msgstr "Ce triste arbre n'a pas d'épine."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.EYEBRELLAHAT
 #, fuzzy
@@ -5046,7 +5046,7 @@ msgstr "Maintenant, je vais manger pour un jour."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FISH_COOKED
 msgid "Grilled to perfection."
-msgstr "Grillé à la perfection."
+msgstr "Cuit à la perfection."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.FISHINGROD
 #, fuzzy
@@ -5308,9 +5308,8 @@ msgid "It's an extra leafy lizard."
 msgstr "C'est un lézard encore plus feuillu."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GREEN_CAP
-#, fuzzy
 msgid "It seems pretty normal."
-msgstr "C'est normal."
+msgstr "Ça semble assez normal"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.GREEN_CAP_COOKED
 msgid "It's different now..."
@@ -6535,7 +6534,7 @@ msgstr "Ceux-ci se sont avérés assez bon."
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PETALS
 #, fuzzy
 msgid "Sure showed those flowers who's boss!"
-msgstr "Bien sûr montré ces fleurs qui est le patron!"
+msgstr "Bien sûr montrons a ces fleurs qui c'est le patron"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.PETALS_EVIL
 #, fuzzy
@@ -6807,7 +6806,7 @@ msgstr "Aimez-vous la science?"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.GENERIC
 msgid "That must lead to the Kingdom of the Bunnymen."
-msgstr ""
+msgstr "Cela doit mener au Royaume des Lapins."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABBITHOLE.SPRING
 msgid "The Kingdom of the Bunnymen is closed for the season."
@@ -6816,7 +6815,7 @@ msgstr ""
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABBITHOUSE.BURNT
 #, fuzzy
 msgid "That's not a real roasted carrot."
-msgstr "Carotte rôtie"
+msgstr "Carotte grillé"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RABBITHOUSE.GENERIC
 #, fuzzy
@@ -6953,7 +6952,7 @@ msgstr "qu'est-ce que c'était ?"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.RESURRECTIONSTONE
 msgid "It's always a good idea to touch base."
-msgstr ""
+msgstr "C’est toujours une bonne idée de toucher"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.REVIVER
 msgid "The beating of this hideous heart will bring a ghost back to life!"
@@ -7199,7 +7198,7 @@ msgstr ""
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCULPTURE_KNIGHTHEAD
 msgid "Where's the rest of it?"
-msgstr ""
+msgstr "Où est le reste ?"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SCULPTURE_ROOKBODY.COVERED
 msgid "It's some sort of marble statue."
@@ -7267,7 +7266,7 @@ msgstr ""
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON
 msgid "Better you than me."
-msgstr ""
+msgstr "Mieux vaut toi que moi."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.SKELETON_PLAYER.DEFAULT
 msgid "%s must've died performing an experiment with %s."
@@ -7530,11 +7529,11 @@ msgstr ""
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.STATUEHARP
 msgid "What happened to the head?"
-msgstr ""
+msgstr "Qu'est-il arrivé à la tête ?"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.STATUEMAXWELL
 msgid "He's a lot shorter in person."
-msgstr ""
+msgstr "Il est beaucoup plus petit en vrai."
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.STEELWOOL
 msgid "Scratchy metal fibers."
@@ -8062,7 +8061,7 @@ msgstr ""
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TWIGGYTREE.GENERIC
 msgid "It's all stick-y."
-msgstr ""
+msgstr "C'est que des bâtons"
 
 #: STRINGS.CHARACTERS.GENERIC.DESCRIBE.TWIGS
 msgid "It's a bunch of small twigs."
@@ -14010,7 +14009,6 @@ msgid "I will end your moping, giant!"
 msgstr ""
 
 #: STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.WHALE_BUBBLES
-#, fuzzy
 msgid "Something lurks beneath."
 msgstr "Il y a quelque chose dedans ?"
 
@@ -19679,7 +19677,7 @@ msgstr ""
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CHARLIE
 msgid "Is somebody there?!"
-msgstr ""
+msgstr "Il y a quelqu'un ?!"
 
 #: STRINGS.CHARACTERS.WEBBER.ANNOUNCE_CHARLIE_ATTACK
 msgid "Aah! Monsters in the dark!"
@@ -20033,4705 +20031,13 @@ msgstr ""
 msgid "Simmer down, friend."
 msgstr ""
 
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL
-msgid "That's no party poltergeist!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.GENERIC
-msgid "Pretty petals!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_GROUND
-msgid "Scary blossoms!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.HAUNTED_POCKET
-msgid "Put it down! Put it down!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.LONG
-msgid "I think it's listening to us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.MEDIUM
-msgid "It's getting creepy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ABIGAIL_FLOWER.SOON
-msgid "It gives us itches and skritches up our spine!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACCOMPLISHMENT_SHRINE
-msgid "It gives me a goal in life."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN
-msgid "Tree or food, there's something inside."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN_COOKED
-msgid "Roasted on an open fire."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN_SAPLING
-msgid "May you have a long and free life."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ADVENTURE_PORTAL
-msgid "Something wicked this way comes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.AMULET
-msgid "It's a fine necklace, I suppose."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ALTAR
-msgid "Old and full of mysteries."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_ALTAR_BROKEN
-msgid "It's been busted up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANCIENT_STATUE
-msgid "It's throbbing strangely."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ANIMAL_TRACK
-msgid "Whatever it is, it travels single file."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMOR_SANITY
-msgid "It's a bit uneasy wearing this, but so effective."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORDRAGONFLY
-msgid "Another creature casing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORGRASS
-msgid "It just feels like more hair."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORMARBLE
-msgid "Marbelous protection!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORRUINS
-msgid "Nice and lightweight."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORSLURPER
-msgid "Squeeze our tummy tight!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORSNURTLESHELL
-msgid "It didn't protect the last guy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARMORWOOD
-msgid "Wood you like to fight?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.BURNT
-msgid "The lettering burnt off."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.GENERIC
-msgid "We could write on that if only we had a pen!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_PANEL.UNWRITTEN
-msgid "Ooooh, what should we say?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.BURNT
-msgid "The lettering burnt off."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.GENERIC
-msgid "We could write on that if only we had a pen!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ARROWSIGN_POST.UNWRITTEN
-msgid "Ooooh, what should we say?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.GENERIC
-msgid "Funk to funky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_EYE_BONE
-msgid "The eyebone didn't survive the trip."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_GLOMMERFLOWER
-msgid "The flower didn't make it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_THINGIE
-msgid "Whatever it was, it's gone back to the earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.AXE
-msgid "Chop and chop."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.GENERIC
-msgid "Get busy, child."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BABYBEEFALO.SLEEPING
-msgid "That's the opposite of busy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BACKPACK
-msgid "It's like a second abdomen we can store things in."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BACONEGGS
-msgid "I'd rather have sugary cereal. Oh well."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOON
-msgid "Balloon animals! Balloon animals!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BALLOONS_EMPTY
-msgid "Is there going to be a party?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BANDAGE
-msgid "Bandages for booboos."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BASALT
-msgid "Impenetrable."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BAT
-msgid "Screechy mean guy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATBAT
-msgid "Flap that bat like you were born to do it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATCAVE
-msgid "Oooh they're hiding in there!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATWING
-msgid "This thing drives me batty."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BATWING_COOKED
-msgid "Tastes like chicken."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARDHAIR
-msgid "In another life, I could've grown this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGER
-msgid "Run for the hills!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGER_FUR
-msgid "It's so thick!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEARGERVEST
-msgid "We'll be the hairiest spider ever."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_FURRY
-msgid "I miss being able to properly feel a nice bedroll."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEDROLL_STRAW
-msgid "Musty but relaxing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEE.GENERIC
-msgid "Always Be Pollinating."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEE.HELD
-msgid "Ours now!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.BURNT
-msgid "The site of The Great Honey Fire."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.FULLHONEY
-msgid "It's full to brimming."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.GENERIC
-msgid "It's a box with bees in it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.NOHONEY
-msgid "There's no honey inside."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.READY
-msgid "It's full to brimming."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.SOMEHONEY
-msgid "Work faster, bees!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.DOMESTICATED
-msgid "This one likes us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.FOLLOWER
-msgid "He seems to want to stick around."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.GENERIC
-msgid "Big big beefalo!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.NAKED
-msgid "Shaved you good!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.ORNERY
-msgid "We're kind of scared of this one."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.PUDGY
-msgid "We like to cuddle this one!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.RIDER
-msgid "This one looks fast."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.SLEEPING
-msgid "Slumber deep, beefalo."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOHAT
-msgid "The wearer will blend in perfectly."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALOWOOL
-msgid "Thick fur."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEGUARD
-msgid "So fluffy but so mean!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEHAT
-msgid "It's a face fortress!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEHIVE
-msgid "It's a hive of activity."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEMINE
-msgid "Would you bee mine?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEMINE_MAXWELL
-msgid "I just can't mosquito you."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEEN
-msgid "Bees aren't our friends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVE.GENERIC
-msgid "Not web. We can't walk on it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVE.GROWING
-msgid "I wonder what the bees are making!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEQUEENHIVEGROWN
-msgid "Oh, bother!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEESWAX
-msgid "This stuff gives me hives."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BELL
-msgid "Exactly the right amount of bell."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_ACTIVE
-msgid "That teddy bear is moving!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.BROKEN
-msgid "It's all busted up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERNIE_INACTIVE.GENERIC
-msgid "A teddy bear."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES
-msgid "Juice sacks."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_COOKED
-msgid "Warm juice sacks."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_JUICY
-msgid "Yum! Let's find more!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_JUICY_COOKED
-msgid "They're so filling!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.BARREN
-msgid "It's run out of plant food."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.BURNING
-msgid "Uh-oh! Burnies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.DISEASED
-msgid "Maybe it needs some chicken soup?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.DISEASING
-msgid "Are you okay, lil bush?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.GENERIC
-msgid "Ripe for the pickin'."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.PICKED
-msgid "See you soon, berries!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.WITHERED
-msgid "Heat too intense for ya?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.BARREN
-msgid "It needs some poops!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.BURNING
-msgid "Uh-oh! Burnies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.DISEASED
-msgid "Maybe it needs some chicken soup?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.DISEASING
-msgid "Are you okay, lil bush?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.GENERIC
-msgid "Those berries look so juicy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.PICKED
-msgid "It's taking a nap."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH_JUICY.WITHERED
-msgid "Aww, are you sad?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIGFOOT
-msgid "AAAAAAAAAAH!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRCHNUTDRAKE
-msgid "So that's what's inside!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_EGG
-msgid "A hard shelled egg."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRD_EGG_COOKED
-msgid "Fried just like mum did."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.DEAD
-msgid "We weren't very good wardens."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.GENERIC
-msgid "It's the jail."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.HUNGRY
-msgid "He looks hungry."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.OCCUPIED
-msgid "Jailbird."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.SKELETON
-msgid "Eww."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.SLEEPING
-msgid "You have to sleep to survive in the jail."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDCAGE.STARVING
-msgid "We need to feed him."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIRDTRAP
-msgid "Come to our web trap, birds!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP
-msgid "You don't play by the chess rules grandpa taught me."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_CHARGE_HIT
-msgid "Owie!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BISHOP_NIGHTMARE
-msgid "Bishop of bad dreams."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_FIRE
-msgid "One step above blowing hot air."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_PIPE
-msgid "Same as blowing bubbles."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_SLEEP
-msgid "Airborne sleeping agent."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLOWDART_YELLOW
-msgid "It's a shock to the system."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_CAP
-msgid "You'd have to be crazy..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_CAP_COOKED
-msgid "Good thing we're feeling healthy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.GENERIC
-msgid "Vroom vroom, mushroom."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.INGROUND
-msgid "Hiding, are we?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.PICKED
-msgid "Maybe it will regrow."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEAMULET
-msgid "I guess it's nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEGEM
-msgid "Glittering and cool."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEMOONEYE
-msgid "Hey! Did anyone lose an eye?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEPRINT.COMMON
-msgid "\"Follow the instructions\", mum always said."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUEPRINT.RARE
-msgid "This one feels special."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOARDS
-msgid "Logs, but flat."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOAT
-msgid "All these legs, but we don't row."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESHARD
-msgid "Boney bits."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BONESTEW
-msgid "Smells like Sunday supper."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_BIRDS
-msgid "This one has pictures!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_BRIMSTONE
-msgid "We don't like how that one ends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_GARDENING
-msgid "Why should we read about flowers when we can pick them?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_SLEEP
-msgid "It's... beddy-bye time..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_TENTACLES
-msgid "Why are the pages all slimy?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOMERANG
-msgid "Boomerangarangarang!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BRUSH
-msgid "It's more scratchy than anything."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUGNET
-msgid "I'm not a bug! We're an arachnid!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNDLE
-msgid "That's one of my favorite things!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNDLEWRAP
-msgid "Let's cocoon something for later!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUNNYMAN
-msgid "Hop along, lil bunny."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BURNT_MARSH_BUSH
-msgid "All burned up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUSHHAT
-msgid "For looking bushier!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTER
-msgid "Butter is better."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLY.GENERIC
-msgid "Look at it, flitting around happily."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLY.HELD
-msgid "Not so happy now, are we?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLYMUFFIN
-msgid "Do you know the muffin spider?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUTTERFLYWINGS
-msgid "Pick our teeth with butterfly bones."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BUZZARD
-msgid "You won't find any carrion here. We're stuck like this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.GENERIC
-msgid "It's got more things coming out of it than we do."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS.PICKED
-msgid "It's got no meat left in it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_FLOWER
-msgid "This part is nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_MEAT
-msgid "Haven't had enough, huh?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CACTUS_MEAT_COOKED
-msgid "Take that, pokey things!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.EMBERS
-msgid "We should put something on the fire before it goes out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.GENERIC
-msgid "Sure beats the cold. And darkness."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.HIGH
-msgid "That fire is huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.LOW
-msgid "The fire's getting a touch low."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.NORMAL
-msgid "Nice and warm."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.OUT
-msgid "Well, that's done."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY.GENERIC
-msgid "That's a yellow bird."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY.HELD
-msgid "Caught you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY_POISONED
-msgid "Uh, are you feeling okay?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANDYBAG
-msgid "Treats, treats, treats!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANE
-msgid "One more point of contact couldn't slow us down."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT
-msgid "I sort of miss being forced to eat these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_COOKED
-msgid "Easier for us both."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_PLANTED
-msgid "Bury your head, carrot."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.BURNING
-msgid "Ohh no, uh, oh no!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.BURNT
-msgid "That's probably why I wasn't allowed in father's study."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.GENERIC
-msgid "Heh heh. I was never allowed in father's study."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOON
-msgid "A bit more feral than grandpa's cat."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONDEN.EMPTY
-msgid "The nine lives thing is true!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONDEN.GENERIC
-msgid "Trunk house."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CATCOONHAT
-msgid "Hat of a cat."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA
-msgid "A bundle of bananas."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_BURNT
-msgid "Oopsie doodle."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_COOKED
-msgid "Hot mush."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_BANANA_TREE
-msgid "It's a tropical cave tree, of course."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE
-msgid "It's plugged up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.FULL
-msgid "We'll explore when everyone else has had their turn!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.GENERIC
-msgid "We'd rather visit our spider friends on the surface."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_OPEN.OPEN
-msgid "I can hear some spider friends down there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_RUINS
-msgid "It's plugged up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.FULL
-msgid "They don't have enough space for us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.GENERIC
-msgid "We like it down here."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_EXIT.OPEN
-msgid "It leads back to the light."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_FERN
-msgid "Swirly plants."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHARCOAL
-msgid "Hard and black, like my better half."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK1
-msgid "A mess of chess."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK2
-msgid "A mess of chess."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSJUNK3
-msgid "A mess of chess."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
-msgid "We've never seen toys so big."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
-msgid "It's... alive?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_FORMAL.GENERIC
-msgid "Reminds me of grandpa."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_HORNUCOPIA.GENERIC
-msgid "Boy, I wish we could eat it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.GENERIC
-msgid "We could sculpt a stallion battalion!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
-msgid "It's... alive?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_MUSE.GENERIC
-msgid "We're sure she's nicer than she looks."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_PAWN.GENERIC
-msgid "Pawns are just as important as the rest of the pieces."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_PIPE.GENERIC
-msgid "Bubbles!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.GENERIC
-msgid "Where's the king of the castle?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
-msgid "It's... alive?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER
-msgid "Haha. You make all our stuff slobbery."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER_EYEBONE.GENERIC
-msgid "Peekaboo."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESTER_EYEBONE.WAITING
-msgid "We spy a tired eye."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.EMBERS
-msgid "We should put something on the fire before it goes out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.GENERIC
-msgid "Sure beats the heat. And darkness."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.HIGH
-msgid "That fire is huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.LOW
-msgid "The fire's getting a touch low."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.NORMAL
-msgid "Nice and cool."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.OUT
-msgid "Well, that's done."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.EMBERS
-msgid "We should put something on the fire before it goes out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.GENERIC
-msgid "Sure beats the heat. And darkness."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.HIGH
-msgid "That fire is huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.LOW
-msgid "The fire's getting a touch low."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.NORMAL
-msgid "Nice and cool."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.OUT
-msgid "Well, that's done. But not forever!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.E
-msgid "East!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.GENERIC
-msgid "No reading!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.N
-msgid "North!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.NE
-msgid "Northeast!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.NW
-msgid "Northwest!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.S
-msgid "South!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.SE
-msgid "Southeast!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.SW
-msgid "Southwest!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.W
-msgid "West!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMANDRAKE
-msgid "Cooked to death."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMEAT
-msgid "Can't have any pudding if we don't eat it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDMONSTERMEAT
-msgid "I don't know what everyone's complaining about."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKEDSMALLMEAT
-msgid "Meat treat."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.BURNT
-msgid "Someone must have left the fire going."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.COOKING_LONG
-msgid "It won't be done for a while."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.COOKING_SHORT
-msgid "Almost ready!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.DONE
-msgid "Supper is served."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COOKPOT.EMPTY
-msgid "Food goes in, other food comes out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COONTAIL
-msgid "I always liked pulling Whiskers' tail."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN
-msgid "Corn in the raw."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN_COOKED
-msgid "Popping corn."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CORN_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_DRAGONLING
-msgid "She's a monster just like me!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_GLOMLING
-msgid "He gives the fuzziest hugs."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_KITTEN
-msgid "You look like grandpa's cat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_LAMB
-msgid "Father taught me how to take care of goats!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTER_PUPPY
-msgid "We're best friends."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CRITTERLAB
-msgid "It looks warm in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CROW.GENERIC
-msgid "Oh, you look like you're having a grand time, flying about."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CROW.HELD
-msgid "We all want a bit of freedom."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTGRASS
-msgid "We should be able to weave this, too."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTLICHEN
-msgid "I like me a lichen."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTREEDS
-msgid "Reeds, web, what's the difference."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTSTONE
-msgid "Squared rocks."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEADLYFEAST
-msgid "Scent of doom."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.BURNING
-msgid "What a senseless waste of firewood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.BURNT
-msgid "Only we can prevent forest fires."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.CHOPPED
-msgid "Would a cool bandage make it better, Mr. Tree?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.GENERIC
-msgid "My, what nice foliage you have."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.POISON
-msgid "What're you so mad about?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER.ANTLER
-msgid "Did you change your hair? Looks good!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER.GENERIC
-msgid "It looks soft."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER_ANTLER
-msgid "Haha, weird."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEER_GEMMED
-msgid "Don't hurt us and we won't hurt you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEERCLOPS
-msgid "He might be able to digest me!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEERCLOPS_EYEBALL
-msgid "Yucktastic."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEPLETED_GRASS.GENERIC
-msgid "It was once grass."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEVTOOL
-msgid "Axe me a question!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DEVTOOL_NODEV
-msgid "I can't wield that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIRTPILE
-msgid "A pile of dirt. I bet it's hiding something."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.COLD
-msgid "Nothing nearby."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.GENERIC
-msgid "Lead and I shall follow."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.HOT
-msgid "We are close!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.WARM
-msgid "Going the right way."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGROD.WARMER
-msgid "Something must be near."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.GENERIC
-msgid "It's a mystery."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.READY
-msgid "Looks like there's a hole for an oversized key."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.UNLOCKED
-msgid "It's ready to go."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODSTART
-msgid "Radical rod!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGON_SCALES
-msgid "They don't weigh much for scales."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLY
-msgid "Oh, don't you just drag on."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYCHEST
-msgid "It looks like my old toy chest!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.GENERIC
-msgid "It's a fancy furnace!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.HAMMERED
-msgid "What happened to your face?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.HIGH
-msgid "Hot hot furnace!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFLYFURNACE.NORMAL
-msgid "Warmish furnace."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT
-msgid "It looks suspect."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT_COOKED
-msgid "It looks tastier now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONFRUIT_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRAGONPIE
-msgid "Oh! Sweet and tasty!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRUMSTICK
-msgid "I just want to bang on my drum."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DRUMSTICK_COOKED
-msgid "We love finger food."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_BERRYBUSH
-msgid "Into the ground with you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_BERRYBUSH_JUICY
-msgid "Into the ground with you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_GRASS
-msgid "Into the ground with you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_MARSH_BUSH
-msgid "Into the ground with you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DUG_SAPLING
-msgid "Into the ground with you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN
-msgid "Pungent."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN_COOKED
-msgid "No sir, I don't like it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EARMUFFSHAT
-msgid "Strap some rabbits to your head, good idea."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EEL
-msgid "Fresh water-snake."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EEL_COOKED
-msgid "We could slurp this down."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT
-msgid "Blech, eggplant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_COOKED
-msgid "Mum knew I liked it braised."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EGGPLANT_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.BURNT
-msgid "Antiques are dumb, anyway."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.EMPTY
-msgid "Reminds me of antique shopping with mother."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.FRESHLIGHT
-msgid "Nice and bright!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.GENERIC
-msgid "Looks great!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.OLDLIGHT
-msgid "It's gonna go out soon."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.WILTED
-msgid "They look sad."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.BURNING
-msgid "What a senseless waste of firewood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.BURNT
-msgid "Only we can prevent forest fires."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.CHOPPED
-msgid "Would a cool bandage make it better, Mr. Tree?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.GENERIC
-msgid "Pines are always greener on the other side of the fence."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.BURNING
-msgid "What a senseless waste of firewood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.BURNT
-msgid "Only we can prevent forest fires."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
-msgid "Would a cool bandage make it better, Mr. Tree?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN_SPARSE.GENERIC
-msgid "A dying breed."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYEBRELLAHAT
-msgid "Disturbing, but it'll keep us dry."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYEPLANT
-msgid "Ever vigilant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYETURRET
-msgid "Stop looking at me!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EYETURRET_ITEM
-msgid "Wakey wakey!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.BURNT
-msgid "A razed farm is no farm at all."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.GENERIC
-msgid "I'll have a go at this farming thing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.GROWING
-msgid "C'mooon, plants!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FARMPLOT.NEEDSFERTILIZER
-msgid "The soil is dried up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_CANARY
-msgid "Feather of yellow."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_CROW
-msgid "Feather of black."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_ROBIN
-msgid "Feather of red."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHER_ROBIN_WINTER
-msgid "Feather of white."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERFAN
-msgid "This thing is huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERHAT
-msgid "It looks like it took a whole flock to make that hat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEATHERPENCIL
-msgid "Haha! It tickles!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FEM_PUPPET
-msgid "She's locked up!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE
-msgid "I don't think we can jump over that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_GATE
-msgid "The hinges are a little squeaky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_GATE_ITEM
-msgid "Let's build a gate!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FENCE_ITEM
-msgid "Let's build a fence!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FERTILIZER
-msgid "I saw mum use this in her gardens."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREFLIES.GENERIC
-msgid "Elusive little buggies."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREFLIES.HELD
-msgid "Going on an adventure, got some fireflies in our pocket!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREHOUND
-msgid "He's got a fire under his feet. And all inside him."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.EMBERS
-msgid "We should put something on the fire before it goes out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.GENERIC
-msgid "Sure beats the cold. And darkness."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.HIGH
-msgid "That fire is huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.LOW
-msgid "The fire's getting a touch low."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.NORMAL
-msgid "Nice and warm."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.OUT
-msgid "Well, that's done. But not forever!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESTAFF
-msgid "We didn't start the fire."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.LOWFUEL
-msgid "Running low on fuel."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.OFF
-msgid "It's off."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIRESUPPRESSOR.ON
-msgid "This would come in handy in a snowball fight."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH
-msgid "It could stand to be fried."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISH_COOKED
-msgid "Flaky and moist. Delicious."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHINGROD
-msgid "I miss grandpa's fishing trips."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHSTICKS
-msgid "One of my favorite foods! Just me though."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FISHTACOS
-msgid "Taco Tuesday!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLINT
-msgid "Oh, to feel a sharp edge against my skin."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER.GENERIC
-msgid "We agree that flowers are nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER.ROSE
-msgid "Bright red petals! We love it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE
-msgid "Oooh, a glowing ball of flower!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE_DOUBLE
-msgid "Oooh, a glowing ball of flower!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_CAVE_TRIPLE
-msgid "Oooh, a glowing ball of flower!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_EVIL
-msgid "This flower is decidedly not nice!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER_WITHERED
-msgid "Aww so sad!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWERHAT
-msgid "Colorful crown."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWERSALAD
-msgid "Five servings a day."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOLIAGE
-msgid "Soft and leafy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOOTBALLHAT
-msgid "We could be good at football, much better than I was!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_PIECE
-msgid "We want to play archaeologist!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.COMPLETE
-msgid "That looks real good!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.FUNNY
-msgid "Maybe we shouldn't play with bones."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.GENERIC
-msgid "Needs more bones!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.DEAD
-msgid "A hop too far."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.GENERIC
-msgid "Ack! Sticky tongue!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROG.SLEEPING
-msgid "Oblivious amphibious."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGGLEBUNWICH
-msgid "Sandwich for me, frog legs for him."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGLEGS
-msgid "A fraction of a frog."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FROGLEGS_COOKED
-msgid "I admit, we've acquired a taste for those."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FRUITMEDLEY
-msgid "Pile o'fruit."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FURTUFT
-msgid "Fluffy, and not from a spider."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GARGOYLE_HOUND
-msgid "Haha. We can stack things on its head and it won't even move."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GARGOYLE_WEREPIG
-msgid "Yikes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEARS
-msgid "WX eats them by the fistful!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEMSOCKET.GEMS
-msgid "Looks empty."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GEMSOCKET.VALID
-msgid "Looks good."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GHOST
-msgid "That's not a fun ghost!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFT
-msgid "Oh! What is it?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GIFTWRAP
-msgid "I want to give someone something nice!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMER
-msgid "Nice eyes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFLOWER.DEAD
-msgid "I spoke too soon. It smells worse now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFLOWER.GENERIC
-msgid "It doesn't smell very nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERFUEL
-msgid "Yucky muck!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GLOMMERWINGS
-msgid "I wish I'd at least ended up with wings. Sigh."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOATMILK
-msgid "A glass of milk with every supper."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENAXE
-msgid "Life is okay when you've got a golden axe."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENPICKAXE
-msgid "The finest pickaxe of them all."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENPITCHFORK
-msgid "We can do some fancy forking with this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDENSHOVEL
-msgid "We're gonna dig so many holes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOLDNUGGET
-msgid "We definitely like shiny."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GOOSE_FEATHER
-msgid "Tickle torture."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.BARREN
-msgid "It could use some perking up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.BURNING
-msgid "Fire, fire, fire!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.DISEASED
-msgid "Maybe it needs some chicken soup?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.DISEASING
-msgid "Are you okay, lil tuft?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.GENERIC
-msgid "Grass, next best thing to silk."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.PICKED
-msgid "Picked down to the stems."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.WITHERED
-msgid "The heat wave bested it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS_UMBRELLA
-msgid "Rain won't keep us from playing in puddles!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASSGEKKO.DISEASED
-msgid "It's got ouchies in its tummy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASSGEKKO.GENERIC
-msgid "Hey! You dropped something!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_CAP
-msgid "Smells really earthy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_CAP_COOKED
-msgid "Heat really brings out the juices."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.GENERIC
-msgid "Ready for harvest."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.INGROUND
-msgid "We can't get at it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.PICKED
-msgid "It's gone now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENAMULET
-msgid "Time to build!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENGEM
-msgid "I'm absolutely green with envy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENMOONEYE
-msgid "We could always use more eyes!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREENSTAFF
-msgid "Magic taker-apart-er."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUACAMOLE
-msgid "Holy moley, this is tasty."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUANO
-msgid "Bat doodoo."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GUNPOWDER
-msgid "This black powder stuff packs a punch."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_1
-msgid "Oh, Wendy! We'll trade you for your choco pigs!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_10
-msgid "Candy candy candy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_11
-msgid "Mmm! Sweet revenge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_2
-msgid "Haha ew! It's weird!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_3
-msgid "Haha, that's not candy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_4
-msgid "We aren't totally comfortable with this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_5
-msgid "We forgot what good things tasted like!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_6
-msgid "No worse than the other stuff we've eaten out here!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_7
-msgid "Oh, Ms. Wicker! We saved these for you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_8
-msgid "Candy candy candy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_9
-msgid "Gummy worms, yummy worms!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMBAT
-msgid "An interesting way to use food."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAMMER
-msgid "Chaos and destruction!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HAWAIIANSHIRT
-msgid "Grandpa's style, definitely."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEALINGSALVE
-msgid "Soothing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.COLD
-msgid "It's getting chilly."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.FROZEN
-msgid "It's cold to the touch."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.GENERIC
-msgid "It's a rock."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.HOT
-msgid "It's hot to the touch!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HEATROCK.WARM
-msgid "It's getting hot!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HIVEHAT
-msgid "We could be part bee now too!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOME
-msgid "Hellooo? We're here!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.BURNT
-msgid "The lettering burnt off."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.GENERIC
-msgid "We could write on that if only we had a pen!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOMESIGN.UNWRITTEN
-msgid "Ooooh, what should we say?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEY
-msgid "Sticky and sweet."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYCOMB
-msgid "Honey pods!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYHAM
-msgid "Ooo, tasty!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HONEYNUGGETS
-msgid "We wish they were shaped like dinosaurs."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HORN
-msgid "If this makes a mating call we're all in trouble."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOTCHILI
-msgid "Flavor bombs!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUND
-msgid "That's an angry puppy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDBONE
-msgid "There isn't much left."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDMOUND
-msgid "This place scares us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HOUNDSTOOTH
-msgid "It's the perfect tooth to gnash."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH
-msgid "Give us a Huggy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH_FISHBOWL.GENERIC
-msgid "He's our new friend."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH_FISHBOWL.WAITING
-msgid "He was our new friend."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICE
-msgid "Chilling."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEBOX
-msgid "Spoil not, food supplies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICECREAM
-msgid "We dream of ice cream."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEHAT
-msgid "This should keep us cool."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEHOUND
-msgid "He has a chilling look in his eyes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEPACK
-msgid "It's fuzzy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICESTAFF
-msgid "It makes me feel funny."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSANITYROCK.ACTIVE
-msgid "Move, stupid rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSANITYROCK.INACTIVE
-msgid "I wonder what that does."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.INSPECTSELF
-msgid "Ah! I'm a monster! Haha, we're just kidding."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.JAMMYPRESERVES
-msgid "Ew... sticky fingies."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.JELLYBEAN
-msgid "Will they grow into candy beanstalks?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KABOBS
-msgid "Foods on a stick!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KILLERBEE.GENERIC
-msgid "Uh oh, run!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KILLERBEE.HELD
-msgid "I hope it doesn't escape."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUS
-msgid "That meanie imprisoned those deer!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUS_SACK
-msgid "Presents?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KLAUSSACKKEY
-msgid "I think maybe this goes somewhere."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KNIGHT
-msgid "Wow! That's complicated clockwork."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KNIGHT_NIGHTMARE
-msgid "Goodnight, good knight."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KOALEFANT_SUMMER
-msgid "Maybe it's lost."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KOALEFANT_WINTER
-msgid "We finally found it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KRAMPUS
-msgid "Give us back our things!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.KRAMPUS_SACK
-msgid "We could put more in but we're scared to touch the stuff he left inside."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LANTERN
-msgid "The sun's trapped in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND
-msgid "Ouch! Burnies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK2
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK3
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK4
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK5
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK6
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK7
-msgid "Wow! A rock!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE
-msgid "Sizzling hot!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_COCOON
-msgid "Being all froze up probably isn't comfy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG.GENERIC
-msgid "Maybe I can make it hatch?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG_CRACKED.COLD
-msgid "Poor egg. It looks cold."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_EGG_CRACKED.COMFY
-msgid "The egg seems happy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.CONTENT
-msgid "Happy lavae!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.GENERIC
-msgid "It's my friend."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.HUNGRY
-msgid "Poor hungry lavae."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.STARVING
-msgid "It looks starving!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_TOOTH
-msgid "What a weird tooth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVASPIT.COOL
-msgid "Looks safe now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVASPIT.HOT
-msgid "Too hot for us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF
-msgid "Where did that come from?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LEIF_SPARSE
-msgid "Where did that come from?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LICHEN
-msgid "It likes it down here."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIFEINJECTOR
-msgid "I hate taking my medicine!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTBULB
-msgid "Bright and delicious."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTER
-msgid "Lighter than what?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNING_ROD.CHARGED
-msgid "It looks all glowy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNING_ROD.GENERIC
-msgid "This might keep us safe."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOAT.CHARGED
-msgid "It's all glowy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOAT.GENERIC
-msgid "My father kept goats."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOATHORN
-msgid "This might make a good weapon."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LITTLE_WALRUS
-msgid "He has anger in his eyes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGLOG
-msgid "This log has a face."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE
-msgid "Hello, Mr. Tree!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.BURNING
-msgid "So much for our arts and crafts!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.GENERIC
-msgid "That's a log of wood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUCY
-msgid "If we talk to it will it talk back?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUMPY_SAPLING
-msgid "Weird little plant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUREPLANT
-msgid "What a colorful plant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LUREPLANTBULB
-msgid "I wish we could learn to generate meat."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MALE_PUPPET
-msgid "He doesn't look like he's having much fun."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE
-msgid "The skin is all seared."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_ACTIVE
-msgid "You're a bad friend!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_COOKED
-msgid "The meeping had to stop."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKE_PLANTED
-msgid "That's a funny looking plant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANDRAKESOUP
-msgid "We fall asleep in the bath too!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MANRABBIT_TAIL
-msgid "We feel lucky, oh so lucky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAPSCROLL
-msgid "There's nothing on it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLE
-msgid "Maybe we should take up sculpting."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEBEAN
-msgid "Bean there, done that!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEBEAN_SAPLING
-msgid "You can plant anything in the ground!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLEPILLAR
-msgid "Nothing lasts forever on its own."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLESHRUB
-msgid "That's a weird shape for a bush."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARBLETREE
-msgid "I hope it doesn't fall on us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.BURNING
-msgid "It will be gone soon!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.GENERIC
-msgid "Hope we don't fall on that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_BUSH.PICKED
-msgid "That hurt our hands."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_PLANT
-msgid "That's a thirsty plant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.BURNING
-msgid "It's extra dangerous now!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.BURNT
-msgid "Its growing days are over."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.CHOPPED
-msgid "Axes can solve all tree-related problems!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.GENERIC
-msgid "A harsh tree for harsh conditions."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELL
-msgid "That jerk tricked us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLHEAD
-msgid "Imagine the trouble he has buying hats!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLLIGHT
-msgid "Well, these would've been handy before."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLLOCK
-msgid "It's missing something."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLPHONOGRAPH
-msgid "We could listen to that forever!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MAXWELLTHRONE
-msgid "That throne makes our skin crawl."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT
-msgid "Some fire would spice this up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEAT_DRIED
-msgid "That worked better than expected."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATBALLS
-msgid "I used to make these with grandpa!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.BURNT
-msgid "Fire takes all."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DONE
-msgid "Food time!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DRYING
-msgid "Is it done yet? I'm hungry."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.DRYINGINRAIN
-msgid "It's hard to dry when it's raining."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.GENERIC
-msgid "It's not doing us much good empty!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERM
-msgid "I would've thought they would bathe more often!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHEAD.BURNT
-msgid "I wonder who that was."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHEAD.GENERIC
-msgid "A waste of food."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHOUSE.BURNT
-msgid "It's in worse shape than before!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MERMHOUSE.GENERIC
-msgid "Smells fishy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINERHAT
-msgid "A handy light for our head."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINIFAN
-msgid "It cools us when we run, how nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN.GENERIC
-msgid "That looks nice!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN.UNDRAWN
-msgid "Can someone lend us a pencil?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINISIGN_ITEM
-msgid "Let's build it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAUR
-msgid "Wear that frown upside down."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAURCHEST
-msgid "What a big treasure box!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAURHORN
-msgid "It's quite tender."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.ABOVEGROUND
-msgid "Hello little guy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.HELD
-msgid "Are you comfy?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.UNDERGROUND
-msgid "Come out and play!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLEHAT
-msgid "It sees for miles and miles."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLEHILL
-msgid "Hidey-hole."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONKEY
-msgid "He just wants to learn!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONKEYBARREL
-msgid "Did you hear something?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERLASAGNA
-msgid "Mmm!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERMEAT
-msgid "Smells foul."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERMEAT_DRIED
-msgid "It's really chewy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.BROKEN
-msgid "It's broke."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.GENERIC
-msgid "I wonder what it wants?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.MOONSTAFF
-msgid "Bright sticky stick!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.STAFFED
-msgid "Something else needs to happen, right?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.WRONGSTAFF
-msgid "I don't think it wanted that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.CAVE
-msgid "The moon can't fit in a cave! I think."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.GENERIC
-msgid "Hey, Ms. Wicker! How come we can still see the moon?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_FULL
-msgid "Wow! Full moon!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_NEW
-msgid "New moon! Neat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_WANE
-msgid "The moon is shrinking!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONDIAL.NIGHT_WAX
-msgid "The moon is growing!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCK_PIECES
-msgid "Oh... We don't like this!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKCRATER
-msgid "Haha. It's heavy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONROCKNUGGET
-msgid "Neat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSE
-msgid "She doesn't look at all pleased to see us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSE_NESTING_GROUND
-msgid "For its babies' sleepytime."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOOSEEGG
-msgid "That would make a huge breakfast!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO.GENERIC
-msgid "Shoo!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITO.HELD
-msgid "We should just squish you."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSQUITOSACK
-msgid "Maybe we can put the blood back in?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOSSLING
-msgid "Hungry little guys."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOUND.DUG
-msgid "Maybe that was too mean."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOUND.GENERIC
-msgid "Our loot sense is tingling."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTIPLAYER_PORTAL
-msgid "It's pretty... pretty scary!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTITOOL_AXE_PICKAXE
-msgid "Double duty."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.BURNT
-msgid "Fire's dangerous, I guess."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.EMPTY
-msgid "There aren't any mushrooms."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.LOTS
-msgid "They look happy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.ROTTEN
-msgid "It's all yucky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.SNOWCOVERED
-msgid "You look chilly."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.SOME
-msgid "Aw, they're so little."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.STUFFED
-msgid "Wow! So many mushrooms!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.BURNT
-msgid "Well that's no fun-gus."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.OFF
-msgid "It still needs to be turned on."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT.ON
-msgid "It's giving off a nice light."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.BURNT
-msgid "Aw. It was kinda growing on us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.OFF
-msgid "Maybe the night won't be as scary now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_LIGHT2.ON
-msgid "We love all the colors!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMBOMB
-msgid "Explodey fungus!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMHAT
-msgid "It's a cap cap!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMSPROUT.BURNT
-msgid "We should have chopped it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMSPROUT.GENERIC
-msgid "I think it's doing something bad!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_MEDIUM.BLOOM
-msgid "Hahah! Wow, it smells so bad!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_MEDIUM.GENERIC
-msgid "It's upsettingly large."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_SMALL.BLOOM
-msgid "It's all round and squishy now!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_SMALL.GENERIC
-msgid "Bigger than a normal mushroom."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL.BLOOM
-msgid "It sounds so funny!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL.GENERIC
-msgid "How did it get so big?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHTREE_TALL_WEBBED
-msgid "This one looks friendly!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTLIGHT
-msgid "It makes our skin crawl."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.CALM
-msgid "Everything's dandy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.DAWN
-msgid "Return to us, day!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.NOMAGIC
-msgid "Not much magic here."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.STEADY
-msgid "Stable, for now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WANING
-msgid "Magic go down the hole."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WARN
-msgid "Something's brewing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARE_TIMEPIECE.WAXING
-msgid "It's getting magickier!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMAREFUEL
-msgid "It's cold and slippery."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMARELIGHT
-msgid "Not exactly my kind of nightlight."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTSTICK
-msgid "Night light, night bright!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTSWORD
-msgid "Are you seeing this too?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NITRE
-msgid "What are we supposed to do with this?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ONEMANBAND
-msgid "We need to practice more."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.OPALPRECIOUSGEM
-msgid "We see eight million eyes reflecting back at us. Neat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.OPALSTAFF
-msgid "Whew. Gotta be careful where you point it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEAMULET
-msgid "Many legs make light work, and so does this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEGEM
-msgid "Orange you glad we found you, gem?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGEMOONEYE
-msgid "This rock helps me find my friends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ORANGESTAFF
-msgid "Teleportation gives us a chance to rest all our feet."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANDORASCHEST
-msgid "Stylish storage."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PANFLUTE
-msgid "A well constructed instrument."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PAPYRUS
-msgid "We could do our homework."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PENGUIN
-msgid "Where do they live the rest of the year?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PERD
-msgid "Come back! I just want to eat you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PEROGIES
-msgid "It does not look like pie..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETALS
-msgid "How colorful."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETALS_EVIL
-msgid "They make our head hurt."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETRIFIED_TREE
-msgid "It's all stone and no bark."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PHLEGM
-msgid "It's a boogie!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE
-msgid "Rocks will be ours!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGGUARD
-msgid "We wouldn't want to cross that one."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGGYBACK
-msgid "It holds so much stuff!"
-msgstr ""
-
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHEAD.BURNT
 msgid "Gross."
 msgstr "Dégoûtant."
 
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHEAD.GENERIC
-msgid "We just wanted to be friends."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.BURNT
-msgid "Not so fancy now, pig!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.FULL
-msgid "I can see a pig through the window!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.GENERIC
-msgid "A tall skinny house for a short fat pig."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGHOUSE.LIGHTSOUT
-msgid "Why do they hate me?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGKING
-msgid "King of the bullies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.DEAD
-msgid "He won't bully us any more."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.FOLLOWER
-msgid "I never knew we could be friends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.GENERIC
-msgid "Aw, you're no fun."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.GUARD
-msgid "They look angry."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.WEREPIG
-msgid "He's all furry now!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGSKIN
-msgid "Take that!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGTENT
-msgid "Little pig, little pig, let me in!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGTORCH
-msgid "If only we could get closer."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PINECONE
-msgid "It's bursting with life."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PINECONE_SAPLING
-msgid "Grow, grow!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PITCHFORK
-msgid "A good tool to play in the dirt."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.GENERIC
-msgid "What will blossom?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.GROWING
-msgid "Is it done yet?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.READY
-msgid "We grew it together!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANT_NORMAL.WITHERED
-msgid "It's all dried out and dead."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANTMEAT
-msgid "It's all squishy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLANTMEAT_COOKED
-msgid "It smells kind of rotten."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.ATTACKER
-msgid "%s looks mean."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.FIRESTARTER
-msgid "%s, you lit a fire!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.GENERIC
-msgid "Hey! Hi %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.GHOST
-msgid "Don't worry, %s, we'll find you a heart!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.MURDERER
-msgid "Meanie! Get'em!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PLAYER.REVIVER
-msgid "%s is super nice to ghosts."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE
-msgid "I didn't expect this to grow."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE_COOKED
-msgid "It's good for us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POND
-msgid "Water doesn't go well with our fur."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POND_ALGAE
-msgid "Just a normal pond plant."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POOP
-msgid "Doodoo."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POTTEDFERN
-msgid "Mum would like this nice fern."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POWCAKE
-msgid "Mum never let me have these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN
-msgid "That's a huge pumpkin!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_COOKED
-msgid "It's all warm now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_LANTERN
-msgid "Just like we used to make at home!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKIN_SEEDS
-msgid "We could grow something with these."
-msgstr ""
-
 #: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PUMPKINCOOKIE
 msgid "Yum!"
 msgstr "Miam!"
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEAMULET
-msgid "Did you hear something?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEGEM
-msgid "I can see knowledge swimming inside."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEMOONEYE
-msgid "Now we won't need to leave a trail of breadcrumbs!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBIT.GENERIC
-msgid "We just want to play!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBIT.HELD
-msgid "He's ours now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOLE.GENERIC
-msgid "Come out! We just want to be friends."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOLE.SPRING
-msgid "I hope they're okay in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOUSE.BURNT
-msgid "A little overdone and overlarge."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOUSE.GENERIC
-msgid "Just like grandpa said, \"You live in what you eat.\""
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINCOAT
-msgid "Dry fur is the best fur."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINHAT
-msgid "It'll keep the water out of your fur."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINOMETER.BURNT
-msgid "I don't think that's accurate."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAINOMETER.GENERIC
-msgid "It must be powered by magic."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RATATOUILLE
-msgid "Do we have to eat our veggies?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RAZOR
-msgid "I watched my father use one of these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_CAP
-msgid "It smells funny."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_CAP_COOKED
-msgid "It smells better now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.GENERIC
-msgid "Ready for the taking!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.INGROUND
-msgid "We can't get at it like that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RED_MUSHROOM.PICKED
-msgid "I think some spores remain."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REDGEM
-msgid "It feels warm, even on the coldest nights."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REDMOONEYE
-msgid "That rock needs a nap. Its eye is all red!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.BURNING
-msgid "Those burn quickly!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.GENERIC
-msgid "I bet those would be useful."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REEDS.PICKED
-msgid "Only stems remain."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REFLECTIVEVEST
-msgid "Safety first!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RELIC.BROKEN
-msgid "Smashed beyond repair."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RELIC.GENERIC
-msgid "These haven't been used in a while."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB.BURNT
-msgid "I think it's broken."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB.GENERIC
-msgid "It's like a science lab in here!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB2.BURNT
-msgid "All our work... gone."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB2.GENERIC
-msgid "Father used to work on something like that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB3.BURNT
-msgid "The fires care not for magic."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB3.GENERIC
-msgid "We should be careful around that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB4.BURNT
-msgid "Smells like cooking."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESEARCHLAB4.GENERIC
-msgid "Did I just hear a squeak?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTATUE.BURNT
-msgid "It will be of no use to us in that state."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTATUE.GENERIC
-msgid "It's a giant doll of our friend!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RESURRECTIONSTONE
-msgid "Some sort of religious monument maybe?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.REVIVER
-msgid "I think it loves me."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN.GENERIC
-msgid "Red is my favorite color!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN.HELD
-msgid "Held snug in our pockets."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN_WINTER.GENERIC
-msgid "What pretty white feathers."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN_WINTER.HELD
-msgid "Let's name it \"Francis\"."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBOT_PUPPET
-msgid "I don't think they're having fun."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK
-msgid "We'll need to mine it before we can use it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_CHARCOAL
-msgid "Big, crumbly rock."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE.GENERIC
-msgid "Ice can be useful."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE.MELTED
-msgid "Puddle!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_ICE_MELTED
-msgid "Puddle!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.GENERIC
-msgid "This lava's all dried up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.LOW
-msgid "It's a little less cozy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.NORMAL
-msgid "Cozy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_LIGHT.OUT
-msgid "It looks like it might break."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_MOON
-msgid "Neat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_PETRIFIED_TREE
-msgid "It's all stone and no bark."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_PETRIFIED_TREE_OLD
-msgid "It's all stone and no bark."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKS
-msgid "None of these look like they would skip well."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKY
-msgid "Snip snap!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROOK
-msgid "Who made these things!?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROOK_NIGHTMARE
-msgid "You can't rook us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROPE
-msgid "We could tie stuff up with this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROTTENEGG
-msgid "Ew!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROYAL_JELLY
-msgid "It's goopy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUBBLE
-msgid "Rocks from an old city."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINS_BAT
-msgid "We will, we will, smash you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINS_RUBBLE
-msgid "It looks broken."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RUINSHAT
-msgid "And now we are king."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_BASIC
-msgid "We ride!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_RACE
-msgid "It's a saddle made out of spidersnacks!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLE_WAR
-msgid "We'll have lots of fun riding on this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SADDLEHORN
-msgid "Leaves the beast nakey."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SALTLICK
-msgid "We really regret licking it. Blech."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SANITYROCK.ACTIVE
-msgid "It's in our way."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SANITYROCK.INACTIVE
-msgid "Something about this rock feels off."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.BURNING
-msgid "So bright!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.DISEASED
-msgid "Maybe it needs some chicken soup?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.DISEASING
-msgid "Are you okay, lil sapling?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.GENERIC
-msgid "These sure grow slowly."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.PICKED
-msgid "Don't worry lil guy, it'll grow back!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.WITHERED
-msgid "I think the heat broke it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNING
-msgid "Someone should address this."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.BURNT
-msgid "He got dressed down."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCARECROW.GENERIC
-msgid "Let's play dress up!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCORCHED_SKELETON
-msgid "They're probably fine."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.BLOCK
-msgid "Oh! There's so many possibilities!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.BURNT
-msgid "Aww. Can we make another one?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.EMPTY
-msgid "I always wanted pottery lessons!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTINGTABLE.SCULPTURE
-msgid "Wow! It looks great!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.COVERED
-msgid "That looks really nice!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.FINISHED
-msgid "There! All better!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.READY
-msgid "I think it's stuck in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPBODY.UNCOVERED
-msgid "Where's your head, mister?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_BISHOPHEAD
-msgid "I think it's looking at us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.COVERED
-msgid "I think it really ties the island together."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.FINISHED
-msgid "You look great!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.READY
-msgid "I think it's stuck in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTBODY.UNCOVERED
-msgid "Peekaboo, monster!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_KNIGHTHEAD
-msgid "Did someone lose this?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.COVERED
-msgid "It's a bit scary, but we don't like to judge."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED
-msgid "Oh! That piece was his nose."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.READY
-msgid "I think it's stuck in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED
-msgid "It was hiding!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKNOSE
-msgid "Looks like a... cactus? No, that's not right."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEEDS
-msgid "A small life trapped within. My sympathies."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEEDS_COOKED
-msgid "Their growing days are over."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SENTRYWARD
-msgid "Woah! I bet it sees so far!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEWING_KIT
-msgid "Mum used to handle all of our sewing."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWDIGGER
-msgid "Sometimes scary things are nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHADOWHEART
-msgid "Why does it make me feel so bad?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHOVEL
-msgid "Maybe we can tunnel our way out?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROOM_SKIN
-msgid "Haha! Yuck!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.BURNT
-msgid "We can't take a nap in that!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SIESTAHUT.GENERIC
-msgid "Is it nap time?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SILK
-msgid "It's so smooth!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON
-msgid "Hello? Are you alright?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.DEFAULT
-msgid "Oh no, %s! %s must have really hurt them!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.FEMALE
-msgid "Oh no, %s! %s must have really hurt her!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.MALE
-msgid "Oh no, %s! %s must have really hurt him!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON_PLAYER.ROBOT
-msgid "Oh no, %s! %s must have really hurt them!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKETCH
-msgid "We need somewhere to make it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKULLCHEST
-msgid "Who knows what could be hiding in there!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPER
-msgid "Hairy tongue thing!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPER_PELT
-msgid "It's like a tiny rug."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURPERPELT
-msgid "It's like a tiny rug."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLE
-msgid "We'll slaughter that slurtle."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLE_SHELLPIECES
-msgid "Maybe that was a little too rough."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLEHAT
-msgid "A solid helmet."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLEHOLE
-msgid "Slimy and rocky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLESLIME
-msgid "Slime-time!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.GENERIC
-msgid "Could this be a friend for us?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.HUNGRY
-msgid "I can see its tummy rumble."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLBIRD.STARVING
-msgid "Poor thing. It looks so hungry!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT
-msgid "A couple more'll make a morsel meal!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SMALLMEAT_DRIED
-msgid "It'll keep longer this way."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SNURTLE
-msgid "Let's snuff out that snurtle."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPAT
-msgid "Maybe it just needs a cuddle!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPEAR
-msgid "We should stick things with the pointy part."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPEAR_WATHGRITHR
-msgid "Pointy ouchies!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.DEAD
-msgid "Another lost friend."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.GENERIC
-msgid "Spiders understand us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.SLEEPING
-msgid "Aww! I think it's having a dream."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_DROPPER
-msgid "Our friends live up there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_HIDER
-msgid "Friends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_SPITTER
-msgid "Lay down some web for us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.DEAD
-msgid "Forgive us, brother."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.GENERIC
-msgid "He will protect us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER_WARRIOR.SLEEPING
-msgid "They're so cute when they sleep."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERDEN
-msgid "Looks cozy in there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDEREGGSACK
-msgid "A portable friendship pod!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERGLAND
-msgid "I won't think about where it came from."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHAT
-msgid "Very upsetting..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHOLE
-msgid "We could stand to live there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERHOLE_ROCK
-msgid "We could stand to live there."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDERQUEEN
-msgid "Mommy-Longlegs?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPOILED_FOOD
-msgid "Blech!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_MEDIUM
-msgid "Our favorite color! Red!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_MEDIUM_INV
-msgid "If we stare at it we'll turn to stone!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_SMALL
-msgid "That's green, our favoritest color!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_SMALL_INV
-msgid "If we lick it we'll turn to wood!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_TALL
-msgid "Blue! That's our favorite color!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_TALL_INV
-msgid "If we eat it we'll turn to water!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFF_TORNADO
-msgid "We'll huff and we'll puff."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFFCOLDLIGHT
-msgid "Woah! The cold makes all our hairs stand up!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAFFLIGHT
-msgid "Cozy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAGEHAND.AWAKE
-msgid "Definitely not a spider!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STAGEHAND.HIDING
-msgid "Is there a spider friend rustling beneath?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE
-msgid "Rocks, underground?! Shocking."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_FULL
-msgid "Rocks, underground?! Shocking."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_LOW
-msgid "Rocks, underground?! Shocking."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_MED
-msgid "Rocks, underground?! Shocking."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL
-msgid "Pointy rocks, underground?! Simply stunning."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_FULL
-msgid "Pointy rocks, underground?! Simply stunning."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_LOW
-msgid "Pointy rocks, underground?! Simply stunning."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STALAGMITE_TALL_MED
-msgid "Pointy rocks, underground?! Simply stunning."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.GENERIC
-msgid "Solid marble!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.TYPE1
-msgid "Nice sword!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.TYPE2
-msgid "It looks real lifelike, but it's all cold to touch."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEGLOMMER.EMPTY
-msgid "Take that, rock bug!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEGLOMMER.GENERIC
-msgid "A statue of some weird bug."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEHARP
-msgid "Someone took the head."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUEMAXWELL
-msgid "We're still a little mad at him. But only a little."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STEELWOOL
-msgid "Scratchy, like father's beard!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STINGER
-msgid "We should be careful, we could poke an eye out!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STRAWHAT
-msgid "Keeps the sun out of all eight of your eyes."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STUFFEDEGGPLANT
-msgid "We will stuff ourself with eggyplants!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SWEATERVEST
-msgid "It itches and fits funny."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TAFFY
-msgid "Candy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRD
-msgid "Look at those legs!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG
-msgid "Did I hear a meep?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_COOKED
-msgid "Smells great!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.COLD
-msgid "It's shivering!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.GENERIC
-msgid "I think it's hatching!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.HOT
-msgid "It'll boil if it doesn't cool down soon."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.LONG
-msgid "Looks like an egg."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDEGG_CRACKED.SHORT
-msgid "Did that egg just move?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDNEST.GENERIC
-msgid "This could feed us for days!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TALLBIRDNEST.PICKED
-msgid "Where is the egg?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.GENERIC
-msgid "It's getting old so fast!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.HUNGRY
-msgid "It looks hungry!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TEENBIRD.STARVING
-msgid "I think it's starving!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEBASE.GEMS
-msgid "It needs something to focus the power."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEBASE.VALID
-msgid "Seems ready to use."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.ACTIVE
-msgid "We could use this to visit new worlds!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.GENERIC
-msgid "I can hear the sounds of another world!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.LOCKED
-msgid "It still won't work!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BASE.PARTIAL
-msgid "I don't think we're done yet!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BOX
-msgid "The power in this box is unimaginable."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_CRANK
-msgid "A crank that will stand up to punishment."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_POTATO
-msgid "It looks like this goes with something..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_RING
-msgid "I think there are more parts."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELESTAFF
-msgid "Just looking at it makes my brain feel fuzzy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENT.BURNT
-msgid "The fire destroyed it."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENT.GENERIC
-msgid "It's way past our bedtime!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE
-msgid "We would be mad if something stepped on us, too."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_GARDEN
-msgid "It's huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR
-msgid "It's huge!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR_ARM
-msgid "Aw, it's just a baby!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR_HOLE
-msgid "Oooh let's jump in!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLESPIKE
-msgid "We could hit stuff with the pointy bits!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLESPOTS
-msgid "Spotty!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.THULECITE
-msgid "Fancy rocks!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.THULECITE_PIECES
-msgid "Small bits of fancy rock."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.GENERIC
-msgid "Yikes! That's a big frog!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.RAGE
-msgid "Toadally terrifying!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.EMPTY
-msgid "Do you think we'd fit?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.GENERIC
-msgid "Purple! It's purple!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL_CAP.INGROUND
-msgid "I think it needs help getting out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOPHAT
-msgid "Like father used to wear."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TORCH
-msgid "This should keep us safe."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAILMIX
-msgid "Crunchy and healthy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRANSISTOR
-msgid "A very well crafted doodad!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP
-msgid "Now we can catch some food!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH
-msgid "This will hurt our enemies."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRAP_TEETH_MAXWELL
-msgid "Who would put this here? We could get hurt!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREASURECHEST.BURNT
-msgid "It won't be very useful to us now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREASURECHEST.GENERIC
-msgid "We could keep our toys in it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TREECLUMP
-msgid "It's in our way!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_1
-msgid "We could still play with these, if we're extra creative."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_10
-msgid "Just like grandpa wears!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_11
-msgid "Beep boop!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_12
-msgid "Feels leathery."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_13
-msgid "It's watching us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_14
-msgid "We want some hot cocoa."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_15
-msgid "We don't know how to play this game."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_16
-msgid "We don't know how to play this game."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_17
-msgid "Spork. Spork. Spork. Hahaha!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_18
-msgid "We like toys."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_19
-msgid "This toy doesn't work very well."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_2
-msgid "A voiceless instrument."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_20
-msgid "Can we dig in the dirt with this?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_21
-msgid "Mom had one of these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_22
-msgid "It's kinda like our webbing!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_23
-msgid "Are we supposed to blow on it?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_24
-msgid "No cookies. Yet!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_25
-msgid "It's stinky."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_26
-msgid "You're our cuppy cup!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_27
-msgid "This is stupid."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_28
-msgid "Maybe Maxwell will teach us how to play."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_29
-msgid "Maybe Maxwell will teach us how to play."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_3
-msgid "It won't come undone!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_30
-msgid "We can't follow the rules if we don't know them."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_31
-msgid "We can't follow the rules if we don't know them."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_32
-msgid "It's not bouncy. What's the point?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_33
-msgid "It's a friend for our finger!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_34
-msgid "The monkey probably needed that."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_35
-msgid "I kinda wanna drink what's left, but he won't let me."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_36
-msgid "We've already got some, thanks."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_37
-msgid "Maybe we should hide this before someone gets hurt."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_4
-msgid "It's watching us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_5
-msgid "Yay, a new toy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_6
-msgid "Maybe we'll find a use for these."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_7
-msgid "Another toy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_8
-msgid "I miss bath toys."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_9
-msgid "None of them match!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_COOKED
-msgid "Looks filling!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_SUMMER
-msgid "We took his nose!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNK_WINTER
-msgid "He blue his nose."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNKVEST_SUMMER
-msgid "It's so puffy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRUNKVEST_WINTER
-msgid "You're always supposed to wear a jacket!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TUMBLEWEED
-msgid "Who knows what that tumbleweed has picked up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_BADLANDS
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CARPETFLOOR
-msgid "Carpets! Just like in our old house."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CAVE
-msgid "Some pretty average earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_CHECKERFLOOR
-msgid "Fancy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DECIDUOUS
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DESERTDIRT
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DIRT
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_DRAGONFLY
-msgid "Warm and cozy ground!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FOREST
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS
-msgid "Some pretty average earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS_GREEN
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_FUNGUS_RED
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_GRASS
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_MARSH
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_MUD
-msgid "Some pretty average earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_ROAD
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_ROCKY
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SANDY
-msgid "Some ground that we dug up."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SAVANNA
-msgid "Some grassy dirt."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_SINKHOLE
-msgid "Some pretty average earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_UNDERROCK
-msgid "Some pretty average earth."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURF_WOODFLOOR
-msgid "If we put these on the ground we'll have a floor!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TURKEYDINNER
-msgid "Like mother used to make, in the before time!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_NUT
-msgid "The tree wants to come out and play!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_NUT_SAPLING
-msgid "Little tree!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_OLD
-msgid "It's too flimsy to climb."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.BURNING
-msgid "What a senseless waste of firewood."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.BURNT
-msgid "Only we can prevent forest fires."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.CHOPPED
-msgid "Would a cool bandage make you feel better, Mr. Tree?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.DISEASED
-msgid "Maybe it needs some chicken soup?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGYTREE.GENERIC
-msgid "We want to climb it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGS
-msgid "Does anyone want to play stick swords with us??"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UMBRELLA
-msgid "Should keep some of the rain out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UNAGI
-msgid "It was easy to make with all our arms."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UNIMPLEMENTED
-msgid "What a crummy item."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAFFLES
-msgid "Yummy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY.BURNT
-msgid "It didn't keep the fire out."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY.GENERIC
-msgid "This will keep all sorts of things out!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_HAY_ITEM
-msgid "Some grass tied together."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_MOONROCK
-msgid "We feel safe behind this wall... it makes us sleepy..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_MOONROCK_ITEM
-msgid "We thought \"moon\" meant something totally different!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_RUINS
-msgid "Looks sturdy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_RUINS_ITEM
-msgid "Wow, these are really heavy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_STONE
-msgid "Bow to the base-building masters!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_STONE_ITEM
-msgid "These should come in handy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD.BURNT
-msgid "Turns out wood burns really well."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD.GENERIC
-msgid "Like a pillow fort, but wood!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALL_WOOD_ITEM
-msgid "They won't keep us safe if we keep holding them."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS
-msgid "I don't think he wants to be friends with us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_CAMP.EMPTY
-msgid "I think someone was here."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_CAMP.GENERIC
-msgid "Maybe they'll invite us in?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUS_TUSK
-msgid "Maybe we can use it for arts and crafts."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WALRUSHAT
-msgid "Reminds me of grandpa."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.BURNING
-msgid "Fire fire fire!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.BURNT
-msgid "We can't hide in there any more."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARDROBE.GENERIC
-msgid "We like to pop out and scare our friends sometimes. Haha!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WARG
-msgid "I don't think that puppy is very happy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WASPHIVE
-msgid "Sounds like anger!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERBALLOON
-msgid "We have to be gentle with our claws if we try to hold it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON
-msgid "Looks tasty!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON_COOKED
-msgid "Anything can be cooked!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELON_SEEDS
-msgid "If we eat these will they grow inside us?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELONHAT
-msgid "This is the best idea anyone's ever had."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATERMELONICLE
-msgid "Just the thing for a hot summer day."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.ATTACKER
-msgid "%s looks really mean. And tough."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.FIRESTARTER
-msgid "You're supposed to put fires out when you're finished."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.GENERIC
-msgid "Wow, %s! You're lookin' tough!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.GHOST
-msgid "Wow! Even as a ghost you're super tough, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.MURDERER
-msgid "We're not scared of pointy spearsticks! Fight!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHR.REVIVER
-msgid "%s is a super valiant lady."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WATHGRITHRHAT
-msgid "Haha! It's way too big for us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXPAPER
-msgid "Why have paper you can't draw on?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.ATTACKER
-msgid "%s looks eviler than usual..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.FIRESTARTER
-msgid "Don't burn our things please. We like them."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.GENERIC
-msgid "Hi %s! Lookin' dapper!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.GHOST
-msgid "Aw %s, no one deserves to be stuck like that!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.MURDERER
-msgid "You're the real monster, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELL.REVIVER
-msgid "Wow, %s is really nice! He's helping people!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WAXWELLJOURNAL
-msgid "I don't think we should play with that..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.ATTACKER
-msgid "Ah! We look scary when we're mad!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.FIRESTARTER
-msgid "Spiderfriend, why did you light that fire?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.GENERIC
-msgid "A spiderfriend! Hi %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.GHOST
-msgid "Oh no! We should help ourselves!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.MURDERER
-msgid "We won't let you hurt our friends!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBER.REVIVER
-msgid "%s likes helping ghosts, just like us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WEBBERSKULL
-msgid "How did this get here?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.ATTACKER
-msgid "Are you angry at me, %s?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.FIRESTARTER
-msgid "Uhh, uh-oh, let's play a different game, %s."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.GENERIC
-msgid "Hi %s! Let's play, okay?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.GHOST
-msgid "Don't worry, %s! Our spider friends will help bring you back!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.MURDERER
-msgid "We're taking my friendship bracelet back!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WENDY.REVIVER
-msgid "%s always plays nice with ghosts."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.ATTACKER
-msgid "Maybe we can talk this out?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.FIRESTARTER
-msgid "You were just supposed to mime lighting it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.GENERIC
-msgid "Hey! Hi %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.GHOST
-msgid "We'll help you get back on your feet, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.MURDERER
-msgid "You're supposed to play nice!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WES.REVIVER
-msgid "%s is super nice. And his makeup's cool!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WETGOOP
-msgid "Experimenting is fun!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WHIP
-msgid "Oooh, it makes so much noise!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.ATTACKER
-msgid "Uh-oh! We're in trouble with Ms. %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.FIRESTARTER
-msgid "Ms. %s! We already had our combustion lessons!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.GENERIC
-msgid "Hello Ms. %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.GHOST
-msgid "Don't worry Ms. %s, we'll find you a heart!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.MURDERER
-msgid "Killer! Does this mean we don't have to do our homework?!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.REVIVER
-msgid "Ms. %s is very smart and wise. She's neat!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.ATTACKER
-msgid "%s's playing with fire. Err..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.FIRESTARTER
-msgid "Another fire? Well, as long as you're happy..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.GENERIC
-msgid "Hi %s! How's Bernie?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.GHOST
-msgid "Uh-oh! Does that hurt, %s?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.MURDERER
-msgid "You're gonna get burned, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILLOW.REVIVER
-msgid "%s's like a burnt marshmallow. Crispy on the outside, gooey on the inside!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.ATTACKER
-msgid "Why are you being so mean, %s?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.FIRESTARTER
-msgid "Uh... Is your hair smoking, %s?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.GENERIC
-msgid "Hi %s! Nice weather we're having!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.GHOST
-msgid "You're looking much paler than usual, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.MURDERER
-msgid "Meanie! We will stop you no matter what!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WILSON.REVIVER
-msgid "%s doesn't believe in ghosts, but he believes in us!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD1
-msgid "I won't eat it. It's our friend now."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD2
-msgid "Icy icy icing!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD3
-msgid "Eat twenty candy canes! There's no candy shame!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD4
-msgid "Yuck! What is that??"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD5
-msgid "Haha, Wendy! Watch our Woodie impression!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD6
-msgid "Where are the plums?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD7
-msgid "Apple juice?! Yes!!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD8
-msgid "It makes our claws and tummy so warm."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD9
-msgid "It's really, really good!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENT
-msgid "Can we get a boost? We can't reach the treetop."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTBOSS
-msgid "Wow, that one looks great!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_ORNAMENTLIGHT
-msgid "We want to keep one for ourselves."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.BURNING
-msgid "Nooo! The tree!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.BURNT
-msgid "Aw... Why..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.CANDECORATE
-msgid "Winter's Feast! It's Winter's Feast!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.YOUNG
-msgid "It still needs to grow some more."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREESTAND.BURNT
-msgid "Aw... Why..."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREESTAND.GENERIC
-msgid "It's just a boring planter without a tree."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTERHAT
-msgid "Mum always said I should take a cap with me."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.BURNT
-msgid "How come everything turns to ashes? It's sad."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTEROMETER.GENERIC
-msgid "How hot is it, Mr. Thermal Measurer?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.ATTACKER
-msgid "Hey %s, you look upset about something."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.FIRESTARTER
-msgid "%s, no!! Fire can hurt you!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.GENERIC
-msgid "Hi %s! Have you been working out?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.GHOST
-msgid "I'm sure you're the strongest ghost, %s. Let's get a heart though."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.MURDERER
-msgid "You're just a big bully!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOLFGANG.REVIVER
-msgid "%s's nice! I wish he'd stop messing up our head fur, though."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.ATTACKER
-msgid "%s looks angry today."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.BEAVER
-msgid "%s's being gnawghty."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.BEAVERGHOST
-msgid "Can I pet your ears or will our claws swish through?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.FIRESTARTER
-msgid "Um. I think you lit a fire, %s."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.GENERIC
-msgid "Hi %s, hi Lucy!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.GHOST
-msgid "Wanna go heart-hunting with us, %s?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.MURDERER
-msgid "You need to treat people nicer, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.REVIVER
-msgid "%s is gruff, but nice."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.DIRT
-msgid "Some dirt, big whoop."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.PLANT
-msgid "What could possibly go wrong?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORM.WORM
-msgid "Creepy crawly!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE.GENERIC
-msgid "I think that thing is alive."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE.OPEN
-msgid "I've been in worse."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMHOLE_LIMITED
-msgid "Gross, that one looks sick!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT
-msgid "It's gushing with light."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT_LESSER
-msgid "I dare you to eat it!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WORMLIGHT_PLANT
-msgid "What could possibly go wrong?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.ATTACKER
-msgid "We thought you were a friendly robot, %s!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.FIRESTARTER
-msgid "Maybe they didn't know fire is dangerous to us."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.GENERIC
-msgid "Hi %s! You look very non-organic today!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.GHOST
-msgid "Bad day destroying humans, %s? Tomorrow will be better!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.MURDERER
-msgid "Let us introduce you to our world wide web! Sh-sha!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WX78.REVIVER
-msgid "Aww. We'd beep-boop %s on the nose if they had one!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWAMULET
-msgid "Nice and glowy."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWGEM
-msgid "Yellow-bellied gem."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWMOONEYE
-msgid "Even with all our eyes, we'd still lose in a staring contest."
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.YELLOWSTAFF
-msgid "We summon you, warm ball of light!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_GENERIC
-msgid "Can we play with it?"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_SMOLDERING
-msgid "Uh-oh. I smell burning!"
-msgstr ""
-
-#: STRINGS.CHARACTERS.WEBBER.DESCRIBE_TOODARK
-msgid "All our eyes stopped working!"
-msgstr ""
 
 #: STRINGS.CHARACTERS.WEBBER.EAT_FOOD.TALLBIRDEGG_CRACKED
 msgid "What if it hatches in our belly?"
@@ -59268,11 +54574,11 @@ msgstr "Accomplautel"
 
 #: STRINGS.NAMES.ACORN
 msgid "Birchnut"
-msgstr "Boultaigne"
+msgstr "Bouleau"
 
 #: STRINGS.NAMES.ACORN_COOKED
 msgid "Roasted Birchnut"
-msgstr "Boultaigne rôtie"
+msgstr "Bouleau grillé"
 
 #: STRINGS.NAMES.ACORN_SAPLING
 msgid "Birchnut Sapling"
@@ -59500,7 +54806,7 @@ msgstr "Baies"
 
 #: STRINGS.NAMES.BERRIES_COOKED
 msgid "Roasted Berries"
-msgstr "Baies rôties"
+msgstr "Baies grillés"
 
 #: STRINGS.NAMES.BERRIES_JUICY
 msgid "Juicy Berries"
@@ -59740,7 +55046,7 @@ msgstr "Carotte"
 
 #: STRINGS.NAMES.CARROT_COOKED
 msgid "Roasted Carrot"
-msgstr "Carotte rôtie"
+msgstr "Carotte grillé"
 
 #: STRINGS.NAMES.CARROT_PLANTED
 msgid "Carrot"
@@ -60128,7 +55434,7 @@ msgstr "Graines d'aubergine"
 
 #: STRINGS.NAMES.EVERGREEN
 msgid "Evergreen"
-msgstr ""
+msgstr "Pins"
 
 #: STRINGS.NAMES.EVERGREEN_SPARSE
 msgid "Lumpy Evergreen"
@@ -61436,7 +56742,7 @@ msgstr "Croquette"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_014
 msgid "Roast Vegetables"
-msgstr "Légumes rôtis"
+msgstr "Légumes grillé"
 
 #: STRINGS.NAMES.QUAGMIRE_FOOD_015
 msgid "Meatloaf"
@@ -70210,7 +65516,7 @@ msgid "Options"
 msgstr "Options"
 
 #: STRINGS.UI.MAINSCREEN.PLAY
-msgid "Play!"
+msgid "Play!"	
 msgstr "Jouer!"
 
 #: STRINGS.UI.MAINSCREEN.PLAY_ON_STEAM
@@ -73308,7 +68614,7 @@ msgstr "Le serveur requiert un mot de passe"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.PHASES.DAY
 msgid "Daytime"
-msgstr ""
+msgstr "Le jour"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.PHASES.DUSK
 msgid "Dusk"
@@ -73352,11 +68658,11 @@ msgstr "Actualise..."
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.REPORT
 msgid "Report Server"
-msgstr ""
+msgstr "Signaler Serveur"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.REPORTREASON
 msgid "Reason for Report"
-msgstr ""
+msgstr "Motif du Signalement"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.SEARCH
 msgid "Search:"
@@ -73452,7 +68758,7 @@ msgstr "Tags"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.VERSIONCHECK
 msgid "Version Matches:"
-msgstr ""
+msgstr "Version Correspond"
 
 #: STRINGS.UI.SERVERLISTINGSCREEN.VIEWMODS
 msgid "View Mods"
@@ -73680,15 +68986,15 @@ msgstr "Supprimer"
 
 #: STRINGS.UI.SLOTDETAILSSCREEN.MODSDISABLEDWARNINGBODY_EXPLANATION
 msgid "Some mods used on this save are disabled. Loading with disabled mods could cause issues. Disabled mods:"
-msgstr ""
+msgstr "Certains mods utilisés sur cette sauvegarde sont désactivés. Le chargement avec les mods désactivés pourrait causer des problèmes. mods désactivés :"
 
 #: STRINGS.UI.SLOTDETAILSSCREEN.MODSDISABLEDWARNINGBODY_QUESTION
 msgid "Continue without enabling the above mods first?"
-msgstr ""
+msgstr "Continuer sans activer les mods ci-dessus ?"
 
 #: STRINGS.UI.SLOTDETAILSSCREEN.MODSDISABLEDWARNINGBODY_TRUNCATEDLIST
 msgid "... (list truncated)"
-msgstr ""
+msgstr "... (liste tronquée)"
 
 #: STRINGS.UI.SLOTDETAILSSCREEN.MODSDISABLEDWARNINGTITLE
 msgid "WARNING - Mods Disabled"
@@ -73707,20 +69013,16 @@ msgid "Slot"
 msgstr "Emplacement"
 
 #: STRINGS.UI.STARTADVENTURE.BODY
-msgid "You're about to step into a long, arduous journey to find Maxwell. You will need to survive 5 worlds, each randomly generated to present a new challenge.\n"
-"\n"
-"Should you die, you will start back at this portal, but lose all your progress on the journey."
+msgid "You're about to step into a long, arduous journey to find Maxwell. You will need to survive 5 worlds, each randomly generated to present a new challenge.\n\nShould you die, you will start back at this portal, but lose all your progress on the journey."
 msgstr ""
 
 #: STRINGS.UI.STARTADVENTURE.BODY_TEST
-msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n"
-"\n"
-"You're about to step into a long, arduous journey to find Maxwell. You will need to survive 5 worlds, each randomly generated to present a new challenge."
+msgid "If you die during adventure mode, you will return back to this portal where you may restart the adventure.\n\nYou're about to step into a long, arduous journey to find Maxwell. You will need to survive 5 worlds, each randomly generated to present a new challenge."
 msgstr ""
 
 #: STRINGS.UI.STARTADVENTURE.NO
 msgid "Not Yet"
-msgstr ""
+msgstr "Pas encore"
 
 #: STRINGS.UI.STARTADVENTURE.TITLE
 msgid "Doorway to Adventure!"
@@ -73740,11 +69042,11 @@ msgstr ""
 
 #: STRINGS.UI.TELEPORTNO
 msgid "Stay here."
-msgstr ""
+msgstr "Rester ici"
 
 #: STRINGS.UI.TELEPORTTITLE
 msgid "Journey onwards?"
-msgstr ""
+msgstr "Partir en voyage ?"
 
 #: STRINGS.UI.TELEPORTYES
 msgid "Lets Go!"
@@ -74368,3 +69670,462 @@ msgstr "Très"
 msgid "Withered"
 msgstr "Flétrie"
 
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ASH.REMAINS_EYE_BONE
+msgid "The eyebone didn't survive the trip."
+msgstr "Le globe oculaire n'a pas survécu au voyage."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.FULLHONEY
+msgid "It's full to brimming."
+msgstr "C'est plein à craquer"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEBOX.READY
+msgid "It's full to brimming."
+msgstr "C'est plein à craquer"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BEEFALO.NAKED
+msgid "Shaved you good!"
+msgstr "Bien rasé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BIGFOOT
+msgid "AAAAAAAAAAH!"
+msgstr "AAAAAAAAAAH!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BOOK_SLEEP
+msgid "It's... beddy-bye time..."
+msgstr "C'est ... l'heure du coucher ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.HIGH
+msgid "That fire is huge!"
+msgstr "Ce feu est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CANARY.GENERIC
+msgid "That's a yellow bird."
+msgstr "C'est un oiseau jaune."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARTOGRAPHYDESK.BURNT
+msgid "That's probably why I wasn't allowed in father's study."
+msgstr "C'est probablement pour cela que je n'ai pas eu le droit d'entrer dans le bureau de mon père."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE
+msgid "It's plugged up."
+msgstr "C'est bouché."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAVE_ENTRANCE_RUINS
+msgid "It's plugged up."
+msgstr "C'est bouché."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
+msgid "It's... alive?!"
+msgstr "C'est vivant?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
+msgid "It's... alive?!"
+msgstr "C'est vivant?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_PIPE.GENERIC
+msgid "Bubbles!"
+msgstr "Bulles!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
+msgid "It's... alive?!"
+msgstr "C'est vivant?!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIRE.HIGH
+msgid "That fire is huge!"
+msgstr "Ce feu est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COLDFIREPIT.HIGH
+msgid "That fire is huge!"
+msgstr "Ce feu est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.N
+msgid "North!"
+msgstr "Nord!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.COMPASS.NW
+msgid "Northwest!"
+msgstr "Nord Ouest!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.GENERIC
+msgid "It's a mystery."
+msgstr "C'est un mystère."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DIVININGRODBASE.UNLOCKED
+msgid "It's ready to go."
+msgstr "C'est prêt à partir."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DURIAN_COOKED
+msgid "No sir, I don't like it."
+msgstr "Non monsieur, je n'aime pas ça."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ENDTABLE.GENERIC
+msgid "Looks great!"
+msgstr "C'est génial!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.HIGH
+msgid "That fire is huge!"
+msgstr "Ce feu est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FOSSIL_STALKER.GENERIC
+msgid "Needs more bones!"
+msgstr "Besoin de plus d'os!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GARGOYLE_WEREPIG
+msgid "Yikes."
+msgstr "Beurk."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GREEN_MUSHROOM.PICKED
+msgid "It's gone now."
+msgstr "C'est parti maintenant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_10
+msgid "Candy candy candy!"
+msgstr "Bonbons bonbons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HALLOWEENCANDY_8
+msgid "Candy candy candy!"
+msgstr "Bonbons bonbons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH_FISHBOWL.GENERIC
+msgid "He's our new friend."
+msgstr "C'est notre nouvel ami."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.HUTCH_FISHBOWL.WAITING
+msgid "He was our new friend."
+msgstr "C'était notre nouvel ami."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ICEPACK
+msgid "It's fuzzy!"
+msgstr "C'est flou!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK2
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK3
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK4
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK5
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVA_POND_ROCK6
+msgid "Wow! A rock!"
+msgstr "Hou la la! Un rocher!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LAVAE_PET.GENERIC
+msgid "It's my friend."
+msgstr "C'est mon ami."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIGHTNINGGOAT.CHARGED
+msgid "It's all glowy."
+msgstr "C'est tout brillant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LIVINGTREE
+msgid "Hello, Mr. Tree!"
+msgstr "Bonjour, monsieur arbre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MARSH_TREE.BURNING
+msgid "It's extra dangerous now!"
+msgstr "C'est très dangereux maintenant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MEATRACK.BURNT
+msgid "Fire takes all."
+msgstr "Le feu prend tout."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MINOTAURHORN
+msgid "It's quite tender."
+msgstr "C'est assez tendre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOLE.ABOVEGROUND
+msgid "Hello little guy!"
+msgstr "Bonjour petit gars!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONKEYBARREL
+msgid "Did you hear something?"
+msgstr "Avez-vous entendu quelque chose?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERMEAT_DRIED
+msgid "It's really chewy."
+msgstr "C'est vraiment moelleux."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOONBASE.BROKEN
+msgid "It's broke."
+msgstr "C'est cassé."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MOUND.DUG
+msgid "Maybe that was too mean."
+msgstr "C'était peut-être trop méchant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.ROTTEN
+msgid "It's all yucky."
+msgstr "C'est tout dégueulasse."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOM_FARM.SOME
+msgid "Aw, they're so little."
+msgstr "Aw, ils sont si petits."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MUSHROOMHAT
+msgid "It's a cap cap!"
+msgstr "C'est une casquette!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PIGMAN.GENERIC
+msgid "Aw, you're no fun."
+msgstr "Aw, tu n'es pas amusant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.POMEGRANATE_COOKED
+msgid "It's good for us!"
+msgstr "C'est bon pour nous!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PURPLEAMULET
+msgid "Did you hear something?"
+msgstr "Avez-vous entendu quelque chose?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROBIN.GENERIC
+msgid "Red is my favorite color!"
+msgstr "Le rouge c'est ma couleur préférée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SCULPTURE_ROOKBODY.UNCOVERED
+msgid "It was hiding!"
+msgstr "C'était caché!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SKELETON
+msgid "Hello? Are you alright?"
+msgstr "Bonjour? Est-ce que tu vas bien?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SLURTLE_SHELLPIECES
+msgid "Maybe that was a little too rough."
+msgstr "C'était peut-être un peu trop dur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPORE_TALL
+msgid "Blue! That's our favorite color!"
+msgstr "Bleu! C'est notre couleur préférée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.STATUE_MARBLE.TYPE1
+msgid "Nice sword!"
+msgstr "Belle épée!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TAFFY
+msgid "Candy!"
+msgstr "Bonbons!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TELEPORTATO_BOX
+msgid "The power in this box is unimaginable."
+msgstr "Le pouvoir dans cette boîte est inimaginable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_GARDEN
+msgid "It's huge!"
+msgstr "C'est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR
+msgid "It's huge!"
+msgstr "C'est énorme!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TENTACLE_PILLAR_ARM
+msgid "Aw, it's just a baby!"
+msgstr "Aw, c'est juste un bébé!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TOADSTOOL.GENERIC
+msgid "Yikes! That's a big frog!"
+msgstr "Beurk! C'est une grosse grenouille!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TRINKET_27
+msgid "This is stupid."
+msgstr "C'est bête."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGGY_OLD
+msgid "It's too flimsy to climb."
+msgstr "C'est trop fragile pour monter."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.UNAGI
+msgid "It was easy to make with all our arms."
+msgstr "C'était facile à faire avec plusieurs bras."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WICKERBOTTOM.GENERIC
+msgid "Hello Ms. %s!"
+msgstr "Bonjour madame% s!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD4
+msgid "Yuck! What is that??"
+msgstr "Beurk! Qu'est-ce que c'est??"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_FOOD9
+msgid "It's really, really good!"
+msgstr "C'est vraiment très bon!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.BURNING
+msgid "Nooo! The tree!"
+msgstr "Nooo! L'arbre!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREE.BURNT
+msgid "Aw... Why..."
+msgstr "Aw ... Pourquoi ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WINTER_TREESTAND.BURNT
+msgid "Aw... Why..."
+msgstr "Aw ... Pourquoi ..."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.WOODIE.ATTACKER
+msgid "%s looks angry today."
+msgstr "% s a l'air en colère aujourd'hui."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CUTGRASS
+msgid "We should be able to weave this, too."
+msgstr "Nous devrions pouvoir tisser ça aussi."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBIT.GENERIC
+msgid "We just want to play!"
+msgstr "Nous voulons juste jouer!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.DECIDUOUSTREE.GENERIC
+msgid "My, what nice foliage you have."
+msgstr "Quelle beau feuillage que tu as."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PINECONE
+msgid "It's bursting with life."
+msgstr "C'est plein de vie"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.LOG.GENERIC
+msgid "That's a log of wood."
+msgstr "C'est une bûche de bois."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CAMPFIRE.LOW
+msgid "The fire's getting a touch low."
+msgstr "Le feu commence à s'éteindre."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FIREPIT.NORMAL
+msgid "Nice and warm."
+msgstr "Chaud et Confortable."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.RABBITHOLE.GENERIC
+msgid "Come out! We just want to be friends."
+msgstr "Sorte de la! Nous voulons juste devenir ton amis."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ACORN
+msgid "Tree or food, there's something inside."
+msgstr "Arbre ou nourriture, il y a quelque chose à l'intérieur."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.NIGHTMAREFUEL
+msgid "It's cold and slippery."
+msgstr "C'est froid et glissant."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK_MOON
+msgid "Neat!"
+msgstr "Chic!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLINT
+msgid "Oh, to feel a sharp edge against my skin."
+msgstr "Oh, Je peut sentir un bord tranchant contre ma peau."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCKS
+msgid "None of these look like they would skip well."
+msgstr "Aucun d’entre eux est bien rond."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES
+msgid "Juice sacks."
+msgstr "Sacs de jus."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SEEDS
+msgid "A small life trapped within. My sympathies."
+msgstr "Une petite vie piégée à l'intérieur. Mes condoléances."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SPIDER.GENERIC
+msgid "Spiders understand us."
+msgstr "Les araignées nous comprennent."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PETALS
+msgid "How colorful."
+msgstr "Comme c'est coloré."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MULTIPLAYER_PORTAL
+msgid "It's pretty... pretty scary!"
+msgstr "C'est joli ... assez effrayant!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.GRASS.GENERIC
+msgid "Grass, next best thing to silk."
+msgstr "L'herbe, la meilleure chose après la soie"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.ROCK
+msgid "We'll need to mine it before we can use it."
+msgstr "Nous aurons besoin de le cassé avant de pouvoir l'utiliser."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.PICKAXE
+msgid "Rocks will be ours!"
+msgstr "Les roches seront les nôtres!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.TWIGS
+msgid "Does anyone want to play stick swords with us??"
+msgstr "Est-ce que quelqu'un veut jouer des épées avec nous?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRIES_JUICY
+msgid "Yum! Let's find more!"
+msgstr "Miam! Trouvons en plus!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT
+msgid "I sort of miss being forced to eat these."
+msgstr "Ça me fait mal d'etre obligé de manger ça.."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.MONSTERMEAT
+msgid "Smells foul."
+msgstr "Ça sent mauvais."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.SAPLING.GENERIC
+msgid "These sure grow slowly."
+msgstr "Celles-ci poussent lentement"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.EVERGREEN.GENERIC
+msgid "Pines are always greener on the other side of the fence."
+msgstr "Les pins sont toujours plus verts de l'autre côté de la clôture."
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARROT_PLANTED
+msgid "Bury your head, carrot."
+msgstr "Enterre ta tête, carotte"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.PICKED
+msgid "See you soon, berries!"
+msgstr "A bientôt, baies!"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.FLOWER.GENERIC
+msgid "We agree that flowers are nice."
+msgstr "Nous sommes d'accord les fleurs sont belles"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BLUE_MUSHROOM.INGROUND
+msgid "Hiding, are we?"
+msgstr "Nous cacher?"
+
+#: STRINGS.CHARACTERS.WEBBER.DESCRIBE.BERRYBUSH.GENERIC
+msgid "Ripe for the pickin'."
+msgstr "Mûr pour la cueillette."
+
+#: STRINGS.NAMES.WUMPA_PLANTED 
+msgid "Wumpa Crate"
+msgstr "Caisse de Wumpa"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WUMPA_PLANTED 
+msgid "Can I smash this crate?"
+msgstr "Je peux casser cette caisse?"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WUMPA 
+msgid "Do I get an extra life if I collect a hundred?"
+msgstr "Est-ce que je gagne une vie supplémentaire si j'en ramasse cent?"
+
+#: STRINGS.NAMES.WUMPA_COOKED
+msgid "Roasted Wumpa"
+msgstr "Wump grillé"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.WUMPA_COOKED
+msgid "Never seen this in my game!"
+msgstr "Je n'ai jamais vu ça dans ce jeu !"
+
+#: STRINGS.CHARACTERS.GENERIC.DESCRIBE.AKUAKU
+msgid "I could have sworn I saw this tiki mask from another game."
+msgstr "J'aurais juré avoir vu ce masque dans un autre jeu."

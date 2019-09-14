@@ -4,6 +4,8 @@
 ```lua
 Ajout:
 [ ] Finir de traduire tout les entré "A réviser"
+[ ] Finir de traduire les voiceline de WEBBER
+[x] Traduction du mod [DST] Crash Bandicoot 3.0.0 (workshop-382501575)
 ```
 ---
 ### Mise a jour 3.0
