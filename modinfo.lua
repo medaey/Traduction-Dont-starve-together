@@ -12,7 +12,7 @@ api_version = 10
 --icon_atlas = "modicon.xml"
 --icon = "modicon.tex"
 
-server_filter_tags = {"FR", "French", "Francais", "Medaey", "team-68.fr"}
+server_filter_tags = {"FR", "fr", "French", "Francais" , "Medaey", "team-68.fr"}
 
 dont_starve_compatible = true
 dst_compatible = true

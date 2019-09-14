@@ -14,7 +14,6 @@ Ajout:
 - Traduction du Mod [DST] Crash Bandicoot
 - 136 Entré Traduite
 - 2 Nouvelle entré Ajouter
-
 ```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
