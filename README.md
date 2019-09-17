@@ -3,8 +3,18 @@
 <p align="center">Traduction en Français pour le jeu Don't Starve Together.</p>
 <p align="center">
 <a href="https://github.com/leghort/Traduction-Dont-starve-together/releases"><img src="https://img.shields.io/github/v/release/leghort/Traduction-Dont-starve-together"></a>
-<a href="https://github.com/leghort/Traduction-Dont-starve-together/commits/master"><img src="https://img.shields.io/badge/traduction-28%25-orange"></a>
+<a href="https://github.com/leghort/Traduction-Dont-starve-together/commits/master"><img src="https://img.shields.io/badge/traduction-94%25-green"></a>
 </p>
+
+```lua
+Statistique:
+| Statistique sur la Traduction | Éléments     | Mots  | Caractères |
+| ----------------------------- | ------------ | ----- | ---------- |
+| À réviser                     |     ‪49 (0 %) |   855 |     10513  |
+| Traduit                       | ‪25988 (94 %) |153083 |    884727  |
+| Non traduit                   |   ‪1653 (6 %) |  5200 |     28264  |
+| Total                         | 27690(100 %) |159138 |    923504  |
+```
 
 ## Installation:
 1) S'abonner au mod sur le steam Workshop "https://steamcommunity.com/sharedfiles/filedetails/?id=1462877774"

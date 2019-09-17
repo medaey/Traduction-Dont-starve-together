@@ -1,25 +1,17 @@
 [TOC]
 
-## Todolist Version 3.0.1 Workshop-1462877774
-```lua
-Ajout:
-[ ] Finir de traduire tout les entré "A réviser"
-[ ] Finir de traduire les voiceline de WEBBER
-[x] Traduction du mod [DST] Crash Bandicoot 3.0.0 (workshop-382501575)
-```
----
-### Mise a jour 3.0.1
-Ajout:
+## Todolist Version 3.1.0 Workshop-1462877774
 
-- Traduction du Mod [DST] Crash Bandicoot
-- 136 Entré Traduite
-- 2 Nouvelle entré Ajouter
+Ajout:
+- 20810 Entré traduite
+- 9310 nouvelle entrées
+
 ```lua
 Statistique:
 | Statistique sur la Traduction | Éléments     | Mots  | Caractères |
 | ----------------------------- | ------------ | ----- | ---------- |
-| À réviser                     |   1556 (8 %) |  8918 |     50030  |
-| Traduit                       |  ‪5178 (28 %) | 19461 |    115406  |
-| Non traduit                   | 11646 (63 %) | 64340 |    346608  |
-| Total                         | 18380(100 %) | 89867 |    486819  |
+| À réviser                     |     ‪49 (0 %) |   855 |     10513  |
+| Traduit                       | ‪25988 (94 %) |153083 |    884727  |
+| Non traduit                   |   ‪1653 (6 %) |  5200 |     28264  |
+| Total                         | 27690(100 %) |159138 |    923504  |
 ```

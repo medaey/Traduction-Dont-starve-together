@@ -1,5 +1,5 @@
 -- Thanks to Some1 and Klei forums
-LoadPOFile("fr_FR.po", "fr")
+LoadPOFile("french.po", "fr")
 
 STRINGS=GLOBAL.STRINGS
 
