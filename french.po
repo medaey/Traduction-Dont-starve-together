@@ -94699,7 +94699,7 @@ msgstr "Batte-jambon"
 
 #: STRINGS.NAMES.HAMMER
 msgid "Hammer"
-msgstr "Détruire"
+msgstr "Marteau"
 
 #: STRINGS.NAMES.HAMMER_MJOLNIR
 msgid "Forging Hammer"
@@ -108003,7 +108003,7 @@ msgstr "Batte-jambon"
 
 #: STRINGS.SKIN_NAMES.emoji_hammer
 msgid "Hammer"
-msgstr "Détruire"
+msgstr "Marteau"
 
 #: STRINGS.SKIN_NAMES.emoji_heart
 msgid "Heart"
@@ -113047,7 +113047,7 @@ msgstr "Batte-jambon"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.HAMMER
 msgid "Hammer"
-msgstr "Détruire"
+msgstr "Marteau"
 
 #: STRINGS.SKIN_TAG_CATEGORIES.ITEM.HEATROCK
 msgid "Thermal Stone"
@@ -120543,7 +120543,7 @@ msgstr "Activer"
 
 #: STRINGS.UI.MODSSCREEN.LOADING
 msgid "Loading"
-msgstr "Charge"
+msgstr "Chargement"
 
 #: STRINGS.UI.MODSSCREEN.MODLINK
 msgid "Mod Page"
@@ -121791,7 +121791,7 @@ msgstr "%s a quitté la partie."
 
 #: STRINGS.UI.NOTIFICATION.LOADING
 msgid "Loading"
-msgstr "Charge"
+msgstr "Chargement"
 
 #: STRINGS.UI.NOTIFICATION.LOGIN
 msgid "Logging in"
