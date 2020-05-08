@@ -30,7 +30,7 @@
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
 
 ## Télécharger la dernière version
-<a href=/archive/master.zip><img src=".README.assets/Download-Button.png"></a>
+<a href=/leghort/Traduction-Dont-starve-together/archive/master-dev.zip><img src=".README.assets/Download-Button.png"></a>
 
 ## Installation (Manuel):
 
