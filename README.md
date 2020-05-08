@@ -34,7 +34,7 @@
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
 
 ## Télécharger la dernière version
-<a href=https://github.com/leghort/Traduction-Dont-starve-together/releases/latest><img src=".README.assets/download-button.png"></a>
+<a href=https://github.com/leghort/Traduction-Dont-starve-together/releases/latest><img src=".README.assets/Download-Button.png"></a>
 
 ## Installation (Manuel):
 
