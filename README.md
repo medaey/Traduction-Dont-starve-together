@@ -30,11 +30,9 @@
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
 
 ## Télécharger la dernière version
-![../../archive/master-dev.zip](.README.assets/Download-Button.png)
-
+[![Download-Button.png](.README.assets/Download-Button.png)](../../archive/master-dev.zip)
 
 ## Installation (Manuel):
-
 1) **[Télécharger la dernière version](../../archive/master-dev.zip)**</br>
 2) Dans votre bibliothèque steam faite un clic droit sur le jeu.
 3) Puis un clic sur ![image-20200508173436208](.README.assets/image-20200508173436208.png)
