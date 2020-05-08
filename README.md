@@ -30,11 +30,12 @@
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
 
 ## Télécharger la dernière version
-<a href=../../archive/master-dev.zip><img src=".README.assets/Download-Button.png"></a>
+![../../archive/master-dev.zip](.README.assets/Download-Button.png)
+
 
 ## Installation (Manuel):
 
-1) **[Télécharger la dernière version](https://github.com/leghort/Traduction-Dont-starve-together//releases/latest)**</br>
+1) **[Télécharger la dernière version](../../archive/master-dev.zip)**</br>
 2) Dans votre bibliothèque steam faite un clic droit sur le jeu.
 3) Puis un clic sur ![image-20200508173436208](.README.assets/image-20200508173436208.png)
 4) Dans l'onglet ![image-20200508173522828](.README.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.README.assets/image-20200508173536176.png)
@@ -65,5 +66,5 @@ Statistique:
 ```
 
 ## Contact
-<a href=https://discord.gg/PT4NFkk><img src="https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/discord-logo.png"></a>
-<a href=mailto:medaey@hotmail.com><img src="https://raw.githubusercontent.com/leghort/Traduction-Griftlands/master/assets-README/mail.png"></a>
+<a href=https://discord.gg/PT4NFkk><img src=".README.assets/discord-logo.png"></a>
+<a href=mailto:medaey@hotmail.com><img src=".README.assets/mail.png"></a>
