@@ -15,12 +15,9 @@
 
 ## Installation:
 1) Aller sur le steam Workshop **https://steamcommunity.com/sharedfiles/filedetails/?id=1462877774**
-
 2) Abonner vous au mod et cliquer sur le bouton ![image-20200508180307749](.README.assets/image-20200508180307749.png)
-
 3) Lancer le jeu et allez dans le menu ![image-20200508180110612](.README.assets/image-20200508180110612.png)
 4) Cocher le mods ![image-20200508175918520](.README.assets/image-20200508175918520.png)
-
 5) Clic sûr ![image-20200508180034553](.README.assets/image-20200508180034553.png)
 6) Le jeu va redémarrer en français.
 
@@ -28,7 +25,6 @@
 
 ## Désinstallation:
 1) Aller sur le steam Workshop **https://steamcommunity.com/sharedfiles/filedetails/?id=1462877774**
-
 2) Désabonner-vous du mod et cliquer sur le bouton![image-20200508180458563](.README.assets/image-20200508180458563.png)
 
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
@@ -39,16 +35,16 @@
 ## Installation (Manuel):
 
 1) **[Télécharger la dernière version](https://github.com/leghort/Traduction-Dont-starve-together//releases/latest)**</br>
-1) Dans votre bibliothèque steam faite un clic droit sur le jeu.
-2) Puis un clic sur ![image-20200508173436208](.README.assets/image-20200508173436208.png)
-3) Dans l'onglet ![image-20200508173522828](.README.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.README.assets/image-20200508173536176.png)
-4) Ouvrer le dossier ![image-20200508173554399](.README.assets/image-20200508173554399.png)
-5) Déposer le dossier ![image-20200508175706376](.README.assets/image-20200508175706376.png) dans votre dossier ![image-20200508175819303](.README.assets/image-20200508175819303.png) du jeu
-6) Lancer le jeu et aller dans le menu ![image-20200508180110612](.README.assets/image-20200508180110612.png)
-7) Cocher le mods ![image-20200508175918520](.README.assets/image-20200508175918520.png)
+2) Dans votre bibliothèque steam faite un clic droit sur le jeu.
+3) Puis un clic sur ![image-20200508173436208](.README.assets/image-20200508173436208.png)
+4) Dans l'onglet ![image-20200508173522828](.README.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.README.assets/image-20200508173536176.png)
+5) Ouvrer le dossier ![image-20200508173554399](.README.assets/image-20200508173554399.png)
+6) Déposer le dossier ![image-20200508175706376](.README.assets/image-20200508175706376.png) dans votre dossier ![image-20200508175819303](.README.assets/image-20200508175819303.png) du jeu
+7) Lancer le jeu et aller dans le menu ![image-20200508180110612](.README.assets/image-20200508180110612.png)
+8) Cocher le mods ![image-20200508175918520](.README.assets/image-20200508175918520.png)
 
-8) Clic sûr ![image-20200508180034553](.README.assets/image-20200508180034553.png)
-8) Le jeu va redémarrer en français.
+9) Clic sûr ![image-20200508180034553](.README.assets/image-20200508180034553.png)
+10) Le jeu va redémarrer en français.
 
 ## Désinstallation (Manuel):
 1) Dans votre bibliothèque steam faite un clic droit sur le jeu.
