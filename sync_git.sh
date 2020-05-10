@@ -35,10 +35,10 @@ for ((i=0; i<$COUNT; i++))
 do
   NAME=${!MAIN_ARRAY[i]:0:1}
   VALUE=${!MAIN_ARRAY[i]:1:1}
-  "git checkout ${NAME}"
-  "git rebase ${VALUE}"
-  "pull origin"
-  "push origin"
+  git checkout ${NAME}
+  git rebase ${VALUE}
+  pull origin
+  push origin
 done
 ((cpt+=1))
 
