@@ -64,5 +64,5 @@ Statistique:
 ```
 
 ## Contact
-<a href=https://discord.gg/PT4NFkk><img src=".README.assets/discord-logo.png"></a>
+<a href=https://discord.gg/pzf47ZE><img src=".README.assets/discord-logo.png"></a>
 <a href=mailto:medaey@hotmail.com><img src=".README.assets/mail.png"></a>
