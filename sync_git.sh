@@ -2,7 +2,7 @@
 #!/bin/sh
 # Script pour synchroniser les branches entre elle, les erreurs de commit sont à gérer manuellement
 
-VERSION="1.0"
+VERSION="2.0"
 AUTHOR="Medaey"
 
 # Boucle while pour executer 2 fois le code
@@ -37,10 +37,12 @@ do
   VALUE=${!MAIN_ARRAY[i]:1:1}
   git checkout ${NAME}
   git rebase ${VALUE}
+  set timeout 1
   pull origin
+  set timeout 1
   push origin
 done
-((cpt+=1))
 
+((cpt+=1))
 done
 exit 0
