@@ -37,10 +37,8 @@ do
   VALUE=${!MAIN_ARRAY[i]:1:1}
   git checkout ${NAME}
   git rebase ${VALUE}
-  set timeout 1
-  pull origin
-  set timeout 1
-  push origin
+  git pull origin
+  git push origin
 done
 
 ((cpt+=1))
