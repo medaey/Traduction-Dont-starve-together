@@ -2,45 +2,45 @@
 #!/bin/sh
 # Script pour synchroniser les branches entre elle, les erreurs de commit sont à gérer manuellement
 
-VERSION="2.0"
+VERSION="2.4"
 AUTHOR="Medaey"
+CONTRIBUTOR="Doot"
+BRANCH_LIST="branch_list.txt"
+BRANCH_LIST_DESCALER="branch_list_descaler.txt"
 
-# Boucle while pour executer 2 fois le code
-nbr=0
-while ((cpt<2))
-do
+recerper_branch="master-dev"   # La branch qui va recevoir toutes les modifications
 
-# Define each array and then add it to the main one
-SUB_0=("master-dev" "Yokta")
-SUB_1=("ArchMage" "master-dev")
-SUB_2=("lefnouss" "Archmage")
-SUB_3=("Medaey" "lefnouss")
-SUB_4=("Rafi" "Medaey")
-SUB_5=("Yokta" "Rafi")
-SUB_6=("master-dev" "Yokta")
+create_lists(){   # Liste les branch dans 2 fichiers
+  git checkout master
+  git branch -i > $BRANCH_LIST         # Récuperer la liste des branch
+  sed -i 's/ //g' $BRANCH_LIST         # Supprimer les espace
+  sed -i 's/*master//g' $BRANCH_LIST   # Supprimer *master de la list
+  sed -i 's/'$recerper_branch'//g' $BRANCH_LIST   # Supprimer $recerper_branch de la list
+  sed -i '/^$/d' $BRANCH_LIST                     # Supprimer les sauts de ligne
+  sed -i '1i'$recerper_branch'' $BRANCH_LIST      # Ajoute $recerper_branch à la list
+  sed '$d' $BRANCH_LIST > $BRANCH_LIST_DESCALER   # Clone la BRANCH_LIST et supprime le dernière ligne pour crée le fichier BRANCH_LIST_DESCALER
+  sed -i '1i'$(awk 'END {print}' $BRANCH_LIST)'' $BRANCH_LIST_DESCALER   # Déplace la dernier ligne à la 1er place
+}
 
-MAIN_ARRAY=(
-  SUB_0[@]
-  SUB_1[@]
-  SUB_2[@]
-  SUB_3[@]
-  SUB_4[@]
-  SUB_5[@]
-  SUB_6[@]
-)
+git_sync(){
+  cpt=1
+  while ((cpt<$(git branch -i | grep -c '')))   # Compte le nombre de branch dans le projet
+  do
+      git checkout $(sed -n "$cpt"p $BRANCH_LIST)
+      git rebase $(sed -n "$cpt"p $BRANCH_LIST_DESCALER)
+      git pull origin
+      git push origin
+      ((cpt+=1))
+    done
+}
 
-# Loop and print it.  Using offset and length to extract values
-COUNT=${#MAIN_ARRAY[@]}
-for ((i=0; i<$COUNT; i++))
-do
-  NAME=${!MAIN_ARRAY[i]:0:1}
-  VALUE=${!MAIN_ARRAY[i]:1:1}
-  git checkout ${NAME}
-  git rebase ${VALUE}
-  git pull origin
-  git push origin
-done
+clear_list(){
+  rm $BRANCH_LIST $BRANCH_LIST_DESCALER   #Supprime les fichiers listes
+}
 
-((cpt+=1))
-done
+# Appels des fonctions
+create_lists   # Liste les branch du projet
+git_sync       # Synchronise des branch entre elles
+git_sync       # 2éme sync pour mettre à jour de la branch $recerper_branch
+clear_list     # Suppression des fichiers listes
 exit 0
