@@ -30,10 +30,10 @@
 **⚠️** Si vous ne pouvait pas utiliser le steamworkshop, Utiliser la méthode manuel. **⚠️**
 
 ## Télécharger la dernière version
-[![Download-Button.png](.README.assets/Download-Button.png)](../../archive/master-dev.zip)
+[![Download-Button.png](.README.assets/Download-Button.png)](../../archive/master.zip)
 
 ## Installation (Manuel):
-1) **[Télécharger la dernière version](../../archive/master-dev.zip)**</br>
+1) **[Télécharger la dernière version](../../archive/master.zip)**</br>
 2) Dans votre bibliothèque steam faite un clic droit sur le jeu.
 3) Puis un clic sur ![image-20200508173436208](.README.assets/image-20200508173436208.png)
 4) Dans l'onglet ![image-20200508173522828](.README.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.README.assets/image-20200508173536176.png)
@@ -53,15 +53,7 @@
 5) Supprimer le dossier ![image-20200508175706376](.README.assets/image-20200508175706376.png)
 
 ## Statistique
-```lua
-Statistique:
-| Statistique sur la Traduction | Éléments     | Mots  | Caractères |
-| ----------------------------- | ------------ | ----- | ---------- |
-| À réviser                     |     ‪49 (0 %) |   855 |     10513  |
-| Traduit                       | ‪25988 (94 %) |153083 |    884727  |
-| Non traduit                   |   ‪1653 (6 %) |  5200 |     28264  |
-| Total                         | 27690(100 %) |159138 |    923504  |
-```
+![image-20210416142659770](.README.assets/stat.png)
 
 ## Contact
 <a href=https://discord.gg/pzf47ZE><img src=".README.assets/discord-logo.png"></a>

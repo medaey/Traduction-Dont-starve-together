@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Patch Francais [DST]"
-version = "3.1.6"
+version = "21.4.16"
 description = "Une traduction française du jeu Don't Starve Together\nainsi que certain mod.Les mods traduits en plus du jeu\nsont listé si dessous.\n\nMods traduit:\n-[DST] Crash Bandicoot\n-Chilly willy\n-San(Princess Mononoke)\n-Wilbur, The Pirate\n-Wolf [DST]\n\nPS : Ce mod a pour base la traduction de EALILY & Orka\nun grand merci a eux.\n\nVersion: "..version
 author = "ArchMage,Lenmir,Medaey,Rafi,Yokta"
 
