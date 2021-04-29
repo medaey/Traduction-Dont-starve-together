@@ -1,6 +1,6 @@
 -- This information tells other players more about the mod
 name = "Patch Francais [DST]"
-version = "21.4.29"
+version = "21.5.6"
 description = "Traduction française du jeu Don't Starve Together\nainsi que certain mod.\n\nPS : Ce mod a pour base la traduction de EALILY & Orka\nun grand merci a eux.\n\nVersion: "..version
 author = "ArchMage, Lenmir, Maze, Medaey, Rafi, Yokta"
 
