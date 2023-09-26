@@ -1,7 +1,7 @@
 -- This information tells other players more about the mod
 name = "Patch Francais [DST]"
-version = "22.11.08"
-description = "Traduction française du jeu Don't Starve Together\nainsi que certain mod.\n\nPS : Ce mod a pour base la traduction de EALILY & Orka\nun grand merci a eux.\n\nVersion: "..version
+version = "23.09.24.0244"
+description = "Traduction française du jeu Don't Starve Together\nainsi que certain mods.\n\nPS : Ce mod a pour base la traduction de EALILY & Orka\nun grand merci a eux.\n\nVersion: "..version
 author = " Medaey, ArchMage, Maze, Lenmir, Rafi, Yokta, Angelfire92"
 
 forumthread = ""
