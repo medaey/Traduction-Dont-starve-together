@@ -31,23 +31,20 @@
 
 ## Installation (Manuelle):
 1) **[Téléchargez la dernière version](../../archive/master.zip)**</br>
-2) Dans votre bibliothèque steam faites un clic droit sur le jeu.
-3) Puis un clic sur ![image-20200508173436208](.readme.assets/image-20200508173436208.png)
-4) Dans l'onglet ![image-20200508173522828](.readme.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.readme.assets/image-20200508173536176.png)
-5) Ouvrez le dossier ![image-20200508173554399](.readme.assets/image-20200508173554399.png)
-6) Déposez le dossier ![image-20200508175706376](.readme.assets/image-20200508175706376.png) dans votre dossier ![image-20200508175819303](.readme.assets/image-20200508175819303.png) du jeu.
-7) Lancez le jeu et aller dans le menu ![image-20200508180110612](.readme.assets/image-20200508180110612.png)
-8) Cochez le mods ![image-20200508175918520](.readme.assets/image-20200508175918520.png)
-
-9) Cliquez sur ![image-20200508180034553](.readme.assets/image-20200508180034553.png)
-10) Le jeu va redémarrer en français.
+2) Localisez le dossier d’installation de votre jeu Don't Starve Together.
+    - Par défaut, il se trouve dans : `C:\Program Files (x86)\Steam\steamapps\workshop\content\322330`
+    - Si votre Steam ou jeu est installé ailleurs, cherchez ce chemin dans votre dossier Steam (l'important est de trouver le dossier `steamapps\workshop\content\322330`).
+3) Placez le dossier du mod `1462877774` dans ce dossier `322330`.
+4) Cochez le mod ![image-20200508175918520](.readme.assets/image-20200508175918520.png)
+5) Cliquez sur ![image-20200508180034553](.readme.assets/image-20200508180034553.png)
+6) Le jeu va redémarrer en français.
 
 ## Désinstallation (Manuel):
-1) Dans votre bibliothèque Steam faites un clic droit sur le jeu.
-2) Puis un clic sur ![image-20200508173436208](.readme.assets/image-20200508173436208.png)
-3) Dans l'onglet ![image-20200508173522828](.readme.assets/image-20200508173522828.png) cliquez sur ![image-20200508173536176](.readme.assets/image-20200508173536176.png)
-4) Ouvrez le dossier ![image-20200508173554399](.readme.assets/image-20200508173554399.png)
-5) Supprimez le dossier ![image-20200508175706376](.readme.assets/image-20200508175706376.png)
+1) Localisez le dossier d’installation de votre jeu Don't Starve Together.
+    - Par défaut, il se trouve dans : `C:\Program Files (x86)\Steam\steamapps\workshop\content\322330`
+    - Si votre Steam ou jeu est installé ailleurs, cherchez ce chemin dans votre dossier Steam (l'important est de trouver le dossier `steamapps\workshop\content\322330`).
+2) Dans le dossier du jeu `322330` supprimer le dossier mod `1462877774`.
+3) Redémarrer le jeu.
 
 ## Télécharger la dernière version
 [![Download-Button.png](.readme.assets/Download-Button.png)](../../archive/master.zip)
